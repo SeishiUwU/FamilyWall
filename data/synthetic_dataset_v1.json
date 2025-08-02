@@ -1,0 +1,8002 @@
+[
+  {
+    "business_description": "startup for pets in Singapore",
+    "expected_domain_names": [
+      "startuppets.biz",
+      "startuppets.io",
+      "singaporeio.co"
+    ]
+  },
+  {
+    "business_description": "event planning company in Toronto",
+    "expected_domain_names": [
+      "eventplanning.co",
+      "eventify.co",
+      "companybase.net"
+    ]
+  },
+  {
+    "business_description": "event planning company in New York",
+    "expected_domain_names": [
+      "eventplanning.com",
+      "companyhub.co",
+      "eventlink.co"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in Tokyo",
+    "expected_domain_names": [
+      "cybersecurityservice.store",
+      "cybersecurityzone.io",
+      "cybersecurityservice.ai"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Toronto",
+    "expected_domain_names": [
+      "platformlink.store",
+      "microlendingplatform.co",
+      "microlendingplatform.store"
+    ]
+  },
+  {
+    "business_description": "investment firm in New York",
+    "expected_domain_names": [
+      "investmentbase.ai",
+      "newlink.biz",
+      "investmentify.store"
+    ]
+  },
+  {
+    "business_description": "youth development program in Toronto",
+    "expected_domain_names": [
+      "youthzone.biz",
+      "youthdevelopment.com",
+      "programify.ai"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Berlin",
+    "expected_domain_names": [
+      "organicio.store",
+      "skincarelink.ai",
+      "organicskincare.io"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Paris",
+    "expected_domain_names": [
+      "luxurytravel.org",
+      "agencyio.org",
+      "luxurylink.net"
+    ]
+  },
+  {
+    "business_description": "film production house in San Francisco",
+    "expected_domain_names": [
+      "filmify.org",
+      "filmproduction.ai",
+      "houselink.store"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Singapore",
+    "expected_domain_names": [
+      "developerio.biz",
+      "educationalify.org",
+      "educationalgame.net"
+    ]
+  },
+  {
+    "business_description": "food truck business in Singapore",
+    "expected_domain_names": [
+      "foodtruck.ai",
+      "foodtruck.biz",
+      "foodio.ai"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in San Francisco",
+    "expected_domain_names": [
+      "bakerypastry.ai",
+      "bakerypastry.co",
+      "bakerypastry.org"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Tokyo",
+    "expected_domain_names": [
+      "digitalmarketing.store",
+      "agencybase.io",
+      "digitalmarketing.co"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in San Francisco",
+    "expected_domain_names": [
+      "solutionsbase.io",
+      "cloudsolutions.store",
+      "cloudsolutions.ai"
+    ]
+  },
+  {
+    "business_description": "food truck business in London",
+    "expected_domain_names": [
+      "foodtruck.org",
+      "businessify.co",
+      "foodtruck.ai"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in New York",
+    "expected_domain_names": [
+      "weddingphotography.net",
+      "businessio.biz",
+      "businesszone.co"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in London",
+    "expected_domain_names": [
+      "marketplaceio.store",
+      "digitalart.io",
+      "digitalhub.ai"
+    ]
+  },
+  {
+    "business_description": "university consultancy in Paris",
+    "expected_domain_names": [
+      "parishub.store",
+      "universityconsultancy.store",
+      "universityhub.org"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in Dubai",
+    "expected_domain_names": [
+      "codingbootcamp.co",
+      "codingbootcamp.store",
+      "bootcamphub.com"
+    ]
+  },
+  {
+    "business_description": "online bookstore in London",
+    "expected_domain_names": [
+      "londonify.com",
+      "onlinebookstore.store",
+      "bookstorelink.store"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Dubai",
+    "expected_domain_names": [
+      "servicelink.co",
+      "languagetutoring.com",
+      "languagehub.biz"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in San Francisco",
+    "expected_domain_names": [
+      "photographyzone.store",
+      "weddingphotography.org",
+      "weddingphotography.com"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Toronto",
+    "expected_domain_names": [
+      "digitalart.com",
+      "artify.com",
+      "artlink.ai"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Paris",
+    "expected_domain_names": [
+      "finedining.com",
+      "diningify.net",
+      "restaurantify.biz"
+    ]
+  },
+  {
+    "business_description": "online bookstore in Toronto",
+    "expected_domain_names": [
+      "onlinebookstore.co",
+      "torontobase.biz",
+      "onlinebookstore.com"
+    ]
+  },
+  {
+    "business_description": "food truck business in New York",
+    "expected_domain_names": [
+      "foodlink.net",
+      "truckhub.org",
+      "foodtruck.ai"
+    ]
+  },
+  {
+    "business_description": "home decor shop in New York",
+    "expected_domain_names": [
+      "homedecor.co",
+      "homedecor.org",
+      "homedecor.biz"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Singapore",
+    "expected_domain_names": [
+      "solutionsio.biz",
+      "solutionshub.com",
+      "solutionshub.net"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Berlin",
+    "expected_domain_names": [
+      "serviceify.io",
+      "languagetutoring.com",
+      "languagetutoring.biz"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Paris",
+    "expected_domain_names": [
+      "organicskincare.co",
+      "organicskincare.ai",
+      "organicskincare.org"
+    ]
+  },
+  {
+    "business_description": "online bookstore in Toronto",
+    "expected_domain_names": [
+      "torontolink.org",
+      "onlinelink.ai",
+      "onlinebookstore.com"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+    "expected_domain_names": [
+      "aipoweredhealthcare.org",
+      "aipoweredhealthcare.store",
+      "aipoweredhealthcare.ai"
+    ]
+  },
+  {
+    "business_description": "environmental NGO in Toronto",
+    "expected_domain_names": [
+      "environmentalngo.org",
+      "environmentalngo.com",
+      "environmentalio.co"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Dubai",
+    "expected_domain_names": [
+      "estatehub.net",
+      "realestate.co",
+      "agencyio.biz"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Toronto",
+    "expected_domain_names": [
+      "skincarelink.biz",
+      "brandbase.co",
+      "skincarebase.com"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Paris",
+    "expected_domain_names": [
+      "veganrestaurant.co",
+      "veganify.store",
+      "veganrestaurant.store"
+    ]
+  },
+  {
+    "business_description": "investment firm in Berlin",
+    "expected_domain_names": [
+      "investmentfirm.org",
+      "berlinbase.com",
+      "investmentfirm.com"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Toronto",
+    "expected_domain_names": [
+      "torontolink.net",
+      "restaurantify.ai",
+      "veganrestaurant.co"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in San Francisco",
+    "expected_domain_names": [
+      "vrgaming.org",
+      "vrgaming.co",
+      "centerify.store"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Paris",
+    "expected_domain_names": [
+      "fastfoodchain.co",
+      "fastfoodchain.ai",
+      "fastfoodchain.org"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in San Francisco",
+    "expected_domain_names": [
+      "personalfinance.com",
+      "advisoryzone.io",
+      "personalzone.co"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Singapore",
+    "expected_domain_names": [
+      "homedecor.biz",
+      "homedecor.io",
+      "homedecor.co"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in New York",
+    "expected_domain_names": [
+      "luxurywatch.biz",
+      "watchbase.biz",
+      "luxurywatch.ai"
+    ]
+  },
+  {
+    "business_description": "car rental service in San Francisco",
+    "expected_domain_names": [
+      "carrental.biz",
+      "carrental.net",
+      "carrental.co"
+    ]
+  },
+  {
+    "business_description": "music label in San Francisco",
+    "expected_domain_names": [
+      "musiclabel.io",
+      "sanlink.store",
+      "musiclabel.net"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Paris",
+    "expected_domain_names": [
+      "podcastbase.com",
+      "productionzone.org",
+      "podcastproduction.com"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Dubai",
+    "expected_domain_names": [
+      "cleaningbase.io",
+      "homelink.com",
+      "homeify.biz"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in London",
+    "expected_domain_names": [
+      "creamio.com",
+      "creamio.biz",
+      "icecream.biz"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Paris",
+    "expected_domain_names": [
+      "mentalify.ai",
+      "mentalhealth.co",
+      "healthlink.ai"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Tokyo",
+    "expected_domain_names": [
+      "shopzone.ai",
+      "organichub.org",
+      "organiccoffee.org"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Singapore",
+    "expected_domain_names": [
+      "startupzone.ai",
+      "singaporehub.store",
+      "petslink.com"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Toronto",
+    "expected_domain_names": [
+      "studioify.biz",
+      "yogaio.com",
+      "studiozone.ai"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in San Francisco",
+    "expected_domain_names": [
+      "serviceify.io",
+      "homecleaning.biz",
+      "servicebase.com"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Paris",
+    "expected_domain_names": [
+      "videostreaming.biz",
+      "videolink.store",
+      "platformify.com"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Paris",
+    "expected_domain_names": [
+      "creamify.co",
+      "icecream.net",
+      "parlorbase.net"
+    ]
+  },
+  {
+    "business_description": "car rental service in Berlin",
+    "expected_domain_names": [
+      "carrental.store",
+      "carrental.org",
+      "servicehub.io"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in London",
+    "expected_domain_names": [
+      "languagetutoring.io",
+      "tutoringzone.org",
+      "servicehub.io"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+    "expected_domain_names": [
+      "aipoweredify.co",
+      "aipoweredhealthcare.io",
+      "aipoweredhealthcare.ai"
+    ]
+  },
+  {
+    "business_description": "coffee in Paris",
+    "expected_domain_names": [
+      "parislink.ai",
+      "coffeeparis.io",
+      "pariszone.org"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in London",
+    "expected_domain_names": [
+      "luxurytravel.org",
+      "luxurytravel.com",
+      "agencybase.com"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in San Francisco",
+    "expected_domain_names": [
+      "aiconsulting.io",
+      "aiconsulting.co",
+      "aiconsulting.biz"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Toronto",
+    "expected_domain_names": [
+      "marketplacebase.com",
+      "digitalart.com",
+      "digitalart.net"
+    ]
+  },
+  {
+    "business_description": "electronics store in London",
+    "expected_domain_names": [
+      "electronicsstore.org",
+      "electronicsstore.ai",
+      "electronicsstore.com"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Paris",
+    "expected_domain_names": [
+      "cafeify.org",
+      "gamingcafe.biz",
+      "gamingcafe.org"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Paris",
+    "expected_domain_names": [
+      "weddingphotography.store",
+      "businessio.co",
+      "weddingphotography.ai"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in London",
+    "expected_domain_names": [
+      "skincareio.org",
+      "organicskincare.ai",
+      "organicskincare.org"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in London",
+    "expected_domain_names": [
+      "seolink.com",
+      "seooptimization.com",
+      "seohub.net"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Dubai",
+    "expected_domain_names": [
+      "dubaizone.store",
+      "dubaibase.biz",
+      "startuppets.net"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Tokyo",
+    "expected_domain_names": [
+      "homebase.biz",
+      "homecleaning.net",
+      "homecleaning.io"
+    ]
+  },
+  {
+    "business_description": "coworking space in Berlin",
+    "expected_domain_names": [
+      "spacelink.io",
+      "berlinify.org",
+      "berlinlink.net"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Singapore",
+    "expected_domain_names": [
+      "homedecor.com",
+      "homeio.co",
+      "homezone.store"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in Toronto",
+    "expected_domain_names": [
+      "insurancehub.ai",
+      "torontobase.org",
+      "insurancebrokerage.biz"
+    ]
+  },
+  {
+    "business_description": "music label in Toronto",
+    "expected_domain_names": [
+      "torontozone.co",
+      "musiclabel.biz",
+      "musicio.org"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in San Francisco",
+    "expected_domain_names": [
+      "icecream.org",
+      "parlorhub.com",
+      "icecream.ai"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Tokyo",
+    "expected_domain_names": [
+      "businesszone.org",
+      "photographylink.ai",
+      "weddingify.org"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in London",
+    "expected_domain_names": [
+      "petgrooming.org",
+      "petify.co",
+      "groomingio.ai"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Singapore",
+    "expected_domain_names": [
+      "digitalzone.net",
+      "digitalzone.co",
+      "digitalart.co"
+    ]
+  },
+  {
+    "business_description": "podcast production company in San Francisco",
+    "expected_domain_names": [
+      "podcastproduction.ai",
+      "companyio.ai",
+      "podcastproduction.co"
+    ]
+  },
+  {
+    "business_description": "coffee in Tokyo",
+    "expected_domain_names": [
+      "coffeetokyo.ai",
+      "coffeebase.com",
+      "tokyobase.co"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in Berlin",
+    "expected_domain_names": [
+      "cliniczone.net",
+      "physiotherapyclinic.store",
+      "physiotherapyclinic.net"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Tokyo",
+    "expected_domain_names": [
+      "nonprofiteducation.store",
+      "nonprofiteducation.org",
+      "nonprofiteducation.biz"
+    ]
+  },
+  {
+    "business_description": "online bookstore in Berlin",
+    "expected_domain_names": [
+      "onlinebookstore.net",
+      "onlinebookstore.ai",
+      "berlinio.io"
+    ]
+  },
+  {
+    "business_description": "coffee in Singapore",
+    "expected_domain_names": [
+      "coffeesingapore.com",
+      "coffeesingapore.co",
+      "singaporelink.co"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Paris",
+    "expected_domain_names": [
+      "animalrescue.store",
+      "animalrescue.biz",
+      "animalrescue.io"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Toronto",
+    "expected_domain_names": [
+      "financehub.com",
+      "personalfinance.com",
+      "personalfinance.biz"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in Paris",
+    "expected_domain_names": [
+      "codingbootcamp.io",
+      "codingbootcamp.store",
+      "bootcampify.store"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Toronto",
+    "expected_domain_names": [
+      "homeify.co",
+      "homeio.store",
+      "homecleaning.ai"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in London",
+    "expected_domain_names": [
+      "weddingphotography.net",
+      "weddingphotography.org",
+      "weddingphotography.io"
+    ]
+  },
+  {
+    "business_description": "university consultancy in London",
+    "expected_domain_names": [
+      "universityconsultancy.net",
+      "londonzone.store",
+      "universityconsultancy.org"
+    ]
+  },
+  {
+    "business_description": "startup for pets in New York",
+    "expected_domain_names": [
+      "startupio.co",
+      "newlink.net",
+      "startuppets.biz"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Berlin",
+    "expected_domain_names": [
+      "vrgaming.io",
+      "gaminglink.co",
+      "vrgaming.com"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Singapore",
+    "expected_domain_names": [
+      "petify.com",
+      "groomingify.org",
+      "petlink.ai"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in London",
+    "expected_domain_names": [
+      "codingbootcamp.ai",
+      "codingbootcamp.io",
+      "codinglink.com"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in New York",
+    "expected_domain_names": [
+      "nutritioncoaching.org",
+      "nutritioncoaching.com",
+      "coachingzone.biz"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in Toronto",
+    "expected_domain_names": [
+      "physiotherapyclinic.biz",
+      "physiotherapyclinic.co",
+      "torontoify.store"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in Dubai",
+    "expected_domain_names": [
+      "telemedicineplatform.com",
+      "telemedicinelink.biz",
+      "dubaiify.biz"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Singapore",
+    "expected_domain_names": [
+      "streamingzone.net",
+      "videohub.ai",
+      "videostreaming.ai"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Toronto",
+    "expected_domain_names": [
+      "solutionbase.net",
+      "healthcarehub.com",
+      "aipoweredhealthcare.biz"
+    ]
+  },
+  {
+    "business_description": "electronics store in Toronto",
+    "expected_domain_names": [
+      "electronicsbase.io",
+      "storeify.store",
+      "electronicsstore.co"
+    ]
+  },
+  {
+    "business_description": "youth development program in Tokyo",
+    "expected_domain_names": [
+      "programbase.store",
+      "developmentbase.org",
+      "youthbase.co"
+    ]
+  },
+  {
+    "business_description": "electronics store in Tokyo",
+    "expected_domain_names": [
+      "electronicsstore.biz",
+      "tokyozone.ai",
+      "electronicszone.com"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Paris",
+    "expected_domain_names": [
+      "gamingcafe.com",
+      "gamingcafe.net",
+      "gamingcafe.biz"
+    ]
+  },
+  {
+    "business_description": "coworking space in San Francisco",
+    "expected_domain_names": [
+      "coworkingspace.io",
+      "coworkingspace.ai",
+      "sanbase.org"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Dubai",
+    "expected_domain_names": [
+      "nonprofitio.org",
+      "nonprofitzone.com",
+      "nonprofiteducation.biz"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Toronto",
+    "expected_domain_names": [
+      "seooptimization.store",
+      "optimizationio.store",
+      "seooptimization.co"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Toronto",
+    "expected_domain_names": [
+      "creamify.ai",
+      "icecream.biz",
+      "icecream.store"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Tokyo",
+    "expected_domain_names": [
+      "digitalio.org",
+      "digitalmarketing.biz",
+      "digitalmarketing.net"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Dubai",
+    "expected_domain_names": [
+      "dubaiio.co",
+      "nonprofiteducation.store",
+      "nonprofitify.store"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Tokyo",
+    "expected_domain_names": [
+      "homehub.ai",
+      "cleaningio.ai",
+      "serviceify.net"
+    ]
+  },
+  {
+    "business_description": "film production house in New York",
+    "expected_domain_names": [
+      "filmproduction.com",
+      "househub.store",
+      "filmproduction.io"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Tokyo",
+    "expected_domain_names": [
+      "travelbase.store",
+      "luxurytravel.net",
+      "travelify.net"
+    ]
+  },
+  {
+    "business_description": "university consultancy in Singapore",
+    "expected_domain_names": [
+      "universityconsultancy.net",
+      "universityconsultancy.com",
+      "universityconsultancy.org"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in New York",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.co",
+      "exchangeio.org",
+      "newbase.io"
+    ]
+  },
+  {
+    "business_description": "music label in Paris",
+    "expected_domain_names": [
+      "musichub.ai",
+      "musicbase.store",
+      "musiclabel.store"
+    ]
+  },
+  {
+    "business_description": "web design agency in Dubai",
+    "expected_domain_names": [
+      "designhub.store",
+      "webdesign.store",
+      "webdesign.ai"
+    ]
+  },
+  {
+    "business_description": "food truck business in Paris",
+    "expected_domain_names": [
+      "trucklink.net",
+      "foodzone.com",
+      "truckhub.io"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Singapore",
+    "expected_domain_names": [
+      "languagetutoring.io",
+      "tutoringlink.store",
+      "languagetutoring.store"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Berlin",
+    "expected_domain_names": [
+      "skincarezone.biz",
+      "organichub.store",
+      "organicskincare.org"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Toronto",
+    "expected_domain_names": [
+      "luxurytravel.store",
+      "luxurytravel.org",
+      "travelhub.store"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Singapore",
+    "expected_domain_names": [
+      "homedecor.net",
+      "homedecor.store",
+      "homedecor.org"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in San Francisco",
+    "expected_domain_names": [
+      "streaminglink.com",
+      "videostreaming.io",
+      "streaminglink.io"
+    ]
+  },
+  {
+    "business_description": "event planning company in London",
+    "expected_domain_names": [
+      "eventplanning.co",
+      "companybase.com",
+      "eventplanning.ai"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Berlin",
+    "expected_domain_names": [
+      "agencyhub.net",
+      "luxurytravel.io",
+      "luxurytravel.ai"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in London",
+    "expected_domain_names": [
+      "londonhub.org",
+      "nonprofiteducation.biz",
+      "nonprofiteducation.co"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in New York",
+    "expected_domain_names": [
+      "animalrescue.store",
+      "animalrescue.org",
+      "animalzone.com"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in London",
+    "expected_domain_names": [
+      "nutritioncoaching.io",
+      "londonlink.com",
+      "coachingio.com"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in New York",
+    "expected_domain_names": [
+      "fineio.net",
+      "finedining.com",
+      "finedining.org"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Singapore",
+    "expected_domain_names": [
+      "platformify.org",
+      "microlendingplatform.co",
+      "singaporebase.io"
+    ]
+  },
+  {
+    "business_description": "food truck business in Toronto",
+    "expected_domain_names": [
+      "businessbase.io",
+      "foodtruck.biz",
+      "foodtruck.store"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Tokyo",
+    "expected_domain_names": [
+      "luxurytravel.org",
+      "luxurytravel.biz",
+      "travelio.co"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Paris",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.ai",
+      "cryptocurrencyexchange.net",
+      "cryptocurrencyexchange.biz"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in San Francisco",
+    "expected_domain_names": [
+      "veganrestaurant.biz",
+      "sanhub.biz",
+      "veganrestaurant.ai"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Paris",
+    "expected_domain_names": [
+      "mentalhealth.store",
+      "mentalhealth.org",
+      "mentalhealth.biz"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Toronto",
+    "expected_domain_names": [
+      "homeio.io",
+      "decorio.co",
+      "homedecor.co"
+    ]
+  },
+  {
+    "business_description": "health awareness campaign in Tokyo",
+    "expected_domain_names": [
+      "healthawareness.co",
+      "awarenessbase.org",
+      "awarenesszone.biz"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Toronto",
+    "expected_domain_names": [
+      "animalrescue.com",
+      "organizationbase.org",
+      "animalrescue.ai"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in Dubai",
+    "expected_domain_names": [
+      "codinghub.net",
+      "codingbootcamp.org",
+      "bootcamplink.org"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Paris",
+    "expected_domain_names": [
+      "finedining.com",
+      "finedining.store",
+      "restaurantbase.io"
+    ]
+  },
+  {
+    "business_description": "food truck business in Toronto",
+    "expected_domain_names": [
+      "foodify.io",
+      "foodbase.co",
+      "foodtruck.store"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in Berlin",
+    "expected_domain_names": [
+      "cybersecurityservice.net",
+      "cybersecurityservice.com",
+      "cybersecuritybase.store"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Singapore",
+    "expected_domain_names": [
+      "organizationio.com",
+      "animalzone.com",
+      "animalrescue.io"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in San Francisco",
+    "expected_domain_names": [
+      "consultancyify.store",
+      "legalhub.com",
+      "legalconsultancy.ai"
+    ]
+  },
+  {
+    "business_description": "food truck business in Tokyo",
+    "expected_domain_names": [
+      "businesszone.store",
+      "foodhub.io",
+      "foodtruck.biz"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Singapore",
+    "expected_domain_names": [
+      "languageify.net",
+      "tutoringhub.co",
+      "languagetutoring.org"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Dubai",
+    "expected_domain_names": [
+      "seooptimization.org",
+      "seooptimization.biz",
+      "optimizationio.com"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in San Francisco",
+    "expected_domain_names": [
+      "legalconsultancy.co",
+      "sanzone.net",
+      "consultancyio.net"
+    ]
+  },
+  {
+    "business_description": "youth development program in Paris",
+    "expected_domain_names": [
+      "programio.io",
+      "youthdevelopment.org",
+      "youthdevelopment.biz"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in San Francisco",
+    "expected_domain_names": [
+      "organiczone.com",
+      "organicskincare.io",
+      "skincareio.biz"
+    ]
+  },
+  {
+    "business_description": "web design agency in Toronto",
+    "expected_domain_names": [
+      "webdesign.org",
+      "agencyio.co",
+      "designlink.org"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in Berlin",
+    "expected_domain_names": [
+      "luxurywatch.biz",
+      "luxurywatch.org",
+      "luxuryify.org"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Berlin",
+    "expected_domain_names": [
+      "weddingio.org",
+      "photographybase.org",
+      "businesshub.co"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Tokyo",
+    "expected_domain_names": [
+      "organiccoffee.com",
+      "organiccoffee.biz",
+      "organicio.io"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Singapore",
+    "expected_domain_names": [
+      "startuphub.ai",
+      "blockchainstartup.io",
+      "blockchainstartup.biz"
+    ]
+  },
+  {
+    "business_description": "music label in London",
+    "expected_domain_names": [
+      "musiclabel.ai",
+      "londonify.biz",
+      "musiclabel.store"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Tokyo",
+    "expected_domain_names": [
+      "fastfoodchain.co",
+      "fastfoodchain.org",
+      "fastfoodlink.store"
+    ]
+  },
+  {
+    "business_description": "environmental NGO in Berlin",
+    "expected_domain_names": [
+      "ngoio.io",
+      "environmentalngo.ai",
+      "ngoio.ai"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in New York",
+    "expected_domain_names": [
+      "watchzone.com",
+      "watchzone.io",
+      "luxurywatch.io"
+    ]
+  },
+  {
+    "business_description": "music label in Paris",
+    "expected_domain_names": [
+      "musiclabel.biz",
+      "parisbase.co",
+      "musiclabel.store"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in New York",
+    "expected_domain_names": [
+      "newio.ai",
+      "nonprofitzone.store",
+      "educationlink.org"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Toronto",
+    "expected_domain_names": [
+      "digitalmarketing.io",
+      "marketingzone.co",
+      "digitalmarketing.net"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in Singapore",
+    "expected_domain_names": [
+      "insurancebrokerage.com",
+      "insurancehub.store",
+      "insurancebrokerage.biz"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Singapore",
+    "expected_domain_names": [
+      "bakerypastry.ai",
+      "bakerypastry.org",
+      "bakerypastry.io"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in Paris",
+    "expected_domain_names": [
+      "fashionhub.net",
+      "fashionboutique.com",
+      "parisbase.co"
+    ]
+  },
+  {
+    "business_description": "fitness center in Singapore",
+    "expected_domain_names": [
+      "fitnesshub.com",
+      "fitnesscenter.org",
+      "fitnesshub.net"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Dubai",
+    "expected_domain_names": [
+      "platformzone.co",
+      "streamingbase.io",
+      "videostreaming.net"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Tokyo",
+    "expected_domain_names": [
+      "organiccoffee.net",
+      "organiclink.biz",
+      "organiccoffee.com"
+    ]
+  },
+  {
+    "business_description": "film production house in Dubai",
+    "expected_domain_names": [
+      "productionlink.biz",
+      "househub.io",
+      "productionio.net"
+    ]
+  },
+  {
+    "business_description": "music label in San Francisco",
+    "expected_domain_names": [
+      "musicify.biz",
+      "musiclabel.org",
+      "musicify.store"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Berlin",
+    "expected_domain_names": [
+      "petshub.io",
+      "petsio.com",
+      "berlinbase.org"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Toronto",
+    "expected_domain_names": [
+      "weddinglink.co",
+      "weddingphotography.co",
+      "weddinglink.ai"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Paris",
+    "expected_domain_names": [
+      "languagetutoring.ai",
+      "languagelink.biz",
+      "languagetutoring.store"
+    ]
+  },
+  {
+    "business_description": "film production house in Singapore",
+    "expected_domain_names": [
+      "filmproduction.biz",
+      "filmproduction.store",
+      "filmproduction.net"
+    ]
+  },
+  {
+    "business_description": "educational game developer in New York",
+    "expected_domain_names": [
+      "developerlink.co",
+      "gameify.io",
+      "educationalhub.co"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Dubai",
+    "expected_domain_names": [
+      "blockchainstartup.store",
+      "blockchainstartup.org",
+      "blockchainstartup.biz"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in London",
+    "expected_domain_names": [
+      "pastryio.biz",
+      "bakeryio.net",
+      "bakerypastry.com"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in London",
+    "expected_domain_names": [
+      "serviceio.io",
+      "languagetutoring.io",
+      "languageify.net"
+    ]
+  },
+  {
+    "business_description": "music label in Toronto",
+    "expected_domain_names": [
+      "musicio.biz",
+      "musiclabel.org",
+      "musiclabel.co"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Toronto",
+    "expected_domain_names": [
+      "weddingbase.io",
+      "weddingio.io",
+      "weddinghub.org"
+    ]
+  },
+  {
+    "business_description": "music label in New York",
+    "expected_domain_names": [
+      "musiclabel.biz",
+      "musicio.store",
+      "newhub.co"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Toronto",
+    "expected_domain_names": [
+      "videostreaming.org",
+      "videostreaming.store",
+      "videostreaming.io"
+    ]
+  },
+  {
+    "business_description": "music label in Berlin",
+    "expected_domain_names": [
+      "labelio.io",
+      "berlinlink.io",
+      "musiclabel.org"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Berlin",
+    "expected_domain_names": [
+      "mobilehub.io",
+      "apphub.io",
+      "developmentlink.org"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in London",
+    "expected_domain_names": [
+      "aipoweredify.store",
+      "aipoweredhealthcare.net",
+      "aipoweredhealthcare.biz"
+    ]
+  },
+  {
+    "business_description": "electronics store in Dubai",
+    "expected_domain_names": [
+      "electronicsstore.biz",
+      "electronicsio.org",
+      "electronicsstore.co"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Tokyo",
+    "expected_domain_names": [
+      "solutionszone.com",
+      "solutionshub.net",
+      "cloudsolutions.net"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in New York",
+    "expected_domain_names": [
+      "codingbootcamp.io",
+      "codingio.ai",
+      "bootcampio.co"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Tokyo",
+    "expected_domain_names": [
+      "homedecor.net",
+      "homedecor.store",
+      "homedecor.biz"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Tokyo",
+    "expected_domain_names": [
+      "coachingzone.org",
+      "coachingzone.io",
+      "nutritioncoaching.com"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Toronto",
+    "expected_domain_names": [
+      "creamlink.biz",
+      "icezone.io",
+      "icebase.store"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Berlin",
+    "expected_domain_names": [
+      "seozone.com",
+      "seohub.co",
+      "optimizationlink.store"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in Paris",
+    "expected_domain_names": [
+      "parislink.com",
+      "fashionhub.biz",
+      "parisio.com"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in San Francisco",
+    "expected_domain_names": [
+      "counselingio.net",
+      "counselingify.com",
+      "mentalhealth.io"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Paris",
+    "expected_domain_names": [
+      "cloudsolutions.org",
+      "cloudzone.ai",
+      "solutionsio.co"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in New York",
+    "expected_domain_names": [
+      "providerhub.net",
+      "cloudbase.org",
+      "solutionsio.com"
+    ]
+  },
+  {
+    "business_description": "event planning company in London",
+    "expected_domain_names": [
+      "companylink.org",
+      "eventplanning.store",
+      "eventplanning.biz"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in San Francisco",
+    "expected_domain_names": [
+      "groomingify.com",
+      "servicebase.co",
+      "groominglink.co"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Berlin",
+    "expected_domain_names": [
+      "cloudsolutions.biz",
+      "cloudify.org",
+      "providerzone.co"
+    ]
+  },
+  {
+    "business_description": "fitness center in Singapore",
+    "expected_domain_names": [
+      "fitnesscenter.com",
+      "fitnesslink.org",
+      "fitnesscenter.biz"
+    ]
+  },
+  {
+    "business_description": "film production house in Toronto",
+    "expected_domain_names": [
+      "filmproduction.com",
+      "houseify.co",
+      "filmproduction.io"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Dubai",
+    "expected_domain_names": [
+      "mobileapp.ai",
+      "mobileapp.com",
+      "developmentlink.store"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Toronto",
+    "expected_domain_names": [
+      "cloudsolutions.org",
+      "cloudsolutions.com",
+      "cloudsolutions.net"
+    ]
+  },
+  {
+    "business_description": "coworking space in London",
+    "expected_domain_names": [
+      "spaceify.co",
+      "coworkingspace.ai",
+      "spacezone.net"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Berlin",
+    "expected_domain_names": [
+      "legalconsultancy.biz",
+      "berlinlink.co",
+      "legalhub.ai"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Singapore",
+    "expected_domain_names": [
+      "animalrescue.com",
+      "animalrescue.biz",
+      "animalrescue.net"
+    ]
+  },
+  {
+    "business_description": "film production house in Dubai",
+    "expected_domain_names": [
+      "filmproduction.com",
+      "filmio.ai",
+      "houseify.net"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Singapore",
+    "expected_domain_names": [
+      "languagehub.org",
+      "languagetutoring.com",
+      "languagetutoring.org"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Singapore",
+    "expected_domain_names": [
+      "appio.biz",
+      "appzone.store",
+      "mobilelink.co"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Tokyo",
+    "expected_domain_names": [
+      "vrgaming.biz",
+      "centerzone.biz",
+      "vrgaming.io"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in Toronto",
+    "expected_domain_names": [
+      "cybersecurityservice.io",
+      "servicehub.biz",
+      "cybersecurityservice.biz"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Singapore",
+    "expected_domain_names": [
+      "fastfoodchain.io",
+      "fastfoodzone.net",
+      "singaporeify.ai"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in San Francisco",
+    "expected_domain_names": [
+      "legalconsultancy.net",
+      "legalconsultancy.co",
+      "sanzone.com"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in San Francisco",
+    "expected_domain_names": [
+      "telemedicineplatform.org",
+      "telemedicineplatform.io",
+      "telemedicineplatform.biz"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Dubai",
+    "expected_domain_names": [
+      "petslink.store",
+      "startupio.biz",
+      "petshub.io"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Singapore",
+    "expected_domain_names": [
+      "petgrooming.ai",
+      "servicehub.biz",
+      "petgrooming.net"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in Dubai",
+    "expected_domain_names": [
+      "cybersecurityservice.store",
+      "cybersecurityservice.co",
+      "cybersecurityservice.io"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in San Francisco",
+    "expected_domain_names": [
+      "telemedicineplatform.co",
+      "telemedicineplatform.org",
+      "platformzone.org"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in San Francisco",
+    "expected_domain_names": [
+      "animalrescue.biz",
+      "rescuehub.io",
+      "animalrescue.io"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Berlin",
+    "expected_domain_names": [
+      "businessify.com",
+      "businessbase.co",
+      "weddingphotography.biz"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Berlin",
+    "expected_domain_names": [
+      "financebase.com",
+      "personalfinance.ai",
+      "advisorylink.store"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in Berlin",
+    "expected_domain_names": [
+      "berlinio.ai",
+      "physiotherapyclinic.store",
+      "berlinzone.co"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Dubai",
+    "expected_domain_names": [
+      "centerhub.co",
+      "gamingbase.net",
+      "vrlink.ai"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Toronto",
+    "expected_domain_names": [
+      "personalfinance.co",
+      "personalfinance.ai",
+      "personalfinance.biz"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Tokyo",
+    "expected_domain_names": [
+      "restaurantio.com",
+      "restaurantlink.net",
+      "veganrestaurant.store"
+    ]
+  },
+  {
+    "business_description": "fitness center in Berlin",
+    "expected_domain_names": [
+      "centerbase.io",
+      "fitnesszone.biz",
+      "fitnesscenter.biz"
+    ]
+  },
+  {
+    "business_description": "film production house in Dubai",
+    "expected_domain_names": [
+      "filmproduction.org",
+      "filmproduction.net",
+      "filmlink.org"
+    ]
+  },
+  {
+    "business_description": "fitness center in New York",
+    "expected_domain_names": [
+      "fitnesscenter.biz",
+      "fitnesscenter.co",
+      "fitnesscenter.net"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Singapore",
+    "expected_domain_names": [
+      "platformlink.ai",
+      "microlendinglink.store",
+      "microlendingplatform.org"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Dubai",
+    "expected_domain_names": [
+      "agencylink.ai",
+      "digitalhub.io",
+      "marketingzone.net"
+    ]
+  },
+  {
+    "business_description": "coffee in London",
+    "expected_domain_names": [
+      "coffeebase.net",
+      "coffeelondon.com",
+      "coffeelondon.io"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Tokyo",
+    "expected_domain_names": [
+      "firmzone.ai",
+      "aihub.biz",
+      "consultingbase.com"
+    ]
+  },
+  {
+    "business_description": "investment firm in Berlin",
+    "expected_domain_names": [
+      "firmlink.io",
+      "investmentlink.biz",
+      "investmenthub.ai"
+    ]
+  },
+  {
+    "business_description": "online bookstore in Dubai",
+    "expected_domain_names": [
+      "onlinebookstore.net",
+      "onlinebookstore.biz",
+      "dubaizone.store"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in San Francisco",
+    "expected_domain_names": [
+      "businesszone.net",
+      "businessio.co",
+      "businessbase.ai"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in London",
+    "expected_domain_names": [
+      "blockchainlink.net",
+      "blockchainzone.co",
+      "blockchainstartup.biz"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in San Francisco",
+    "expected_domain_names": [
+      "aibase.ai",
+      "aiconsulting.co",
+      "aiconsulting.ai"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in New York",
+    "expected_domain_names": [
+      "skincareio.com",
+      "organicskincare.net",
+      "organicskincare.store"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Singapore",
+    "expected_domain_names": [
+      "bakerypastry.store",
+      "bakerypastry.co",
+      "bakerypastry.biz"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Paris",
+    "expected_domain_names": [
+      "weddingphotography.net",
+      "businesszone.co",
+      "weddingphotography.io"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Berlin",
+    "expected_domain_names": [
+      "gamingbase.com",
+      "berlinbase.biz",
+      "cafehub.store"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Paris",
+    "expected_domain_names": [
+      "cryptocurrencyio.ai",
+      "parisbase.ai",
+      "exchangelink.store"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Toronto",
+    "expected_domain_names": [
+      "cleaningbase.ai",
+      "homecleaning.co",
+      "homecleaning.ai"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in New York",
+    "expected_domain_names": [
+      "organicskincare.net",
+      "brandio.ai",
+      "organicskincare.store"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in San Francisco",
+    "expected_domain_names": [
+      "cloudsolutions.biz",
+      "cloudsolutions.io",
+      "solutionsio.ai"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Paris",
+    "expected_domain_names": [
+      "organicio.com",
+      "skincareio.store",
+      "brandhub.co"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Berlin",
+    "expected_domain_names": [
+      "restaurantzone.io",
+      "finedining.co",
+      "diningzone.biz"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Singapore",
+    "expected_domain_names": [
+      "digitalmarketing.co",
+      "agencybase.net",
+      "marketinglink.io"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Tokyo",
+    "expected_domain_names": [
+      "nonprofitio.store",
+      "tokyobase.io",
+      "educationify.com"
+    ]
+  },
+  {
+    "business_description": "investment firm in Singapore",
+    "expected_domain_names": [
+      "investmentfirm.io",
+      "investmentfirm.org",
+      "singaporebase.io"
+    ]
+  },
+  {
+    "business_description": "coffee in Singapore",
+    "expected_domain_names": [
+      "singaporeify.ai",
+      "coffeesingapore.ai",
+      "coffeeio.org"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Singapore",
+    "expected_domain_names": [
+      "educationlink.io",
+      "nonprofiteducation.net",
+      "nonprofiteducation.co"
+    ]
+  },
+  {
+    "business_description": "electronics store in Singapore",
+    "expected_domain_names": [
+      "electronicsstore.org",
+      "electronicsstore.biz",
+      "electronicsstore.co"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in San Francisco",
+    "expected_domain_names": [
+      "solutionsify.store",
+      "providerlink.net",
+      "cloudsolutions.co"
+    ]
+  },
+  {
+    "business_description": "university consultancy in Dubai",
+    "expected_domain_names": [
+      "universityconsultancy.biz",
+      "universityconsultancy.io",
+      "universityconsultancy.co"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Toronto",
+    "expected_domain_names": [
+      "fastfoodbase.store",
+      "fastfoodchain.net",
+      "fastfoodzone.store"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in New York",
+    "expected_domain_names": [
+      "bakeryhub.net",
+      "pastrylink.store",
+      "pastryify.com"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in San Francisco",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.biz",
+      "cryptocurrencyify.store",
+      "cryptocurrencyexchange.org"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in New York",
+    "expected_domain_names": [
+      "centerbase.biz",
+      "vrgaming.biz",
+      "vrgaming.io"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Paris",
+    "expected_domain_names": [
+      "nonprofitify.co",
+      "nonprofiteducation.ai",
+      "nonprofiteducation.org"
+    ]
+  },
+  {
+    "business_description": "investment firm in Paris",
+    "expected_domain_names": [
+      "investmentfirm.biz",
+      "parisify.ai",
+      "firmzone.io"
+    ]
+  },
+  {
+    "business_description": "university consultancy in New York",
+    "expected_domain_names": [
+      "consultancyio.co",
+      "consultancyio.biz",
+      "universityconsultancy.store"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Paris",
+    "expected_domain_names": [
+      "studiobase.io",
+      "pariszone.store",
+      "yogastudio.io"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in San Francisco",
+    "expected_domain_names": [
+      "icebase.com",
+      "icecream.net",
+      "iceify.net"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Berlin",
+    "expected_domain_names": [
+      "videostreaming.com",
+      "videostreaming.biz",
+      "videostreaming.co"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Berlin",
+    "expected_domain_names": [
+      "cloudsolutions.org",
+      "cloudify.org",
+      "cloudsolutions.co"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Singapore",
+    "expected_domain_names": [
+      "educationalgame.biz",
+      "gameio.net",
+      "educationalgame.store"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Toronto",
+    "expected_domain_names": [
+      "parlorify.store",
+      "iceify.net",
+      "icezone.co"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Singapore",
+    "expected_domain_names": [
+      "consultancyio.co",
+      "legalconsultancy.ai",
+      "legalbase.biz"
+    ]
+  },
+  {
+    "business_description": "music label in Berlin",
+    "expected_domain_names": [
+      "berlinbase.co",
+      "musiclabel.net",
+      "labelbase.org"
+    ]
+  },
+  {
+    "business_description": "university consultancy in Tokyo",
+    "expected_domain_names": [
+      "universityconsultancy.com",
+      "universityconsultancy.org",
+      "universityio.io"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Tokyo",
+    "expected_domain_names": [
+      "platformhub.org",
+      "microlendingplatform.biz",
+      "tokyohub.co"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Toronto",
+    "expected_domain_names": [
+      "organiccoffee.io",
+      "coffeehub.store",
+      "organiccoffee.store"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Toronto",
+    "expected_domain_names": [
+      "petgrooming.ai",
+      "servicehub.ai",
+      "groomingify.net"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Toronto",
+    "expected_domain_names": [
+      "videostreaming.org",
+      "videostreaming.biz",
+      "streaminghub.biz"
+    ]
+  },
+  {
+    "business_description": "coworking space in Berlin",
+    "expected_domain_names": [
+      "spaceio.net",
+      "coworkingspace.co",
+      "coworkingspace.biz"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Tokyo",
+    "expected_domain_names": [
+      "blockchainbase.com",
+      "blockchainstartup.io",
+      "startupbase.co"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in Tokyo",
+    "expected_domain_names": [
+      "brokeragebase.io",
+      "tokyolink.com",
+      "insuranceify.net"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in London",
+    "expected_domain_names": [
+      "chainhub.store",
+      "fastfoodchain.org",
+      "fastfoodify.com"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in London",
+    "expected_domain_names": [
+      "agencybase.io",
+      "digitalmarketing.ai",
+      "digitalbase.store"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Dubai",
+    "expected_domain_names": [
+      "nonprofiteducation.com",
+      "nonprofitlink.org",
+      "dubaiio.net"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in London",
+    "expected_domain_names": [
+      "creamhub.ai",
+      "iceify.com",
+      "icecream.ai"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in San Francisco",
+    "expected_domain_names": [
+      "sanlink.ai",
+      "legalconsultancy.ai",
+      "legalconsultancy.store"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in Dubai",
+    "expected_domain_names": [
+      "codingbootcamp.biz",
+      "dubaiio.co",
+      "bootcampio.biz"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Singapore",
+    "expected_domain_names": [
+      "cleaningio.biz",
+      "homebase.com",
+      "cleaningzone.store"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in London",
+    "expected_domain_names": [
+      "languagebase.net",
+      "languageio.com",
+      "languagetutoring.org"
+    ]
+  },
+  {
+    "business_description": "startup for pets in San Francisco",
+    "expected_domain_names": [
+      "petsify.co",
+      "startupify.ai",
+      "startuppets.org"
+    ]
+  },
+  {
+    "business_description": "investment firm in Berlin",
+    "expected_domain_names": [
+      "investmentfirm.net",
+      "investmentzone.org",
+      "firmio.store"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Paris",
+    "expected_domain_names": [
+      "educationalgame.ai",
+      "developerbase.biz",
+      "educationalgame.com"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in Dubai",
+    "expected_domain_names": [
+      "telemedicineplatform.co",
+      "telemedicineplatform.io",
+      "telemedicineplatform.net"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Tokyo",
+    "expected_domain_names": [
+      "agencybase.biz",
+      "realestate.org",
+      "realestate.ai"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Tokyo",
+    "expected_domain_names": [
+      "digitalify.ai",
+      "agencyhub.org",
+      "agencyhub.ai"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Toronto",
+    "expected_domain_names": [
+      "gaminghub.com",
+      "gamingbase.io",
+      "vrgaming.net"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in New York",
+    "expected_domain_names": [
+      "tutoringhub.biz",
+      "servicelink.org",
+      "serviceify.io"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Singapore",
+    "expected_domain_names": [
+      "marketplaceio.org",
+      "digitalart.org",
+      "digitallink.co"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Dubai",
+    "expected_domain_names": [
+      "gameify.store",
+      "educationalgame.co",
+      "gameio.io"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Berlin",
+    "expected_domain_names": [
+      "animalrescue.biz",
+      "animalrescue.net",
+      "animalrescue.ai"
+    ]
+  },
+  {
+    "business_description": "investment firm in Paris",
+    "expected_domain_names": [
+      "firmbase.biz",
+      "parisbase.store",
+      "investmentfirm.com"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Dubai",
+    "expected_domain_names": [
+      "agencyio.org",
+      "realestate.io",
+      "realestate.biz"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in San Francisco",
+    "expected_domain_names": [
+      "nutritioncoaching.co",
+      "sanify.org",
+      "coachingzone.biz"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in Singapore",
+    "expected_domain_names": [
+      "codingbootcamp.org",
+      "codingbootcamp.net",
+      "codingbootcamp.store"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in Dubai",
+    "expected_domain_names": [
+      "luxurylink.biz",
+      "luxurywatch.com",
+      "luxuryio.store"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Toronto",
+    "expected_domain_names": [
+      "nonprofithub.org",
+      "educationio.ai",
+      "nonprofiteducation.io"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Paris",
+    "expected_domain_names": [
+      "travellink.org",
+      "agencyhub.ai",
+      "luxurytravel.io"
+    ]
+  },
+  {
+    "business_description": "fitness center in London",
+    "expected_domain_names": [
+      "londonbase.biz",
+      "fitnesscenter.io",
+      "fitnesscenter.net"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Singapore",
+    "expected_domain_names": [
+      "microlendingplatform.ai",
+      "microlendingplatform.io",
+      "microlendingplatform.com"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in London",
+    "expected_domain_names": [
+      "homecleaning.com",
+      "homecleaning.biz",
+      "cleaningzone.ai"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in San Francisco",
+    "expected_domain_names": [
+      "bakeryify.org",
+      "bakerypastry.io",
+      "bakerypastry.biz"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Toronto",
+    "expected_domain_names": [
+      "restaurantlink.io",
+      "torontoify.org",
+      "restaurantzone.net"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Toronto",
+    "expected_domain_names": [
+      "torontohub.ai",
+      "microlendingplatform.io",
+      "microlendinglink.org"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Singapore",
+    "expected_domain_names": [
+      "veganrestaurant.co",
+      "veganrestaurant.ai",
+      "veganrestaurant.com"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in San Francisco",
+    "expected_domain_names": [
+      "veganlink.org",
+      "veganrestaurant.net",
+      "veganrestaurant.com"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Berlin",
+    "expected_domain_names": [
+      "luxurytravel.net",
+      "luxurytravel.com",
+      "travellink.co"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Dubai",
+    "expected_domain_names": [
+      "weddingphotography.store",
+      "weddingphotography.org",
+      "photographyzone.io"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in San Francisco",
+    "expected_domain_names": [
+      "exchangeify.net",
+      "cryptocurrencyexchange.co",
+      "exchangebase.io"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Berlin",
+    "expected_domain_names": [
+      "decorzone.net",
+      "homedecor.store",
+      "decorhub.ai"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Dubai",
+    "expected_domain_names": [
+      "serviceio.ai",
+      "petzone.io",
+      "petgrooming.biz"
+    ]
+  },
+  {
+    "business_description": "youth development program in Paris",
+    "expected_domain_names": [
+      "youthdevelopment.net",
+      "developmentbase.co",
+      "youthdevelopment.biz"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Singapore",
+    "expected_domain_names": [
+      "veganrestaurant.store",
+      "veganio.io",
+      "restaurantbase.ai"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Berlin",
+    "expected_domain_names": [
+      "yogastudio.org",
+      "yogastudio.com",
+      "studiolink.ai"
+    ]
+  },
+  {
+    "business_description": "investment firm in Tokyo",
+    "expected_domain_names": [
+      "firmify.store",
+      "investmentfirm.org",
+      "tokyolink.ai"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Paris",
+    "expected_domain_names": [
+      "parislink.biz",
+      "nonprofiteducation.com",
+      "nonprofiteducation.ai"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Singapore",
+    "expected_domain_names": [
+      "skincareify.co",
+      "organicskincare.io",
+      "organicskincare.com"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Berlin",
+    "expected_domain_names": [
+      "podcastproduction.net",
+      "productionzone.net",
+      "productionzone.io"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Berlin",
+    "expected_domain_names": [
+      "educationalbase.ai",
+      "educationalgame.biz",
+      "educationalgame.store"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Toronto",
+    "expected_domain_names": [
+      "finehub.store",
+      "finedining.ai",
+      "finedining.net"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Singapore",
+    "expected_domain_names": [
+      "platformbase.org",
+      "streamingbase.org",
+      "videostreaming.co"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in London",
+    "expected_domain_names": [
+      "educationio.ai",
+      "nonprofiteducation.ai",
+      "londonhub.co"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Singapore",
+    "expected_domain_names": [
+      "digitalmarketing.store",
+      "marketingzone.net",
+      "digitalmarketing.ai"
+    ]
+  },
+  {
+    "business_description": "fitness center in New York",
+    "expected_domain_names": [
+      "centerify.io",
+      "fitnesscenter.io",
+      "fitnesscenter.net"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in Toronto",
+    "expected_domain_names": [
+      "cybersecurityservice.store",
+      "cybersecuritybase.org",
+      "providerify.biz"
+    ]
+  },
+  {
+    "business_description": "online learning platform in New York",
+    "expected_domain_names": [
+      "platformify.store",
+      "onlineify.org",
+      "learningify.biz"
+    ]
+  },
+  {
+    "business_description": "online learning platform in Toronto",
+    "expected_domain_names": [
+      "onlinelearning.ai",
+      "learningify.co",
+      "learninglink.com"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Paris",
+    "expected_domain_names": [
+      "videostreaming.com",
+      "videostreaming.biz",
+      "platformzone.org"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Toronto",
+    "expected_domain_names": [
+      "fastfoodchain.com",
+      "torontolink.co",
+      "chainio.io"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Toronto",
+    "expected_domain_names": [
+      "bakeryio.store",
+      "bakerypastry.store",
+      "bakerypastry.io"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Toronto",
+    "expected_domain_names": [
+      "weddingzone.org",
+      "businesslink.io",
+      "weddingphotography.org"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in London",
+    "expected_domain_names": [
+      "insurancebrokerage.store",
+      "insurancebrokerage.io",
+      "insuranceify.biz"
+    ]
+  },
+  {
+    "business_description": "online learning platform in Tokyo",
+    "expected_domain_names": [
+      "onlinelearning.com",
+      "learningbase.store",
+      "learninglink.store"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in Berlin",
+    "expected_domain_names": [
+      "telemedicineplatform.ai",
+      "platformhub.io",
+      "berlinio.biz"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in London",
+    "expected_domain_names": [
+      "digitalart.io",
+      "marketplaceify.net",
+      "digitalart.net"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Toronto",
+    "expected_domain_names": [
+      "microlendingplatform.ai",
+      "torontobase.biz",
+      "microlendingify.com"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Dubai",
+    "expected_domain_names": [
+      "personalfinance.io",
+      "personalfinance.com",
+      "financelink.biz"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in London",
+    "expected_domain_names": [
+      "fashionboutique.store",
+      "fashionboutique.co",
+      "boutiqueio.ai"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in London",
+    "expected_domain_names": [
+      "blockchainstartup.store",
+      "blockchainstartup.net",
+      "londonio.co"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Dubai",
+    "expected_domain_names": [
+      "personalfinance.io",
+      "personalify.store",
+      "personalfinance.org"
+    ]
+  },
+  {
+    "business_description": "event planning company in San Francisco",
+    "expected_domain_names": [
+      "eventplanning.io",
+      "planninghub.com",
+      "eventplanning.biz"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Tokyo",
+    "expected_domain_names": [
+      "bakerylink.org",
+      "bakerypastry.co",
+      "bakerypastry.com"
+    ]
+  },
+  {
+    "business_description": "car rental service in London",
+    "expected_domain_names": [
+      "carrental.biz",
+      "servicelink.io",
+      "carlink.net"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Berlin",
+    "expected_domain_names": [
+      "educationio.net",
+      "educationbase.com",
+      "nonprofiteducation.ai"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Berlin",
+    "expected_domain_names": [
+      "fastfoodchain.io",
+      "chainzone.com",
+      "fastfoodify.co"
+    ]
+  },
+  {
+    "business_description": "music label in Singapore",
+    "expected_domain_names": [
+      "labelbase.io",
+      "musicio.com",
+      "musiclabel.io"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Paris",
+    "expected_domain_names": [
+      "homedecor.com",
+      "shopify.ai",
+      "homeio.store"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Dubai",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.co",
+      "cryptocurrencyexchange.biz",
+      "cryptocurrencyexchange.io"
+    ]
+  },
+  {
+    "business_description": "youth development program in Paris",
+    "expected_domain_names": [
+      "programio.io",
+      "programlink.io",
+      "developmentlink.store"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Toronto",
+    "expected_domain_names": [
+      "torontoio.com",
+      "nutritionify.io",
+      "nutritioncoaching.biz"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in London",
+    "expected_domain_names": [
+      "languagetutoring.net",
+      "languagetutoring.ai",
+      "languagetutoring.org"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Berlin",
+    "expected_domain_names": [
+      "veganio.store",
+      "berlinlink.co",
+      "veganrestaurant.store"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in Paris",
+    "expected_domain_names": [
+      "luxurywatch.co",
+      "luxurywatch.com",
+      "luxurywatch.store"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in London",
+    "expected_domain_names": [
+      "organicify.store",
+      "coffeeio.ai",
+      "organiccoffee.co"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in San Francisco",
+    "expected_domain_names": [
+      "link.store",
+      "io.org",
+      "educationplatform.net"
+    ]
+  },
+  {
+    "business_description": "online learning platform in Dubai",
+    "expected_domain_names": [
+      "platformzone.com",
+      "onlinelearning.biz",
+      "onlinelearning.store"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in London",
+    "expected_domain_names": [
+      "telemedicineplatform.co",
+      "platformzone.store",
+      "telemedicineplatform.net"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Berlin",
+    "expected_domain_names": [
+      "centerlink.ai",
+      "vrgaming.com",
+      "centerhub.store"
+    ]
+  },
+  {
+    "business_description": "investment firm in London",
+    "expected_domain_names": [
+      "investmentfirm.io",
+      "investmentfirm.biz",
+      "londonhub.co"
+    ]
+  },
+  {
+    "business_description": "youth development program in Toronto",
+    "expected_domain_names": [
+      "youthdevelopment.ai",
+      "youthhub.com",
+      "youthify.net"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Singapore",
+    "expected_domain_names": [
+      "agencyzone.ai",
+      "realio.ai",
+      "realestate.store"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Tokyo",
+    "expected_domain_names": [
+      "productionio.ai",
+      "companyify.ai",
+      "productionio.biz"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Berlin",
+    "expected_domain_names": [
+      "realestate.com",
+      "realestate.store",
+      "reallink.ai"
+    ]
+  },
+  {
+    "business_description": "online bookstore in New York",
+    "expected_domain_names": [
+      "bookstorezone.biz",
+      "onlinebookstore.ai",
+      "onlinebookstore.store"
+    ]
+  },
+  {
+    "business_description": "car rental service in Paris",
+    "expected_domain_names": [
+      "carrental.io",
+      "servicezone.com",
+      "carrental.org"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in Toronto",
+    "expected_domain_names": [
+      "fashionboutique.biz",
+      "fashionboutique.com",
+      "fashionboutique.org"
+    ]
+  },
+  {
+    "business_description": "investment firm in New York",
+    "expected_domain_names": [
+      "firmify.store",
+      "newhub.org",
+      "investmentfirm.com"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Singapore",
+    "expected_domain_names": [
+      "startuppets.co",
+      "startuppets.com",
+      "startuppets.net"
+    ]
+  },
+  {
+    "business_description": "film production house in Toronto",
+    "expected_domain_names": [
+      "filmproduction.org",
+      "productionio.co",
+      "filmproduction.ai"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Singapore",
+    "expected_domain_names": [
+      "petgrooming.org",
+      "groominghub.net",
+      "servicehub.net"
+    ]
+  },
+  {
+    "business_description": "web design agency in Toronto",
+    "expected_domain_names": [
+      "designify.net",
+      "webdesign.store",
+      "webdesign.ai"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Tokyo",
+    "expected_domain_names": [
+      "tokyoio.ai",
+      "cryptocurrencyhub.org",
+      "cryptocurrencyexchange.store"
+    ]
+  },
+  {
+    "business_description": "fitness center in Singapore",
+    "expected_domain_names": [
+      "fitnesscenter.io",
+      "singaporelink.store",
+      "fitnesscenter.net"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Tokyo",
+    "expected_domain_names": [
+      "homedecor.ai",
+      "homedecor.store",
+      "homebase.ai"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Toronto",
+    "expected_domain_names": [
+      "reallink.store",
+      "realestate.io",
+      "estatebase.co"
+    ]
+  },
+  {
+    "business_description": "investment firm in Berlin",
+    "expected_domain_names": [
+      "berlinify.com",
+      "investmentfirm.net",
+      "firmhub.org"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Tokyo",
+    "expected_domain_names": [
+      "yogastudio.net",
+      "yogastudio.com",
+      "yogastudio.ai"
+    ]
+  },
+  {
+    "business_description": "online bookstore in Berlin",
+    "expected_domain_names": [
+      "onlinebookstore.co",
+      "onlinezone.biz",
+      "berlinify.net"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Singapore",
+    "expected_domain_names": [
+      "shophub.biz",
+      "organiccoffee.org",
+      "organiccoffee.store"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Dubai",
+    "expected_domain_names": [
+      "vrgaming.biz",
+      "gamingzone.co",
+      "vrzone.store"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in London",
+    "expected_domain_names": [
+      "videostreaming.org",
+      "videostreaming.store",
+      "streamingify.store"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in New York",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.net",
+      "cryptocurrencyexchange.io",
+      "cryptocurrencyexchange.org"
+    ]
+  },
+  {
+    "business_description": "music label in Tokyo",
+    "expected_domain_names": [
+      "musiclabel.com",
+      "musicbase.io",
+      "tokyoio.org"
+    ]
+  },
+  {
+    "business_description": "coffee in London",
+    "expected_domain_names": [
+      "londonzone.biz",
+      "coffeelondon.org",
+      "coffeelondon.io"
+    ]
+  },
+  {
+    "business_description": "music label in Tokyo",
+    "expected_domain_names": [
+      "labelhub.biz",
+      "musiclabel.ai",
+      "musiclabel.org"
+    ]
+  },
+  {
+    "business_description": "health awareness campaign in New York",
+    "expected_domain_names": [
+      "healthawareness.net",
+      "healthawareness.com",
+      "healthawareness.ai"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in London",
+    "expected_domain_names": [
+      "bakeryify.co",
+      "bakerypastry.org",
+      "pastrylink.store"
+    ]
+  },
+  {
+    "business_description": "food truck business in New York",
+    "expected_domain_names": [
+      "truckzone.io",
+      "businesshub.co",
+      "businesshub.com"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in New York",
+    "expected_domain_names": [
+      "nutritioncoaching.ai",
+      "nutritioncoaching.org",
+      "nutritioncoaching.com"
+    ]
+  },
+  {
+    "business_description": "university consultancy in San Francisco",
+    "expected_domain_names": [
+      "consultancylink.com",
+      "universityconsultancy.com",
+      "universityconsultancy.org"
+    ]
+  },
+  {
+    "business_description": "educational game developer in New York",
+    "expected_domain_names": [
+      "developerify.io",
+      "educationalgame.biz",
+      "educationalgame.store"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in Dubai",
+    "expected_domain_names": [
+      "hub.com",
+      "educationhub.io",
+      "link.ai"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Tokyo",
+    "expected_domain_names": [
+      "nutritionlink.ai",
+      "nutritioncoaching.org",
+      "nutritionhub.com"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in Berlin",
+    "expected_domain_names": [
+      "clinicify.store",
+      "physiotherapyclinic.org",
+      "physiotherapylink.net"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in Tokyo",
+    "expected_domain_names": [
+      "insurancebrokerage.com",
+      "insurancebrokerage.co",
+      "insurancebrokerage.biz"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Dubai",
+    "expected_domain_names": [
+      "personalfinance.com",
+      "personalfinance.ai",
+      "advisoryzone.org"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in Toronto",
+    "expected_domain_names": [
+      "platformbase.io",
+      "torontohub.net",
+      "telemedicineio.store"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in San Francisco",
+    "expected_domain_names": [
+      "fastfoodzone.biz",
+      "sanify.biz",
+      "fastfoodchain.biz"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in Singapore",
+    "expected_domain_names": [
+      "physiotherapyclinic.co",
+      "physiotherapyclinic.com",
+      "physiotherapylink.com"
+    ]
+  },
+  {
+    "business_description": "environmental NGO in Dubai",
+    "expected_domain_names": [
+      "environmentalzone.ai",
+      "environmentalngo.store",
+      "environmentalbase.io"
+    ]
+  },
+  {
+    "business_description": "investment firm in New York",
+    "expected_domain_names": [
+      "newhub.net",
+      "investmentbase.com",
+      "firmlink.net"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Tokyo",
+    "expected_domain_names": [
+      "organicskincare.net",
+      "brandzone.io",
+      "organicskincare.org"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Paris",
+    "expected_domain_names": [
+      "counselingzone.com",
+      "healthlink.org",
+      "mentalhealth.co"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in New York",
+    "expected_domain_names": [
+      "homebase.io",
+      "homecleaning.co",
+      "homecleaning.store"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Toronto",
+    "expected_domain_names": [
+      "veganrestaurant.biz",
+      "torontoio.io",
+      "veganrestaurant.io"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Dubai",
+    "expected_domain_names": [
+      "seozone.co",
+      "optimizationio.biz",
+      "seooptimization.com"
+    ]
+  },
+  {
+    "business_description": "food truck business in New York",
+    "expected_domain_names": [
+      "foodify.net",
+      "foodhub.store",
+      "truckhub.com"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in London",
+    "expected_domain_names": [
+      "codinghub.net",
+      "codingbootcamp.io",
+      "bootcampzone.co"
+    ]
+  },
+  {
+    "business_description": "web design agency in San Francisco",
+    "expected_domain_names": [
+      "webhub.net",
+      "webdesign.org",
+      "webdesign.ai"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in London",
+    "expected_domain_names": [
+      "organiccoffee.net",
+      "shopzone.net",
+      "shoplink.org"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in Toronto",
+    "expected_domain_names": [
+      "providerlink.biz",
+      "cybersecurityservice.com",
+      "providerify.store"
+    ]
+  },
+  {
+    "business_description": "coffee in Tokyo",
+    "expected_domain_names": [
+      "tokyohub.net",
+      "tokyozone.biz",
+      "tokyolink.com"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in New York",
+    "expected_domain_names": [
+      "agencyify.net",
+      "travelhub.co",
+      "travelzone.co"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Paris",
+    "expected_domain_names": [
+      "mentalhealth.co",
+      "counselinghub.io",
+      "mentalhealth.biz"
+    ]
+  },
+  {
+    "business_description": "event planning company in New York",
+    "expected_domain_names": [
+      "eventplanning.io",
+      "eventbase.io",
+      "eventplanning.ai"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Toronto",
+    "expected_domain_names": [
+      "restauranthub.store",
+      "finedining.ai",
+      "finelink.store"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Tokyo",
+    "expected_domain_names": [
+      "providerify.biz",
+      "cloudsolutions.io",
+      "cloudsolutions.net"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Toronto",
+    "expected_domain_names": [
+      "seooptimization.io",
+      "optimizationzone.ai",
+      "firmio.io"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Toronto",
+    "expected_domain_names": [
+      "centerlink.store",
+      "gaminglink.co",
+      "vrgaming.net"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Paris",
+    "expected_domain_names": [
+      "platformbase.biz",
+      "videoio.net",
+      "videostreaming.co"
+    ]
+  },
+  {
+    "business_description": "electronics store in London",
+    "expected_domain_names": [
+      "electronicsstore.com",
+      "storeify.io",
+      "electronicsstore.co"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in San Francisco",
+    "expected_domain_names": [
+      "retailerzone.store",
+      "luxurywatch.com",
+      "luxuryify.com"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Toronto",
+    "expected_domain_names": [
+      "coffeebase.net",
+      "shopio.net",
+      "organiccoffee.com"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Singapore",
+    "expected_domain_names": [
+      "digitalmarketing.store",
+      "marketinghub.org",
+      "digitallink.io"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in New York",
+    "expected_domain_names": [
+      "gamingcafe.com",
+      "gamingcafe.net",
+      "newbase.biz"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Toronto",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.co",
+      "cryptocurrencyio.co",
+      "cryptocurrencybase.store"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Tokyo",
+    "expected_domain_names": [
+      "consultancylink.com",
+      "legalbase.ai",
+      "legalconsultancy.ai"
+    ]
+  },
+  {
+    "business_description": "home decor shop in London",
+    "expected_domain_names": [
+      "decorify.net",
+      "decorify.store",
+      "shopbase.com"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in New York",
+    "expected_domain_names": [
+      "veganlink.org",
+      "restaurantzone.store",
+      "newify.ai"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in Singapore",
+    "expected_domain_names": [
+      "luxuryify.co",
+      "luxuryzone.store",
+      "luxurylink.org"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in New York",
+    "expected_domain_names": [
+      "gamingcafe.biz",
+      "gaminglink.com",
+      "cafebase.io"
+    ]
+  },
+  {
+    "business_description": "youth development program in San Francisco",
+    "expected_domain_names": [
+      "youthdevelopment.io",
+      "programio.ai",
+      "youthzone.io"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Tokyo",
+    "expected_domain_names": [
+      "coachinghub.store",
+      "coachinglink.biz",
+      "nutritioncoaching.co"
+    ]
+  },
+  {
+    "business_description": "youth development program in New York",
+    "expected_domain_names": [
+      "developmentio.co",
+      "youthdevelopment.biz",
+      "programzone.ai"
+    ]
+  },
+  {
+    "business_description": "coworking space in Paris",
+    "expected_domain_names": [
+      "spacehub.store",
+      "coworkingspace.store",
+      "coworkingspace.ai"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in New York",
+    "expected_domain_names": [
+      "newify.org",
+      "newlink.store",
+      "telemedicineplatform.net"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Dubai",
+    "expected_domain_names": [
+      "dubailink.net",
+      "startupbase.com",
+      "blockchainstartup.biz"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in San Francisco",
+    "expected_domain_names": [
+      "organiclink.org",
+      "organiccoffee.biz",
+      "organiccoffee.co"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in San Francisco",
+    "expected_domain_names": [
+      "photographylink.co",
+      "weddingzone.com",
+      "weddingphotography.io"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Dubai",
+    "expected_domain_names": [
+      "legalconsultancy.net",
+      "legalzone.store",
+      "legalzone.com"
+    ]
+  },
+  {
+    "business_description": "environmental NGO in Singapore",
+    "expected_domain_names": [
+      "environmentalngo.io",
+      "environmentalngo.net",
+      "environmentalzone.co"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Paris",
+    "expected_domain_names": [
+      "organicbase.net",
+      "organicskincare.com",
+      "organicskincare.org"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in San Francisco",
+    "expected_domain_names": [
+      "homeio.ai",
+      "homecleaning.io",
+      "homecleaning.store"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Toronto",
+    "expected_domain_names": [
+      "gamingcafe.com",
+      "torontoio.io",
+      "cafebase.com"
+    ]
+  },
+  {
+    "business_description": "car rental service in Dubai",
+    "expected_domain_names": [
+      "carrental.store",
+      "carrental.net",
+      "carrental.co"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in New York",
+    "expected_domain_names": [
+      "servicelink.com",
+      "homezone.io",
+      "homecleaning.io"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in London",
+    "expected_domain_names": [
+      "rescuebase.store",
+      "animallink.com",
+      "animalrescue.ai"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Paris",
+    "expected_domain_names": [
+      "realestate.net",
+      "estateio.biz",
+      "realestate.biz"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in Tokyo",
+    "expected_domain_names": [
+      "cybersecurityzone.io",
+      "cybersecurityservice.com",
+      "cybersecurityservice.io"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in London",
+    "expected_domain_names": [
+      "cafeio.net",
+      "gamingcafe.biz",
+      "londonio.org"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in London",
+    "expected_domain_names": [
+      "cybersecurityify.com",
+      "cybersecurityservice.co",
+      "cybersecurityzone.co"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Dubai",
+    "expected_domain_names": [
+      "aiconsulting.org",
+      "aiconsulting.co",
+      "aiconsulting.ai"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Berlin",
+    "expected_domain_names": [
+      "podcastify.ai",
+      "podcastproduction.com",
+      "companybase.io"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in New York",
+    "expected_domain_names": [
+      "digitalmarketing.com",
+      "digitalmarketing.org",
+      "marketingbase.net"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Berlin",
+    "expected_domain_names": [
+      "mobilelink.store",
+      "developmentzone.io",
+      "mobilelink.org"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Paris",
+    "expected_domain_names": [
+      "seooptimization.ai",
+      "seooptimization.store",
+      "seooptimization.co"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in London",
+    "expected_domain_names": [
+      "optimizationzone.io",
+      "seooptimization.store",
+      "seohub.org"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Toronto",
+    "expected_domain_names": [
+      "mentalhealth.co",
+      "counselingbase.ai",
+      "mentalhealth.com"
+    ]
+  },
+  {
+    "business_description": "online learning platform in New York",
+    "expected_domain_names": [
+      "learninghub.co",
+      "onlinelearning.biz",
+      "platformio.io"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Paris",
+    "expected_domain_names": [
+      "yogastudio.net",
+      "parislink.io",
+      "parisio.io"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Singapore",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.biz",
+      "exchangehub.io",
+      "cryptocurrencyio.co"
+    ]
+  },
+  {
+    "business_description": "youth development program in Tokyo",
+    "expected_domain_names": [
+      "youthify.co",
+      "youthdevelopment.com",
+      "youthdevelopment.store"
+    ]
+  },
+  {
+    "business_description": "health awareness campaign in Toronto",
+    "expected_domain_names": [
+      "healthawareness.net",
+      "campaignbase.biz",
+      "campaignify.io"
+    ]
+  },
+  {
+    "business_description": "podcast production company in San Francisco",
+    "expected_domain_names": [
+      "podcastproduction.ai",
+      "companyzone.ai",
+      "podcastproduction.com"
+    ]
+  },
+  {
+    "business_description": "film production house in Berlin",
+    "expected_domain_names": [
+      "filmbase.biz",
+      "houseio.co",
+      "housebase.org"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in Singapore",
+    "expected_domain_names": [
+      "retailerio.org",
+      "luxurywatch.store",
+      "luxurybase.com"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in San Francisco",
+    "expected_domain_names": [
+      "artio.com",
+      "artify.org",
+      "marketplacehub.ai"
+    ]
+  },
+  {
+    "business_description": "university consultancy in Toronto",
+    "expected_domain_names": [
+      "universityconsultancy.biz",
+      "torontolink.com",
+      "consultancyio.net"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in Toronto",
+    "expected_domain_names": [
+      "educationhub.io",
+      "educationify.org",
+      "platformhub.com"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Tokyo",
+    "expected_domain_names": [
+      "petgrooming.co",
+      "petgrooming.biz",
+      "groominglink.com"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Paris",
+    "expected_domain_names": [
+      "gamingcafe.com",
+      "cafeify.com",
+      "cafeify.co"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Berlin",
+    "expected_domain_names": [
+      "animallink.net",
+      "organizationlink.store",
+      "organizationzone.net"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Berlin",
+    "expected_domain_names": [
+      "cloudsolutions.org",
+      "cloudsolutions.io",
+      "cloudsolutions.net"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Toronto",
+    "expected_domain_names": [
+      "aipoweredhealthcare.store",
+      "aipoweredhealthcare.co",
+      "solutionlink.ai"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Dubai",
+    "expected_domain_names": [
+      "luxuryzone.ai",
+      "luxurytravel.org",
+      "luxurytravel.biz"
+    ]
+  },
+  {
+    "business_description": "online learning platform in Berlin",
+    "expected_domain_names": [
+      "onlinelearning.org",
+      "learninglink.store",
+      "onlinebase.org"
+    ]
+  },
+  {
+    "business_description": "fitness center in Berlin",
+    "expected_domain_names": [
+      "berlinify.ai",
+      "fitnesscenter.org",
+      "fitnesscenter.co"
+    ]
+  },
+  {
+    "business_description": "car rental service in Dubai",
+    "expected_domain_names": [
+      "serviceify.io",
+      "rentallink.org",
+      "carrental.com"
+    ]
+  },
+  {
+    "business_description": "online learning platform in Singapore",
+    "expected_domain_names": [
+      "learninghub.co",
+      "platformbase.store",
+      "platformio.store"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in London",
+    "expected_domain_names": [
+      "seooptimization.net",
+      "seobase.io",
+      "seooptimization.org"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Berlin",
+    "expected_domain_names": [
+      "appify.net",
+      "mobilehub.biz",
+      "mobileapp.biz"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Singapore",
+    "expected_domain_names": [
+      "singaporebase.co",
+      "fastfoodchain.ai",
+      "singaporelink.com"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Paris",
+    "expected_domain_names": [
+      "tutoringzone.ai",
+      "servicebase.net",
+      "serviceify.org"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in Toronto",
+    "expected_domain_names": [
+      "insurancebrokerage.io",
+      "insurancebrokerage.org",
+      "insurancebrokerage.ai"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Berlin",
+    "expected_domain_names": [
+      "agencylink.org",
+      "estatezone.ai",
+      "realio.net"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in London",
+    "expected_domain_names": [
+      "gamingcafe.io",
+      "cafebase.com",
+      "gamingcafe.org"
+    ]
+  },
+  {
+    "business_description": "film production house in London",
+    "expected_domain_names": [
+      "filmproduction.org",
+      "filmproduction.biz",
+      "filmproduction.ai"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Berlin",
+    "expected_domain_names": [
+      "gamingcafe.net",
+      "gamingcafe.co",
+      "cafezone.store"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Paris",
+    "expected_domain_names": [
+      "organiclink.store",
+      "organiccoffee.org",
+      "organicify.store"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Tokyo",
+    "expected_domain_names": [
+      "startuppets.ai",
+      "startuphub.ai",
+      "startuppets.co"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Dubai",
+    "expected_domain_names": [
+      "decorzone.io",
+      "shopify.store",
+      "decorify.org"
+    ]
+  },
+  {
+    "business_description": "investment firm in Paris",
+    "expected_domain_names": [
+      "investmentfirm.io",
+      "firmio.org",
+      "investmentfirm.com"
+    ]
+  },
+  {
+    "business_description": "startup for pets in London",
+    "expected_domain_names": [
+      "startuppets.io",
+      "startupzone.store",
+      "petslink.com"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in London",
+    "expected_domain_names": [
+      "insurancebrokerage.org",
+      "brokerageify.net",
+      "londonlink.co"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in Singapore",
+    "expected_domain_names": [
+      "clinicify.io",
+      "singaporezone.store",
+      "physiotherapyclinic.store"
+    ]
+  },
+  {
+    "business_description": "electronics store in Dubai",
+    "expected_domain_names": [
+      "storehub.co",
+      "dubaihub.co",
+      "storezone.io"
+    ]
+  },
+  {
+    "business_description": "car rental service in Paris",
+    "expected_domain_names": [
+      "carrental.io",
+      "rentalhub.io",
+      "carrental.ai"
+    ]
+  },
+  {
+    "business_description": "film production house in Paris",
+    "expected_domain_names": [
+      "filmproduction.com",
+      "productionio.store",
+      "productionify.co"
+    ]
+  },
+  {
+    "business_description": "fitness center in New York",
+    "expected_domain_names": [
+      "fitnesslink.net",
+      "newlink.store",
+      "newify.com"
+    ]
+  },
+  {
+    "business_description": "electronics store in London",
+    "expected_domain_names": [
+      "electronicsstore.com",
+      "londonify.com",
+      "electronicsstore.net"
+    ]
+  },
+  {
+    "business_description": "coffee in Dubai",
+    "expected_domain_names": [
+      "coffeedubai.com",
+      "dubailink.com",
+      "dubaiio.co"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Berlin",
+    "expected_domain_names": [
+      "digitalart.ai",
+      "artify.org",
+      "digitalzone.io"
+    ]
+  },
+  {
+    "business_description": "coffee in Singapore",
+    "expected_domain_names": [
+      "singaporehub.store",
+      "coffeesingapore.biz",
+      "singaporeify.store"
+    ]
+  },
+  {
+    "business_description": "yoga studio in San Francisco",
+    "expected_domain_names": [
+      "yogastudio.net",
+      "yogastudio.io",
+      "yogastudio.com"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Berlin",
+    "expected_domain_names": [
+      "vrgaming.ai",
+      "gamingify.io",
+      "vrgaming.biz"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Singapore",
+    "expected_domain_names": [
+      "developerify.ai",
+      "educationalgame.io",
+      "educationalgame.net"
+    ]
+  },
+  {
+    "business_description": "event planning company in Toronto",
+    "expected_domain_names": [
+      "eventplanning.io",
+      "eventplanning.ai",
+      "planningify.org"
+    ]
+  },
+  {
+    "business_description": "investment firm in London",
+    "expected_domain_names": [
+      "investmentfirm.biz",
+      "investmentzone.co",
+      "investmentfirm.co"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in London",
+    "expected_domain_names": [
+      "platformlink.biz",
+      "videostreaming.ai",
+      "videostreaming.co"
+    ]
+  },
+  {
+    "business_description": "electronics store in London",
+    "expected_domain_names": [
+      "electronicsstore.org",
+      "electronicsstore.ai",
+      "electronicszone.ai"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in New York",
+    "expected_domain_names": [
+      "healthify.org",
+      "mentalhealth.net",
+      "counselinghub.net"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in London",
+    "expected_domain_names": [
+      "legalconsultancy.co",
+      "legalify.store",
+      "legalconsultancy.net"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Berlin",
+    "expected_domain_names": [
+      "gamebase.ai",
+      "gamebase.store",
+      "educationalgame.co"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Paris",
+    "expected_domain_names": [
+      "gamingcafe.ai",
+      "parislink.ai",
+      "gamingcafe.biz"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Tokyo",
+    "expected_domain_names": [
+      "icecream.io",
+      "icecream.store",
+      "icecream.co"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in San Francisco",
+    "expected_domain_names": [
+      "agencybase.co",
+      "luxurytravel.store",
+      "luxurytravel.org"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Toronto",
+    "expected_domain_names": [
+      "servicehub.co",
+      "petify.store",
+      "servicezone.io"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in San Francisco",
+    "expected_domain_names": [
+      "cryptocurrencyio.io",
+      "exchangeify.biz",
+      "sanbase.net"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Singapore",
+    "expected_domain_names": [
+      "digitalmarketing.com",
+      "digitalmarketing.io",
+      "digitalmarketing.ai"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Paris",
+    "expected_domain_names": [
+      "petio.com",
+      "groomingio.io",
+      "petlink.com"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Berlin",
+    "expected_domain_names": [
+      "luxurytravel.net",
+      "luxurytravel.com",
+      "travellink.biz"
+    ]
+  },
+  {
+    "business_description": "health awareness campaign in Singapore",
+    "expected_domain_names": [
+      "campaignbase.net",
+      "campaignbase.com",
+      "healthio.store"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in London",
+    "expected_domain_names": [
+      "blockchainstartup.net",
+      "blockchainstartup.io",
+      "blockchainstartup.biz"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in London",
+    "expected_domain_names": [
+      "shopbase.biz",
+      "organicify.biz",
+      "organiccoffee.com"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Tokyo",
+    "expected_domain_names": [
+      "serviceify.co",
+      "tutoringify.com",
+      "tutoringbase.store"
+    ]
+  },
+  {
+    "business_description": "fitness center in Paris",
+    "expected_domain_names": [
+      "fitnessify.store",
+      "centerbase.ai",
+      "fitnesscenter.biz"
+    ]
+  },
+  {
+    "business_description": "web design agency in Tokyo",
+    "expected_domain_names": [
+      "webdesign.org",
+      "webdesign.store",
+      "designify.com"
+    ]
+  },
+  {
+    "business_description": "coworking space in Paris",
+    "expected_domain_names": [
+      "coworkingify.ai",
+      "spacehub.org",
+      "coworkingspace.biz"
+    ]
+  },
+  {
+    "business_description": "investment firm in Dubai",
+    "expected_domain_names": [
+      "investmentfirm.io",
+      "firmio.ai",
+      "firmify.net"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Toronto",
+    "expected_domain_names": [
+      "languagetutoring.ai",
+      "tutoringlink.com",
+      "languagehub.net"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in San Francisco",
+    "expected_domain_names": [
+      "fastfoodchain.co",
+      "fastfoodify.org",
+      "fastfoodzone.co"
+    ]
+  },
+  {
+    "business_description": "music label in Tokyo",
+    "expected_domain_names": [
+      "musiclink.co",
+      "musiclabel.ai",
+      "musiclabel.org"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Toronto",
+    "expected_domain_names": [
+      "organizationzone.io",
+      "rescueio.net",
+      "animalrescue.ai"
+    ]
+  },
+  {
+    "business_description": "coworking space in San Francisco",
+    "expected_domain_names": [
+      "coworkingspace.io",
+      "coworkingspace.store",
+      "spaceify.ai"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Dubai",
+    "expected_domain_names": [
+      "vrbase.org",
+      "vrify.net",
+      "vrgaming.net"
+    ]
+  },
+  {
+    "business_description": "fitness center in Tokyo",
+    "expected_domain_names": [
+      "fitnesscenter.store",
+      "centerbase.co",
+      "fitnesscenter.net"
+    ]
+  },
+  {
+    "business_description": "environmental NGO in Singapore",
+    "expected_domain_names": [
+      "environmentalngo.net",
+      "environmentalngo.io",
+      "singaporehub.net"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Tokyo",
+    "expected_domain_names": [
+      "digitalart.store",
+      "digitalart.ai",
+      "digitalart.org"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in London",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.net",
+      "londonzone.co",
+      "cryptocurrencyexchange.store"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Tokyo",
+    "expected_domain_names": [
+      "shopzone.io",
+      "organicbase.store",
+      "organiccoffee.ai"
+    ]
+  },
+  {
+    "business_description": "event planning company in San Francisco",
+    "expected_domain_names": [
+      "planningify.ai",
+      "companyhub.store",
+      "eventplanning.co"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Tokyo",
+    "expected_domain_names": [
+      "coffeeify.com",
+      "organiccoffee.store",
+      "organiccoffee.ai"
+    ]
+  },
+  {
+    "business_description": "online bookstore in San Francisco",
+    "expected_domain_names": [
+      "onlinebookstore.net",
+      "onlinezone.io",
+      "onlinehub.com"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Dubai",
+    "expected_domain_names": [
+      "personalfinance.com",
+      "advisoryify.com",
+      "advisoryzone.net"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in San Francisco",
+    "expected_domain_names": [
+      "digitalart.com",
+      "artlink.io",
+      "digitalart.biz"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Berlin",
+    "expected_domain_names": [
+      "fastfoodchain.io",
+      "berlinify.ai",
+      "fastfoodchain.net"
+    ]
+  },
+  {
+    "business_description": "coworking space in Singapore",
+    "expected_domain_names": [
+      "coworkingio.org",
+      "spaceify.ai",
+      "spaceify.org"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Toronto",
+    "expected_domain_names": [
+      "firmzone.store",
+      "aiconsulting.ai",
+      "aiconsulting.com"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in San Francisco",
+    "expected_domain_names": [
+      "languagetutoring.com",
+      "languagehub.io",
+      "serviceio.org"
+    ]
+  },
+  {
+    "business_description": "car rental service in London",
+    "expected_domain_names": [
+      "carhub.biz",
+      "serviceio.net",
+      "carlink.io"
+    ]
+  },
+  {
+    "business_description": "event planning company in Dubai",
+    "expected_domain_names": [
+      "eventplanning.org",
+      "eventplanning.io",
+      "eventbase.biz"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in London",
+    "expected_domain_names": [
+      "londonbase.ai",
+      "nonprofitlink.org",
+      "nonprofiteducation.biz"
+    ]
+  },
+  {
+    "business_description": "film production house in Toronto",
+    "expected_domain_names": [
+      "filmlink.io",
+      "houseify.io",
+      "filmproduction.co"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in New York",
+    "expected_domain_names": [
+      "nutritioncoaching.ai",
+      "newio.ai",
+      "nutritionhub.co"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Dubai",
+    "expected_domain_names": [
+      "developerhub.ai",
+      "educationalgame.io",
+      "gamezone.com"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Tokyo",
+    "expected_domain_names": [
+      "animalrescue.store",
+      "animalrescue.io",
+      "animalrescue.ai"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in San Francisco",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.co",
+      "exchangebase.io",
+      "cryptocurrencyexchange.store"
+    ]
+  },
+  {
+    "business_description": "event planning company in Dubai",
+    "expected_domain_names": [
+      "companylink.io",
+      "eventplanning.ai",
+      "companybase.store"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in London",
+    "expected_domain_names": [
+      "solutionslink.store",
+      "cloudsolutions.org",
+      "providerio.biz"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Tokyo",
+    "expected_domain_names": [
+      "seooptimization.net",
+      "seooptimization.store",
+      "optimizationio.ai"
+    ]
+  },
+  {
+    "business_description": "web design agency in Tokyo",
+    "expected_domain_names": [
+      "designlink.com",
+      "webdesign.store",
+      "weblink.net"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in New York",
+    "expected_domain_names": [
+      "organicskincare.com",
+      "brandio.biz",
+      "organicskincare.biz"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in New York",
+    "expected_domain_names": [
+      "educationplatform.com",
+      "educationplatform.net",
+      "educationplatform.org"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in Paris",
+    "expected_domain_names": [
+      "digitalmarketing.com",
+      "agencyzone.co",
+      "digitalio.io"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in New York",
+    "expected_domain_names": [
+      "seoify.net",
+      "seooptimization.com",
+      "seohub.org"
+    ]
+  },
+  {
+    "business_description": "fitness center in Singapore",
+    "expected_domain_names": [
+      "fitnesslink.ai",
+      "fitnesshub.io",
+      "fitnesscenter.co"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Berlin",
+    "expected_domain_names": [
+      "berlinzone.biz",
+      "blockchainstartup.io",
+      "startupbase.net"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Paris",
+    "expected_domain_names": [
+      "parisio.ai",
+      "parishub.net",
+      "nutritioncoaching.biz"
+    ]
+  },
+  {
+    "business_description": "online learning platform in New York",
+    "expected_domain_names": [
+      "onlinebase.ai",
+      "learninglink.com",
+      "onlinebase.store"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Singapore",
+    "expected_domain_names": [
+      "nutritioncoaching.store",
+      "nutritioncoaching.com",
+      "nutritionzone.org"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Paris",
+    "expected_domain_names": [
+      "weddingzone.co",
+      "weddingphotography.biz",
+      "weddingphotography.ai"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in Tokyo",
+    "expected_domain_names": [
+      "tokyobase.org",
+      "bootcamphub.store",
+      "tokyohub.com"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in San Francisco",
+    "expected_domain_names": [
+      "bakeryio.net",
+      "bakerypastry.io",
+      "bakerypastry.biz"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in London",
+    "expected_domain_names": [
+      "petgrooming.ai",
+      "servicehub.com",
+      "petgrooming.org"
+    ]
+  },
+  {
+    "business_description": "online learning platform in London",
+    "expected_domain_names": [
+      "learningbase.org",
+      "onlinelearning.io",
+      "onlinebase.org"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in New York",
+    "expected_domain_names": [
+      "physiotherapyclinic.ai",
+      "physiotherapyclinic.biz",
+      "newify.co"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Singapore",
+    "expected_domain_names": [
+      "singaporeify.org",
+      "blockchainstartup.io",
+      "blockchainstartup.biz"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Berlin",
+    "expected_domain_names": [
+      "nutritioncoaching.org",
+      "berlinhub.biz",
+      "nutritionify.net"
+    ]
+  },
+  {
+    "business_description": "car rental service in Singapore",
+    "expected_domain_names": [
+      "carrental.io",
+      "cario.org",
+      "rentallink.store"
+    ]
+  },
+  {
+    "business_description": "film production house in Singapore",
+    "expected_domain_names": [
+      "filmproduction.com",
+      "filmproduction.biz",
+      "filmlink.org"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Dubai",
+    "expected_domain_names": [
+      "platformbase.biz",
+      "microlendingplatform.co",
+      "platformbase.store"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Singapore",
+    "expected_domain_names": [
+      "petgrooming.org",
+      "petify.store",
+      "petgrooming.io"
+    ]
+  },
+  {
+    "business_description": "investment firm in New York",
+    "expected_domain_names": [
+      "firmzone.org",
+      "investmentify.io",
+      "investmentfirm.co"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Berlin",
+    "expected_domain_names": [
+      "gaminglink.biz",
+      "vrgaming.com",
+      "vrgaming.io"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in New York",
+    "expected_domain_names": [
+      "newify.net",
+      "newzone.org",
+      "codingbootcamp.store"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in London",
+    "expected_domain_names": [
+      "serviceio.io",
+      "petgrooming.biz",
+      "petgrooming.net"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in New York",
+    "expected_domain_names": [
+      "servicezone.store",
+      "petgrooming.io",
+      "groomingify.co"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in Tokyo",
+    "expected_domain_names": [
+      "bootcamplink.ai",
+      "codingbootcamp.io",
+      "bootcampzone.io"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Dubai",
+    "expected_domain_names": [
+      "mobileapp.org",
+      "developmentzone.com",
+      "appio.io"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Toronto",
+    "expected_domain_names": [
+      "vrgaming.store",
+      "vrgaming.net",
+      "vrzone.store"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in New York",
+    "expected_domain_names": [
+      "organicskincare.net",
+      "organicskincare.ai",
+      "organicskincare.org"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in San Francisco",
+    "expected_domain_names": [
+      "physiotherapyclinic.biz",
+      "physiotherapyclinic.org",
+      "physiotherapyio.org"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Dubai",
+    "expected_domain_names": [
+      "legalconsultancy.io",
+      "consultancyio.com",
+      "legalconsultancy.com"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in San Francisco",
+    "expected_domain_names": [
+      "vrgaming.io",
+      "vrgaming.com",
+      "centerify.ai"
+    ]
+  },
+  {
+    "business_description": "film production house in New York",
+    "expected_domain_names": [
+      "filmify.store",
+      "productionify.ai",
+      "filmproduction.ai"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Berlin",
+    "expected_domain_names": [
+      "personalify.com",
+      "personalfinance.io",
+      "personalfinance.net"
+    ]
+  },
+  {
+    "business_description": "web design agency in Tokyo",
+    "expected_domain_names": [
+      "agencyzone.ai",
+      "webdesign.net",
+      "webzone.store"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in London",
+    "expected_domain_names": [
+      "bakerypastry.co",
+      "bakerylink.store",
+      "bakerypastry.biz"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Paris",
+    "expected_domain_names": [
+      "organiccoffee.net",
+      "organiccoffee.org",
+      "coffeeio.net"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Dubai",
+    "expected_domain_names": [
+      "cleaningbase.com",
+      "homecleaning.net",
+      "homecleaning.store"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Tokyo",
+    "expected_domain_names": [
+      "startuphub.io",
+      "startupbase.com",
+      "blockchainstartup.net"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Tokyo",
+    "expected_domain_names": [
+      "seoify.net",
+      "seoify.store",
+      "seolink.io"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Berlin",
+    "expected_domain_names": [
+      "vrbase.io",
+      "gaminglink.store",
+      "vrgaming.io"
+    ]
+  },
+  {
+    "business_description": "web design agency in London",
+    "expected_domain_names": [
+      "webzone.net",
+      "designify.ai",
+      "webdesign.com"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Singapore",
+    "expected_domain_names": [
+      "seooptimization.org",
+      "seohub.ai",
+      "optimizationify.io"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in San Francisco",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.ai",
+      "sanzone.com",
+      "cryptocurrencyexchange.biz"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Paris",
+    "expected_domain_names": [
+      "weddingphotography.biz",
+      "weddingphotography.io",
+      "businessbase.com"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Singapore",
+    "expected_domain_names": [
+      "mobileapp.net",
+      "mobileapp.biz",
+      "appio.org"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in London",
+    "expected_domain_names": [
+      "organicskincare.co",
+      "organicskincare.store",
+      "organicio.io"
+    ]
+  },
+  {
+    "business_description": "investment firm in Dubai",
+    "expected_domain_names": [
+      "investmentfirm.net",
+      "investmentfirm.biz",
+      "investmentfirm.store"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Dubai",
+    "expected_domain_names": [
+      "icecream.org",
+      "parlorzone.com",
+      "parlorhub.net"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Berlin",
+    "expected_domain_names": [
+      "blockchainhub.store",
+      "blockchainstartup.store",
+      "blockchainstartup.co"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Singapore",
+    "expected_domain_names": [
+      "yogastudio.net",
+      "singaporezone.store",
+      "yogalink.store"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in San Francisco",
+    "expected_domain_names": [
+      "firmhub.store",
+      "firmify.org",
+      "firmio.biz"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Dubai",
+    "expected_domain_names": [
+      "rescueio.org",
+      "animalify.ai",
+      "animalrescue.net"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in Singapore",
+    "expected_domain_names": [
+      "telemedicineplatform.ai",
+      "telemedicineplatform.com",
+      "telemedicineplatform.biz"
+    ]
+  },
+  {
+    "business_description": "fitness center in Dubai",
+    "expected_domain_names": [
+      "fitnesscenter.store",
+      "fitnesscenter.co",
+      "fitnesscenter.net"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in San Francisco",
+    "expected_domain_names": [
+      "restaurantlink.biz",
+      "veganrestaurant.co",
+      "veganrestaurant.store"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Toronto",
+    "expected_domain_names": [
+      "nonprofiteducation.net",
+      "educationlink.ai",
+      "nonprofiteducation.biz"
+    ]
+  },
+  {
+    "business_description": "coworking space in New York",
+    "expected_domain_names": [
+      "spacelink.io",
+      "newhub.net",
+      "spaceio.org"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Berlin",
+    "expected_domain_names": [
+      "educationalgame.io",
+      "developerio.net",
+      "educationalgame.org"
+    ]
+  },
+  {
+    "business_description": "university consultancy in Toronto",
+    "expected_domain_names": [
+      "torontoio.net",
+      "universityconsultancy.com",
+      "torontoify.org"
+    ]
+  },
+  {
+    "business_description": "food truck business in Singapore",
+    "expected_domain_names": [
+      "foodtruck.ai",
+      "businessify.biz",
+      "foodtruck.co"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in San Francisco",
+    "expected_domain_names": [
+      "fastfoodchain.io",
+      "fastfoodchain.ai",
+      "fastfoodchain.store"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in Dubai",
+    "expected_domain_names": [
+      "cybersecuritylink.org",
+      "servicebase.biz",
+      "cybersecurityservice.biz"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in New York",
+    "expected_domain_names": [
+      "personalhub.store",
+      "personalfinance.org",
+      "advisoryify.co"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Tokyo",
+    "expected_domain_names": [
+      "nonprofiteducation.net",
+      "nonprofiteducation.org",
+      "nonprofitio.ai"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Berlin",
+    "expected_domain_names": [
+      "blockchainzone.store",
+      "blockchainhub.net",
+      "startuphub.ai"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Singapore",
+    "expected_domain_names": [
+      "healthcarebase.ai",
+      "healthcarebase.io",
+      "solutionify.biz"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Toronto",
+    "expected_domain_names": [
+      "groomingbase.store",
+      "groomingzone.net",
+      "petgrooming.com"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Dubai",
+    "expected_domain_names": [
+      "dubaizone.net",
+      "coachingify.com",
+      "nutritionify.biz"
+    ]
+  },
+  {
+    "business_description": "coworking space in New York",
+    "expected_domain_names": [
+      "coworkingspace.io",
+      "coworkinglink.io",
+      "coworkingspace.biz"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Toronto",
+    "expected_domain_names": [
+      "animalrescue.net",
+      "animalrescue.biz",
+      "rescuehub.net"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Dubai",
+    "expected_domain_names": [
+      "educationalzone.io",
+      "educationalgame.io",
+      "educationallink.store"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Tokyo",
+    "expected_domain_names": [
+      "aipoweredlink.com",
+      "solutionio.store",
+      "aipoweredhealthcare.co"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in London",
+    "expected_domain_names": [
+      "codingbootcamp.com",
+      "codingbootcamp.org",
+      "londonzone.org"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Singapore",
+    "expected_domain_names": [
+      "animalrescue.org",
+      "organizationify.com",
+      "animalrescue.ai"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Paris",
+    "expected_domain_names": [
+      "serviceio.com",
+      "servicelink.com",
+      "homecleaning.ai"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in New York",
+    "expected_domain_names": [
+      "consultancyhub.ai",
+      "legalconsultancy.store",
+      "legalbase.com"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Dubai",
+    "expected_domain_names": [
+      "homecleaning.com",
+      "homecleaning.net",
+      "homecleaning.io"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Berlin",
+    "expected_domain_names": [
+      "firmify.io",
+      "aiconsulting.org",
+      "aiconsulting.ai"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in New York",
+    "expected_domain_names": [
+      "homecleaning.io",
+      "homecleaning.org",
+      "homecleaning.ai"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Toronto",
+    "expected_domain_names": [
+      "gamingcafe.net",
+      "gamingcafe.co",
+      "gamingcafe.org"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Toronto",
+    "expected_domain_names": [
+      "restaurantzone.io",
+      "finedining.store",
+      "finedining.org"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Dubai",
+    "expected_domain_names": [
+      "pastrylink.com",
+      "bakerypastry.net",
+      "bakerypastry.biz"
+    ]
+  },
+  {
+    "business_description": "yoga studio in San Francisco",
+    "expected_domain_names": [
+      "yogastudio.com",
+      "studiolink.co",
+      "yogastudio.biz"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in Paris",
+    "expected_domain_names": [
+      "luxurywatch.co",
+      "luxurywatch.store",
+      "luxurywatch.ai"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Paris",
+    "expected_domain_names": [
+      "weddingphotography.biz",
+      "businessio.biz",
+      "weddingphotography.com"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Berlin",
+    "expected_domain_names": [
+      "consultingify.store",
+      "aiify.store",
+      "aiconsulting.store"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Tokyo",
+    "expected_domain_names": [
+      "finehub.store",
+      "dininghub.co",
+      "finedining.org"
+    ]
+  },
+  {
+    "business_description": "music label in New York",
+    "expected_domain_names": [
+      "labellink.com",
+      "musicbase.biz",
+      "musiclabel.com"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in San Francisco",
+    "expected_domain_names": [
+      "cybersecurityservice.co",
+      "cybersecurityservice.io",
+      "providerlink.biz"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in Paris",
+    "expected_domain_names": [
+      "educationplatform.org",
+      "educationplatform.net",
+      "educationplatform.com"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Paris",
+    "expected_domain_names": [
+      "gaminghub.ai",
+      "gamingcafe.biz",
+      "gamingcafe.io"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Tokyo",
+    "expected_domain_names": [
+      "brandzone.biz",
+      "brandlink.biz",
+      "organicskincare.biz"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Tokyo",
+    "expected_domain_names": [
+      "gamingcafe.com",
+      "gamingbase.co",
+      "gamingcafe.co"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in Dubai",
+    "expected_domain_names": [
+      "physiotherapyzone.co",
+      "clinicio.io",
+      "dubaizone.co"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Berlin",
+    "expected_domain_names": [
+      "consultingify.co",
+      "aiconsulting.biz",
+      "aiconsulting.com"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Tokyo",
+    "expected_domain_names": [
+      "startuplink.net",
+      "startuppets.store",
+      "tokyoify.net"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in New York",
+    "expected_domain_names": [
+      "providerio.org",
+      "cybersecurityhub.co",
+      "servicehub.biz"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Paris",
+    "expected_domain_names": [
+      "realbase.org",
+      "realestate.co",
+      "realestate.com"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in Toronto",
+    "expected_domain_names": [
+      "weddinglink.biz",
+      "weddingphotography.org",
+      "weddingphotography.io"
+    ]
+  },
+  {
+    "business_description": "wedding photography business in San Francisco",
+    "expected_domain_names": [
+      "weddingphotography.ai",
+      "weddingphotography.io",
+      "weddingphotography.com"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Toronto",
+    "expected_domain_names": [
+      "developerzone.co",
+      "educationalgame.ai",
+      "educationalgame.org"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Berlin",
+    "expected_domain_names": [
+      "petsify.org",
+      "petslink.store",
+      "berlinzone.io"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in Berlin",
+    "expected_domain_names": [
+      "boutiquezone.net",
+      "fashionhub.io",
+      "fashionboutique.org"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Dubai",
+    "expected_domain_names": [
+      "restaurantbase.store",
+      "veganrestaurant.ai",
+      "dubaizone.ai"
+    ]
+  },
+  {
+    "business_description": "music label in Tokyo",
+    "expected_domain_names": [
+      "labellink.net",
+      "musiclabel.net",
+      "labelzone.ai"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in London",
+    "expected_domain_names": [
+      "providerzone.store",
+      "cybersecuritybase.biz",
+      "cybersecurityservice.net"
+    ]
+  },
+  {
+    "business_description": "fitness center in Dubai",
+    "expected_domain_names": [
+      "centerhub.biz",
+      "dubaizone.ai",
+      "centerlink.co"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Dubai",
+    "expected_domain_names": [
+      "bakeryhub.co",
+      "bakerypastry.net",
+      "bakerypastry.io"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in San Francisco",
+    "expected_domain_names": [
+      "bootcampbase.net",
+      "codingbootcamp.org",
+      "codingbootcamp.net"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in New York",
+    "expected_domain_names": [
+      "seolink.net",
+      "seooptimization.org",
+      "seobase.store"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Tokyo",
+    "expected_domain_names": [
+      "educationallink.io",
+      "educationalgame.store",
+      "educationalgame.org"
+    ]
+  },
+  {
+    "business_description": "online learning platform in London",
+    "expected_domain_names": [
+      "platformhub.net",
+      "onlinelearning.ai",
+      "onlinelearning.org"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Paris",
+    "expected_domain_names": [
+      "cloudsolutions.store",
+      "cloudsolutions.ai",
+      "cloudlink.org"
+    ]
+  },
+  {
+    "business_description": "investment firm in Toronto",
+    "expected_domain_names": [
+      "investmentfirm.io",
+      "investmentlink.ai",
+      "torontolink.io"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in London",
+    "expected_domain_names": [
+      "consultancylink.co",
+      "legalconsultancy.com",
+      "legalconsultancy.io"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in San Francisco",
+    "expected_domain_names": [
+      "mobileapp.store",
+      "mobileapp.com",
+      "apphub.ai"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in New York",
+    "expected_domain_names": [
+      "organicskincare.com",
+      "brandlink.org",
+      "organicskincare.org"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Dubai",
+    "expected_domain_names": [
+      "videostreaming.store",
+      "videostreaming.net",
+      "videostreaming.io"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Dubai",
+    "expected_domain_names": [
+      "petgrooming.ai",
+      "petgrooming.net",
+      "servicelink.io"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Berlin",
+    "expected_domain_names": [
+      "financezone.net",
+      "advisoryzone.io",
+      "personalfinance.ai"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Berlin",
+    "expected_domain_names": [
+      "iceify.ai",
+      "icecream.biz",
+      "creamify.com"
+    ]
+  },
+  {
+    "business_description": "yoga studio in London",
+    "expected_domain_names": [
+      "yogalink.org",
+      "yogastudio.org",
+      "studioify.co"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Berlin",
+    "expected_domain_names": [
+      "startupify.com",
+      "blockchainstartup.net",
+      "startupbase.net"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in New York",
+    "expected_domain_names": [
+      "petgrooming.co",
+      "petgrooming.biz",
+      "serviceify.biz"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Singapore",
+    "expected_domain_names": [
+      "consultancyio.co",
+      "singaporelink.io",
+      "legalhub.co"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Tokyo",
+    "expected_domain_names": [
+      "cloudsolutions.org",
+      "solutionsio.co",
+      "cloudsolutions.io"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Dubai",
+    "expected_domain_names": [
+      "agencybase.co",
+      "estateify.store",
+      "realestate.com"
+    ]
+  },
+  {
+    "business_description": "food truck business in London",
+    "expected_domain_names": [
+      "foodtruck.net",
+      "truckbase.biz",
+      "foodtruck.store"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Berlin",
+    "expected_domain_names": [
+      "startuplink.io",
+      "blockchainstartup.io",
+      "blockchainstartup.net"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in San Francisco",
+    "expected_domain_names": [
+      "brandbase.com",
+      "organicskincare.io",
+      "skincarezone.store"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Paris",
+    "expected_domain_names": [
+      "icecream.com",
+      "creamlink.com",
+      "icebase.ai"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in London",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.co",
+      "cryptocurrencyexchange.io",
+      "cryptocurrencyexchange.org"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in San Francisco",
+    "expected_domain_names": [
+      "veganrestaurant.biz",
+      "sanlink.ai",
+      "veganrestaurant.io"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in New York",
+    "expected_domain_names": [
+      "agencyio.org",
+      "agencyzone.store",
+      "digitalmarketing.net"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in New York",
+    "expected_domain_names": [
+      "rescuebase.io",
+      "animalrescue.biz",
+      "animalrescue.co"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in Berlin",
+    "expected_domain_names": [
+      "boutiquelink.org",
+      "fashionboutique.net",
+      "fashionboutique.co"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in San Francisco",
+    "expected_domain_names": [
+      "mobileapp.net",
+      "mobileapp.store",
+      "developmentify.co"
+    ]
+  },
+  {
+    "business_description": "film production house in Paris",
+    "expected_domain_names": [
+      "filmproduction.org",
+      "houseio.com",
+      "filmio.io"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Toronto",
+    "expected_domain_names": [
+      "fastfoodchain.org",
+      "fastfoodio.ai",
+      "chainio.org"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Dubai",
+    "expected_domain_names": [
+      "vrbase.ai",
+      "centerhub.com",
+      "vrify.org"
+    ]
+  },
+  {
+    "business_description": "event planning company in Tokyo",
+    "expected_domain_names": [
+      "eventhub.store",
+      "eventplanning.co",
+      "eventplanning.net"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in London",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.net",
+      "cryptocurrencyexchange.io",
+      "cryptocurrencyexchange.store"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Tokyo",
+    "expected_domain_names": [
+      "coffeezone.org",
+      "organicbase.store",
+      "organiccoffee.com"
+    ]
+  },
+  {
+    "business_description": "environmental NGO in San Francisco",
+    "expected_domain_names": [
+      "sanbase.com",
+      "environmentalngo.com",
+      "environmentalngo.co"
+    ]
+  },
+  {
+    "business_description": "car rental service in London",
+    "expected_domain_names": [
+      "carrental.org",
+      "carrental.biz",
+      "servicezone.co"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in London",
+    "expected_domain_names": [
+      "parlorzone.net",
+      "iceio.io",
+      "parlorlink.biz"
+    ]
+  },
+  {
+    "business_description": "youth development program in Tokyo",
+    "expected_domain_names": [
+      "youthdevelopment.io",
+      "programhub.biz",
+      "programify.biz"
+    ]
+  },
+  {
+    "business_description": "health awareness campaign in Singapore",
+    "expected_domain_names": [
+      "awarenesslink.ai",
+      "healthawareness.org",
+      "healthawareness.store"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Toronto",
+    "expected_domain_names": [
+      "fastfoodchain.co",
+      "chainhub.ai",
+      "torontohub.biz"
+    ]
+  },
+  {
+    "business_description": "fitness center in San Francisco",
+    "expected_domain_names": [
+      "fitnesscenter.com",
+      "fitnesscenter.store",
+      "sanbase.net"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in Tokyo",
+    "expected_domain_names": [
+      "educationplatform.com",
+      "educationbase.biz",
+      "educationplatform.ai"
+    ]
+  },
+  {
+    "business_description": "yoga studio in New York",
+    "expected_domain_names": [
+      "yogastudio.net",
+      "yogastudio.io",
+      "yogastudio.com"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Paris",
+    "expected_domain_names": [
+      "vrgaming.org",
+      "vrgaming.biz",
+      "vrgaming.ai"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Singapore",
+    "expected_domain_names": [
+      "reallink.net",
+      "realestate.com",
+      "realestate.biz"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Berlin",
+    "expected_domain_names": [
+      "solutionshub.org",
+      "cloudsolutions.ai",
+      "cloudsolutions.co"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Tokyo",
+    "expected_domain_names": [
+      "podcastproduction.ai",
+      "podcastproduction.io",
+      "podcastproduction.store"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Berlin",
+    "expected_domain_names": [
+      "berlinify.com",
+      "startuplink.ai",
+      "startuppets.com"
+    ]
+  },
+  {
+    "business_description": "educational game developer in New York",
+    "expected_domain_names": [
+      "educationalify.org",
+      "educationalgame.net",
+      "educationalgame.org"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Berlin",
+    "expected_domain_names": [
+      "optimizationzone.org",
+      "firmbase.co",
+      "seooptimization.store"
+    ]
+  },
+  {
+    "business_description": "car rental service in Toronto",
+    "expected_domain_names": [
+      "carbase.net",
+      "carhub.com",
+      "carrental.co"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in London",
+    "expected_domain_names": [
+      "homehub.store",
+      "cleaningbase.ai",
+      "cleaninghub.com"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Singapore",
+    "expected_domain_names": [
+      "optimizationlink.com",
+      "seolink.store",
+      "seooptimization.co"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Toronto",
+    "expected_domain_names": [
+      "aipoweredhealthcare.com",
+      "aipoweredhealthcare.net",
+      "solutionlink.org"
+    ]
+  },
+  {
+    "business_description": "investment firm in Toronto",
+    "expected_domain_names": [
+      "investmentfirm.biz",
+      "investmentfirm.com",
+      "investmentfirm.co"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Paris",
+    "expected_domain_names": [
+      "parisify.com",
+      "pariszone.biz",
+      "parisio.com"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in London",
+    "expected_domain_names": [
+      "seooptimization.net",
+      "seooptimization.store",
+      "optimizationify.io"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Singapore",
+    "expected_domain_names": [
+      "cloudsolutions.store",
+      "cloudsolutions.ai",
+      "cloudsolutions.co"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Paris",
+    "expected_domain_names": [
+      "coachingify.co",
+      "nutritioncoaching.net",
+      "nutritionbase.ai"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Singapore",
+    "expected_domain_names": [
+      "vrgaming.org",
+      "vrgaming.ai",
+      "centerzone.com"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Singapore",
+    "expected_domain_names": [
+      "seooptimization.org",
+      "seooptimization.ai",
+      "seooptimization.com"
+    ]
+  },
+  {
+    "business_description": "car rental service in Tokyo",
+    "expected_domain_names": [
+      "rentalify.biz",
+      "rentalhub.org",
+      "carrental.ai"
+    ]
+  },
+  {
+    "business_description": "educational game developer in London",
+    "expected_domain_names": [
+      "educationalgame.net",
+      "gamelink.net",
+      "developerlink.net"
+    ]
+  },
+  {
+    "business_description": "car rental service in Tokyo",
+    "expected_domain_names": [
+      "rentallink.biz",
+      "carlink.ai",
+      "carrental.co"
+    ]
+  },
+  {
+    "business_description": "music label in Singapore",
+    "expected_domain_names": [
+      "musiclabel.io",
+      "musiclink.org",
+      "musiclabel.org"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Berlin",
+    "expected_domain_names": [
+      "consultancyio.biz",
+      "berlinhub.com",
+      "legalconsultancy.ai"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Paris",
+    "expected_domain_names": [
+      "firmlink.store",
+      "optimizationio.store",
+      "seooptimization.co"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in San Francisco",
+    "expected_domain_names": [
+      "boutiquebase.io",
+      "boutiquehub.ai",
+      "boutiquelink.co"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Dubai",
+    "expected_domain_names": [
+      "seooptimization.io",
+      "seooptimization.store",
+      "seooptimization.net"
+    ]
+  },
+  {
+    "business_description": "fitness center in London",
+    "expected_domain_names": [
+      "fitnesscenter.store",
+      "fitnesscenter.org",
+      "fitnessbase.io"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Berlin",
+    "expected_domain_names": [
+      "brandhub.io",
+      "organicbase.com",
+      "organicskincare.io"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Singapore",
+    "expected_domain_names": [
+      "veganlink.org",
+      "singaporezone.io",
+      "singaporehub.co"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in London",
+    "expected_domain_names": [
+      "icehub.store",
+      "icecream.io",
+      "parlorbase.org"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in London",
+    "expected_domain_names": [
+      "veganify.co",
+      "veganify.ai",
+      "veganrestaurant.org"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Toronto",
+    "expected_domain_names": [
+      "personalfinance.com",
+      "financezone.org",
+      "personalfinance.biz"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Dubai",
+    "expected_domain_names": [
+      "shopzone.ai",
+      "bakerypastry.org",
+      "shophub.org"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in New York",
+    "expected_domain_names": [
+      "nonprofiteducation.com",
+      "nonprofitify.co",
+      "nonprofiteducation.co"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in London",
+    "expected_domain_names": [
+      "restaurantlink.org",
+      "finedining.co",
+      "finedining.biz"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in New York",
+    "expected_domain_names": [
+      "nonprofiteducation.ai",
+      "nonprofiteducation.co",
+      "newify.io"
+    ]
+  },
+  {
+    "business_description": "food truck business in Berlin",
+    "expected_domain_names": [
+      "foodtruck.com",
+      "businesszone.ai",
+      "foodio.net"
+    ]
+  },
+  {
+    "business_description": "fitness center in Paris",
+    "expected_domain_names": [
+      "fitnesscenter.com",
+      "fitnesscenter.store",
+      "fitnesscenter.io"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Dubai",
+    "expected_domain_names": [
+      "petgrooming.org",
+      "petgrooming.com",
+      "groomingbase.co"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Paris",
+    "expected_domain_names": [
+      "aiconsulting.biz",
+      "aiconsulting.store",
+      "firmlink.io"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in San Francisco",
+    "expected_domain_names": [
+      "seolink.io",
+      "seooptimization.store",
+      "seooptimization.com"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Tokyo",
+    "expected_domain_names": [
+      "blockchainzone.biz",
+      "startupbase.net",
+      "blockchainstartup.ai"
+    ]
+  },
+  {
+    "business_description": "online learning platform in Dubai",
+    "expected_domain_names": [
+      "learningio.ai",
+      "onlinelearning.io",
+      "onlinebase.store"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Berlin",
+    "expected_domain_names": [
+      "vrzone.com",
+      "vrgaming.com",
+      "vrgaming.store"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Paris",
+    "expected_domain_names": [
+      "providerlink.ai",
+      "cloudsolutions.com",
+      "solutionsify.co"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in New York",
+    "expected_domain_names": [
+      "icecream.net",
+      "creamlink.com",
+      "icecream.ai"
+    ]
+  },
+  {
+    "business_description": "online bookstore in London",
+    "expected_domain_names": [
+      "onlinebookstore.co",
+      "onlinebookstore.ai",
+      "onlinebookstore.org"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in London",
+    "expected_domain_names": [
+      "cybersecurityservice.net",
+      "cybersecurityservice.co",
+      "providerify.co"
+    ]
+  },
+  {
+    "business_description": "digital marketing agency in London",
+    "expected_domain_names": [
+      "digitalmarketing.org",
+      "marketingify.biz",
+      "digitalmarketing.net"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in London",
+    "expected_domain_names": [
+      "aipoweredhealthcare.io",
+      "aipoweredhealthcare.co",
+      "aipoweredhealthcare.com"
+    ]
+  },
+  {
+    "business_description": "yoga studio in San Francisco",
+    "expected_domain_names": [
+      "sanlink.store",
+      "yogastudio.io",
+      "sanlink.io"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Berlin",
+    "expected_domain_names": [
+      "counselinglink.store",
+      "healthzone.co",
+      "mentalhealth.net"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Paris",
+    "expected_domain_names": [
+      "servicebase.io",
+      "servicelink.com",
+      "groomingbase.co"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Berlin",
+    "expected_domain_names": [
+      "homedecor.net",
+      "homedecor.store",
+      "decorlink.co"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Tokyo",
+    "expected_domain_names": [
+      "tokyoify.org",
+      "yogastudio.io",
+      "yogastudio.biz"
+    ]
+  },
+  {
+    "business_description": "yoga studio in San Francisco",
+    "expected_domain_names": [
+      "yogalink.biz",
+      "yogastudio.store",
+      "yogastudio.biz"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in San Francisco",
+    "expected_domain_names": [
+      "counselingbase.co",
+      "healthhub.org",
+      "mentalhealth.org"
+    ]
+  },
+  {
+    "business_description": "yoga studio in London",
+    "expected_domain_names": [
+      "yogastudio.store",
+      "yogastudio.org",
+      "yogahub.com"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Tokyo",
+    "expected_domain_names": [
+      "shophub.io",
+      "coffeehub.store",
+      "coffeezone.biz"
+    ]
+  },
+  {
+    "business_description": "car rental service in San Francisco",
+    "expected_domain_names": [
+      "carrental.io",
+      "carrental.com",
+      "carrental.co"
+    ]
+  },
+  {
+    "business_description": "music label in Dubai",
+    "expected_domain_names": [
+      "labelio.net",
+      "musiclabel.org",
+      "musiczone.net"
+    ]
+  },
+  {
+    "business_description": "health awareness campaign in New York",
+    "expected_domain_names": [
+      "campaignlink.biz",
+      "healthzone.co",
+      "healthawareness.io"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Dubai",
+    "expected_domain_names": [
+      "companyzone.store",
+      "podcastproduction.io",
+      "companyhub.biz"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in London",
+    "expected_domain_names": [
+      "blockchainio.co",
+      "blockchainstartup.co",
+      "blockchainstartup.biz"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in London",
+    "expected_domain_names": [
+      "nonprofithub.co",
+      "nonprofiteducation.co",
+      "nonprofiteducation.io"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in San Francisco",
+    "expected_domain_names": [
+      "cleaninglink.co",
+      "homeify.com",
+      "serviceio.org"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Singapore",
+    "expected_domain_names": [
+      "languagetutoring.com",
+      "languagetutoring.io",
+      "languagetutoring.store"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in San Francisco",
+    "expected_domain_names": [
+      "vrbase.org",
+      "centerio.ai",
+      "vrgaming.com"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+    "expected_domain_names": [
+      "aipoweredhealthcare.store",
+      "aipoweredhealthcare.com",
+      "aipoweredhealthcare.ai"
+    ]
+  },
+  {
+    "business_description": "food truck business in Paris",
+    "expected_domain_names": [
+      "truckhub.net",
+      "foodtruck.net",
+      "foodtruck.io"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Toronto",
+    "expected_domain_names": [
+      "blockchainstartup.com",
+      "blockchainio.ai",
+      "startupbase.org"
+    ]
+  },
+  {
+    "business_description": "food truck business in Singapore",
+    "expected_domain_names": [
+      "foodtruck.net",
+      "truckbase.ai",
+      "truckify.org"
+    ]
+  },
+  {
+    "business_description": "real estate agency in New York",
+    "expected_domain_names": [
+      "estatebase.io",
+      "agencylink.io",
+      "realestate.org"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in Tokyo",
+    "expected_domain_names": [
+      "telemedicineio.ai",
+      "tokyoio.biz",
+      "telemedicineplatform.com"
+    ]
+  },
+  {
+    "business_description": "electronics store in Paris",
+    "expected_domain_names": [
+      "electronicsstore.org",
+      "electronicsstore.io",
+      "electronicsify.ai"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Dubai",
+    "expected_domain_names": [
+      "gaminghub.com",
+      "vrgaming.com",
+      "centerify.store"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Dubai",
+    "expected_domain_names": [
+      "animalrescue.co",
+      "rescuezone.co",
+      "organizationbase.org"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in London",
+    "expected_domain_names": [
+      "luxuryio.store",
+      "luxurywatch.store",
+      "luxurywatch.net"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in New York",
+    "expected_domain_names": [
+      "newio.biz",
+      "gamingcafe.co",
+      "gamingcafe.store"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Dubai",
+    "expected_domain_names": [
+      "veganrestaurant.biz",
+      "veganify.co",
+      "veganrestaurant.org"
+    ]
+  },
+  {
+    "business_description": "music label in Tokyo",
+    "expected_domain_names": [
+      "tokyobase.biz",
+      "labelbase.store",
+      "labelbase.org"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Dubai",
+    "expected_domain_names": [
+      "chainzone.biz",
+      "fastfoodchain.store",
+      "dubaiify.ai"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Tokyo",
+    "expected_domain_names": [
+      "diningify.io",
+      "dininghub.io",
+      "restaurantzone.co"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Dubai",
+    "expected_domain_names": [
+      "podcastproduction.ai",
+      "podcastlink.ai",
+      "podcastproduction.com"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Toronto",
+    "expected_domain_names": [
+      "veganhub.net",
+      "restaurantzone.net",
+      "veganhub.ai"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Dubai",
+    "expected_domain_names": [
+      "travelzone.io",
+      "agencyzone.com",
+      "luxurytravel.io"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Paris",
+    "expected_domain_names": [
+      "legalconsultancy.net",
+      "legalify.net",
+      "legalconsultancy.ai"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Singapore",
+    "expected_domain_names": [
+      "vrgaming.org",
+      "vrgaming.co",
+      "centerbase.store"
+    ]
+  },
+  {
+    "business_description": "coffee in Paris",
+    "expected_domain_names": [
+      "parislink.co",
+      "coffeeparis.org",
+      "coffeeparis.co"
+    ]
+  },
+  {
+    "business_description": "youth development program in San Francisco",
+    "expected_domain_names": [
+      "youthdevelopment.org",
+      "youthhub.ai",
+      "youthdevelopment.net"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Paris",
+    "expected_domain_names": [
+      "cleaningbase.store",
+      "homeio.biz",
+      "servicehub.io"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Toronto",
+    "expected_domain_names": [
+      "veganbase.store",
+      "restaurantlink.io",
+      "veganrestaurant.org"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Berlin",
+    "expected_domain_names": [
+      "microlendinghub.org",
+      "platformzone.co",
+      "microlendingplatform.store"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Tokyo",
+    "expected_domain_names": [
+      "diningio.co",
+      "finezone.biz",
+      "finedining.biz"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Singapore",
+    "expected_domain_names": [
+      "seooptimization.store",
+      "optimizationlink.biz",
+      "firmio.biz"
+    ]
+  },
+  {
+    "business_description": "startup for pets in Singapore",
+    "expected_domain_names": [
+      "startuppets.biz",
+      "startuppets.com",
+      "startupbase.biz"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in London",
+    "expected_domain_names": [
+      "londonzone.io",
+      "veganify.store",
+      "veganrestaurant.com"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Paris",
+    "expected_domain_names": [
+      "homedecor.store",
+      "decorify.co",
+      "homelink.net"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Dubai",
+    "expected_domain_names": [
+      "legalconsultancy.co",
+      "dubaiio.com",
+      "legalconsultancy.com"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in New York",
+    "expected_domain_names": [
+      "fashionhub.co",
+      "boutiquezone.store",
+      "boutiquezone.net"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Singapore",
+    "expected_domain_names": [
+      "educationalhub.biz",
+      "developerio.io",
+      "educationalgame.com"
+    ]
+  },
+  {
+    "business_description": "educational game developer in Singapore",
+    "expected_domain_names": [
+      "educationalhub.com",
+      "educationalgame.ai",
+      "educationalgame.net"
+    ]
+  },
+  {
+    "business_description": "online learning platform in Singapore",
+    "expected_domain_names": [
+      "learninglink.io",
+      "platformhub.io",
+      "onlinelearning.co"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Toronto",
+    "expected_domain_names": [
+      "personalfinance.store",
+      "personallink.io",
+      "personalio.co"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Paris",
+    "expected_domain_names": [
+      "parishub.io",
+      "blockchainstartup.org",
+      "startupbase.io"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Dubai",
+    "expected_domain_names": [
+      "fastfoodchain.ai",
+      "chainhub.co",
+      "fastfoodchain.net"
+    ]
+  },
+  {
+    "business_description": "film production house in Toronto",
+    "expected_domain_names": [
+      "filmproduction.org",
+      "productionhub.net",
+      "productionify.ai"
+    ]
+  },
+  {
+    "business_description": "real estate agency in Berlin",
+    "expected_domain_names": [
+      "realbase.io",
+      "realestate.net",
+      "realestate.store"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in Berlin",
+    "expected_domain_names": [
+      "fashionhub.co",
+      "berlinlink.ai",
+      "fashionify.net"
+    ]
+  },
+  {
+    "business_description": "music label in London",
+    "expected_domain_names": [
+      "musiclabel.com",
+      "londonlink.com",
+      "labellink.store"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Berlin",
+    "expected_domain_names": [
+      "organiczone.co",
+      "organicskincare.io",
+      "skincarehub.ai"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in New York",
+    "expected_domain_names": [
+      "mobileapp.net",
+      "mobileapp.ai",
+      "mobilebase.biz"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Dubai",
+    "expected_domain_names": [
+      "videostreaming.io",
+      "streamingio.biz",
+      "videolink.org"
+    ]
+  },
+  {
+    "business_description": "film production house in Singapore",
+    "expected_domain_names": [
+      "filmproduction.store",
+      "productionify.org",
+      "filmzone.org"
+    ]
+  },
+  {
+    "business_description": "web design agency in Toronto",
+    "expected_domain_names": [
+      "webdesign.co",
+      "webdesign.org",
+      "webzone.com"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in London",
+    "expected_domain_names": [
+      "mobileapp.ai",
+      "developmenthub.ai",
+      "developmentbase.io"
+    ]
+  },
+  {
+    "business_description": "fitness center in San Francisco",
+    "expected_domain_names": [
+      "sanbase.net",
+      "fitnesszone.com",
+      "centerio.net"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Singapore",
+    "expected_domain_names": [
+      "marketplacebase.co",
+      "digitalart.biz",
+      "digitalart.net"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Toronto",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.net",
+      "cryptocurrencyexchange.com",
+      "cryptocurrencyhub.io"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in Dubai",
+    "expected_domain_names": [
+      "fashionboutique.biz",
+      "fashionboutique.com",
+      "fashionlink.com"
+    ]
+  },
+  {
+    "business_description": "electronics store in Paris",
+    "expected_domain_names": [
+      "electronicsstore.com",
+      "electronicsstore.biz",
+      "storehub.biz"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in Tokyo",
+    "expected_domain_names": [
+      "luxurylink.biz",
+      "luxurywatch.io",
+      "luxurywatch.store"
+    ]
+  },
+  {
+    "business_description": "food truck business in San Francisco",
+    "expected_domain_names": [
+      "trucklink.io",
+      "truckbase.biz",
+      "foodio.net"
+    ]
+  },
+  {
+    "business_description": "online bookstore in Singapore",
+    "expected_domain_names": [
+      "onlinebookstore.net",
+      "onlinebookstore.store",
+      "onlinelink.ai"
+    ]
+  },
+  {
+    "business_description": "online learning platform in New York",
+    "expected_domain_names": [
+      "onlineify.store",
+      "learningify.co",
+      "onlinelearning.io"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in New York",
+    "expected_domain_names": [
+      "educationbase.ai",
+      "educationplatform.biz",
+      "educationplatform.co"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Dubai",
+    "expected_domain_names": [
+      "microlendingzone.store",
+      "microlendingzone.io",
+      "microlendingplatform.org"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Tokyo",
+    "expected_domain_names": [
+      "educationify.biz",
+      "nonprofiteducation.store",
+      "educationify.ai"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in New York",
+    "expected_domain_names": [
+      "physiotherapybase.org",
+      "clinicify.biz",
+      "newbase.io"
+    ]
+  },
+  {
+    "business_description": "music label in Dubai",
+    "expected_domain_names": [
+      "labelify.net",
+      "musiczone.io",
+      "musiclabel.net"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in New York",
+    "expected_domain_names": [
+      "personalfinance.io",
+      "advisorylink.ai",
+      "personalfinance.biz"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in New York",
+    "expected_domain_names": [
+      "marketplacezone.net",
+      "digitalart.com",
+      "digitalify.co"
+    ]
+  },
+  {
+    "business_description": "car rental service in Paris",
+    "expected_domain_names": [
+      "carify.biz",
+      "carrental.ai",
+      "rentalhub.ai"
+    ]
+  },
+  {
+    "business_description": "university consultancy in San Francisco",
+    "expected_domain_names": [
+      "sanify.co",
+      "universityconsultancy.com",
+      "universityconsultancy.io"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Paris",
+    "expected_domain_names": [
+      "homezone.store",
+      "decorzone.net",
+      "homehub.io"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in London",
+    "expected_domain_names": [
+      "microlendingplatform.ai",
+      "microlendingplatform.biz",
+      "microlendingplatform.net"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Berlin",
+    "expected_domain_names": [
+      "exchangeify.net",
+      "exchangebase.com",
+      "cryptocurrencyexchange.store"
+    ]
+  },
+  {
+    "business_description": "music label in Singapore",
+    "expected_domain_names": [
+      "labelio.ai",
+      "musicbase.io",
+      "singaporebase.net"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Toronto",
+    "expected_domain_names": [
+      "aipoweredhealthcare.store",
+      "aipoweredhealthcare.co",
+      "aipoweredhealthcare.biz"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Singapore",
+    "expected_domain_names": [
+      "vrgaming.ai",
+      "vrbase.biz",
+      "vrgaming.com"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in San Francisco",
+    "expected_domain_names": [
+      "seooptimization.io",
+      "firmlink.com",
+      "firmio.co"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in New York",
+    "expected_domain_names": [
+      "seobase.biz",
+      "seooptimization.biz",
+      "firmify.ai"
+    ]
+  },
+  {
+    "business_description": "investment firm in New York",
+    "expected_domain_names": [
+      "investmentfirm.io",
+      "investmentfirm.org",
+      "investmentbase.io"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Tokyo",
+    "expected_domain_names": [
+      "startuphub.store",
+      "tokyohub.io",
+      "blockchainstartup.ai"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Dubai",
+    "expected_domain_names": [
+      "studiolink.biz",
+      "studiozone.io",
+      "yogastudio.io"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in San Francisco",
+    "expected_domain_names": [
+      "icecream.org",
+      "icecream.net",
+      "iceify.net"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in San Francisco",
+    "expected_domain_names": [
+      "luxurylink.ai",
+      "luxurytravel.co",
+      "agencybase.com"
+    ]
+  },
+  {
+    "business_description": "cloud solutions provider in Singapore",
+    "expected_domain_names": [
+      "cloudsolutions.store",
+      "solutionsbase.co",
+      "cloudsolutions.co"
+    ]
+  },
+  {
+    "business_description": "investment firm in Paris",
+    "expected_domain_names": [
+      "parisio.net",
+      "investmentfirm.io",
+      "parislink.net"
+    ]
+  },
+  {
+    "business_description": "coworking space in Berlin",
+    "expected_domain_names": [
+      "spacelink.co",
+      "coworkingspace.io",
+      "berlinbase.org"
+    ]
+  },
+  {
+    "business_description": "event planning company in San Francisco",
+    "expected_domain_names": [
+      "eventplanning.com",
+      "planningzone.net",
+      "eventplanning.store"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Tokyo",
+    "expected_domain_names": [
+      "icecream.com",
+      "icehub.org",
+      "icebase.org"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Singapore",
+    "expected_domain_names": [
+      "personalfinance.co",
+      "personalfinance.com",
+      "personalfinance.biz"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Singapore",
+    "expected_domain_names": [
+      "mentalio.io",
+      "mentalhealth.biz",
+      "mentalhealth.com"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in Paris",
+    "expected_domain_names": [
+      "insurancebrokerage.io",
+      "insurancebrokerage.ai",
+      "insurancebase.co"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Dubai",
+    "expected_domain_names": [
+      "organiclink.org",
+      "skincarelink.store",
+      "organicskincare.store"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in London",
+    "expected_domain_names": [
+      "telemedicineplatform.org",
+      "telemedicineplatform.io",
+      "telemedicineplatform.store"
+    ]
+  },
+  {
+    "business_description": "gaming cafe in Paris",
+    "expected_domain_names": [
+      "gamingcafe.ai",
+      "cafebase.biz",
+      "gamingcafe.net"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Singapore",
+    "expected_domain_names": [
+      "mentalhealth.store",
+      "counselingbase.org",
+      "mentalhealth.io"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Toronto",
+    "expected_domain_names": [
+      "homehub.store",
+      "homedecor.io",
+      "homelink.ai"
+    ]
+  },
+  {
+    "business_description": "coworking space in London",
+    "expected_domain_names": [
+      "coworkingspace.com",
+      "londonzone.co",
+      "londonhub.io"
+    ]
+  },
+  {
+    "business_description": "online bookstore in San Francisco",
+    "expected_domain_names": [
+      "sanio.co",
+      "sanify.biz",
+      "onlineio.ai"
+    ]
+  },
+  {
+    "business_description": "environmental NGO in Dubai",
+    "expected_domain_names": [
+      "environmentalngo.net",
+      "environmentalzone.io",
+      "environmentalngo.io"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Singapore",
+    "expected_domain_names": [
+      "petgrooming.co",
+      "petio.org",
+      "groomingio.store"
+    ]
+  },
+  {
+    "business_description": "coworking space in Tokyo",
+    "expected_domain_names": [
+      "tokyozone.ai",
+      "coworkingspace.org",
+      "spacezone.biz"
+    ]
+  },
+  {
+    "business_description": "music label in London",
+    "expected_domain_names": [
+      "musiclabel.com",
+      "musiclabel.net",
+      "musiclabel.org"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Toronto",
+    "expected_domain_names": [
+      "petzone.com",
+      "petgrooming.co",
+      "petgrooming.com"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Paris",
+    "expected_domain_names": [
+      "personalhub.ai",
+      "personalfinance.co",
+      "personalfinance.org"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Dubai",
+    "expected_domain_names": [
+      "vrgaming.biz",
+      "vrgaming.co",
+      "vrify.net"
+    ]
+  },
+  {
+    "business_description": "web design agency in Dubai",
+    "expected_domain_names": [
+      "designify.store",
+      "webhub.biz",
+      "webdesign.ai"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in Paris",
+    "expected_domain_names": [
+      "parishub.biz",
+      "insurancebrokerage.com",
+      "parisbase.io"
+    ]
+  },
+  {
+    "business_description": "real estate agency in San Francisco",
+    "expected_domain_names": [
+      "estateio.org",
+      "realestate.org",
+      "realestate.net"
+    ]
+  },
+  {
+    "business_description": "investment firm in New York",
+    "expected_domain_names": [
+      "investmentfirm.io",
+      "firmbase.org",
+      "newio.org"
+    ]
+  },
+  {
+    "business_description": "online bookstore in New York",
+    "expected_domain_names": [
+      "onlinebookstore.net",
+      "newio.io",
+      "onlinebookstore.store"
+    ]
+  },
+  {
+    "business_description": "blockchain startup in Berlin",
+    "expected_domain_names": [
+      "blockchainstartup.io",
+      "blockchainstartup.co",
+      "blockchainstartup.net"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Tokyo",
+    "expected_domain_names": [
+      "tokyoify.org",
+      "nonprofitlink.org",
+      "nonprofiteducation.biz"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Paris",
+    "expected_domain_names": [
+      "digitalart.com",
+      "marketplacezone.co",
+      "digitalart.ai"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Paris",
+    "expected_domain_names": [
+      "yogastudio.store",
+      "studiobase.store",
+      "yogastudio.biz"
+    ]
+  },
+  {
+    "business_description": "cybersecurity service provider in London",
+    "expected_domain_names": [
+      "cybersecurityservice.co",
+      "cybersecurityservice.org",
+      "cybersecurityservice.biz"
+    ]
+  },
+  {
+    "business_description": "fitness center in Singapore",
+    "expected_domain_names": [
+      "singaporebase.io",
+      "fitnesscenter.biz",
+      "fitnesscenter.org"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in London",
+    "expected_domain_names": [
+      "hub.com",
+      "educationhub.store",
+      "educationplatform.biz"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Tokyo",
+    "expected_domain_names": [
+      "legalconsultancy.co",
+      "consultancyzone.store",
+      "legalconsultancy.ai"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in Dubai",
+    "expected_domain_names": [
+      "dubaiio.biz",
+      "insurancebrokerage.ai",
+      "insurancebase.io"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in Toronto",
+    "expected_domain_names": [
+      "aipoweredhealthcare.net",
+      "healthcarebase.store",
+      "aipoweredhealthcare.com"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Paris",
+    "expected_domain_names": [
+      "aiconsulting.net",
+      "consultingify.store",
+      "consultinghub.store"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in San Francisco",
+    "expected_domain_names": [
+      "organicify.org",
+      "organicskincare.io",
+      "organicskincare.org"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Dubai",
+    "expected_domain_names": [
+      "seoify.co",
+      "firmio.com",
+      "seooptimization.store"
+    ]
+  },
+  {
+    "business_description": "yoga studio in New York",
+    "expected_domain_names": [
+      "yogabase.net",
+      "yogastudio.store",
+      "yogastudio.ai"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in San Francisco",
+    "expected_domain_names": [
+      "icecream.org",
+      "icecream.io",
+      "creamio.ai"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Paris",
+    "expected_domain_names": [
+      "organizationio.co",
+      "rescuelink.co",
+      "animalrescue.ai"
+    ]
+  },
+  {
+    "business_description": "yoga studio in Paris",
+    "expected_domain_names": [
+      "parishub.io",
+      "yogalink.org",
+      "pariszone.biz"
+    ]
+  },
+  {
+    "business_description": "online learning platform in New York",
+    "expected_domain_names": [
+      "onlinelearning.co",
+      "learninghub.net",
+      "onlinelearning.net"
+    ]
+  },
+  {
+    "business_description": "online learning platform in Singapore",
+    "expected_domain_names": [
+      "onlinelearning.org",
+      "onlinebase.io",
+      "onlinelearning.ai"
+    ]
+  },
+  {
+    "business_description": "event planning company in New York",
+    "expected_domain_names": [
+      "eventhub.ai",
+      "companyio.org",
+      "eventplanning.ai"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Berlin",
+    "expected_domain_names": [
+      "finedining.co",
+      "dininglink.co",
+      "finezone.co"
+    ]
+  },
+  {
+    "business_description": "coffee in Berlin",
+    "expected_domain_names": [
+      "coffeeberlin.org",
+      "coffeelink.ai",
+      "coffeeberlin.ai"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Toronto",
+    "expected_domain_names": [
+      "microlendingplatform.com",
+      "microlendingplatform.org",
+      "microlendingplatform.net"
+    ]
+  },
+  {
+    "business_description": "investment firm in Tokyo",
+    "expected_domain_names": [
+      "investmentfirm.ai",
+      "investmentfirm.store",
+      "investmentfirm.co"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Paris",
+    "expected_domain_names": [
+      "nutritionhub.org",
+      "nutritioncoaching.com",
+      "parisbase.net"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Tokyo",
+    "expected_domain_names": [
+      "bakerypastry.store",
+      "bakerypastry.net",
+      "bakerypastry.biz"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Singapore",
+    "expected_domain_names": [
+      "podcastproduction.net",
+      "productionbase.org",
+      "productionzone.net"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Tokyo",
+    "expected_domain_names": [
+      "digitalart.io",
+      "digitalart.ai",
+      "artify.io"
+    ]
+  },
+  {
+    "business_description": "AI-powered healthcare solution for elderly in rural areas in London",
+    "expected_domain_names": [
+      "solutionify.ai",
+      "solutionhub.store",
+      "aipoweredhealthcare.io"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in Tokyo",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.biz",
+      "tokyobase.biz",
+      "tokyoio.org"
+    ]
+  },
+  {
+    "business_description": "coffee in London",
+    "expected_domain_names": [
+      "coffeelondon.store",
+      "coffeelondon.net",
+      "coffeelondon.biz"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Toronto",
+    "expected_domain_names": [
+      "parlorzone.io",
+      "icecream.io",
+      "icecream.ai"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in San Francisco",
+    "expected_domain_names": [
+      "shopify.com",
+      "bakerypastry.net",
+      "bakerypastry.com"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Singapore",
+    "expected_domain_names": [
+      "centerbase.io",
+      "vrgaming.ai",
+      "vrio.store"
+    ]
+  },
+  {
+    "business_description": "home decor shop in Tokyo",
+    "expected_domain_names": [
+      "decorio.io",
+      "homedecor.io",
+      "homedecor.biz"
+    ]
+  },
+  {
+    "business_description": "film production house in Singapore",
+    "expected_domain_names": [
+      "filmproduction.com",
+      "filmzone.co",
+      "filmbase.com"
+    ]
+  },
+  {
+    "business_description": "luxury watch retailer in Toronto",
+    "expected_domain_names": [
+      "luxurywatch.co",
+      "luxurywatch.biz",
+      "retailerlink.org"
+    ]
+  },
+  {
+    "business_description": "insurance brokerage in San Francisco",
+    "expected_domain_names": [
+      "brokeragebase.io",
+      "insurancebrokerage.store",
+      "insurancelink.co"
+    ]
+  },
+  {
+    "business_description": "online bookstore in Paris",
+    "expected_domain_names": [
+      "onlinebookstore.net",
+      "onlinebookstore.co",
+      "onlinebookstore.org"
+    ]
+  },
+  {
+    "business_description": "health awareness campaign in New York",
+    "expected_domain_names": [
+      "healthawareness.net",
+      "healthawareness.biz",
+      "healthify.com"
+    ]
+  },
+  {
+    "business_description": "nutrition coaching in Paris",
+    "expected_domain_names": [
+      "parisify.com",
+      "parislink.biz",
+      "nutritionbase.org"
+    ]
+  },
+  {
+    "business_description": "physiotherapy clinic in Paris",
+    "expected_domain_names": [
+      "parisify.io",
+      "clinichub.co",
+      "physiotherapyclinic.store"
+    ]
+  },
+  {
+    "business_description": "food truck business in Tokyo",
+    "expected_domain_names": [
+      "foodtruck.ai",
+      "foodtruck.co",
+      "foodtruck.store"
+    ]
+  },
+  {
+    "business_description": "fitness center in London",
+    "expected_domain_names": [
+      "fitnesscenter.ai",
+      "fitnesscenter.biz",
+      "londonio.org"
+    ]
+  },
+  {
+    "business_description": "animal rescue organization in Berlin",
+    "expected_domain_names": [
+      "animalrescue.com",
+      "animalrescue.biz",
+      "animalrescue.ai"
+    ]
+  },
+  {
+    "business_description": "electronics store in New York",
+    "expected_domain_names": [
+      "newzone.biz",
+      "storeio.co",
+      "newhub.com"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Berlin",
+    "expected_domain_names": [
+      "luxurytravel.ai",
+      "luxurytravel.com",
+      "luxurytravel.io"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in London",
+    "expected_domain_names": [
+      "codingbootcamp.net",
+      "codingbootcamp.io",
+      "codingbootcamp.store"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Singapore",
+    "expected_domain_names": [
+      "companyhub.org",
+      "podcastproduction.biz",
+      "podcastproduction.store"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in Berlin",
+    "expected_domain_names": [
+      "fastfoodbase.net",
+      "fastfoodchain.store",
+      "fastfoodchain.biz"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in San Francisco",
+    "expected_domain_names": [
+      "travelzone.ai",
+      "luxurytravel.net",
+      "luxurytravel.biz"
+    ]
+  },
+  {
+    "business_description": "online bookstore in Paris",
+    "expected_domain_names": [
+      "onlinebookstore.net",
+      "onlinebookstore.ai",
+      "onlinebookstore.io"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in San Francisco",
+    "expected_domain_names": [
+      "codingbootcamp.biz",
+      "sanbase.store",
+      "codingbootcamp.org"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Paris",
+    "expected_domain_names": [
+      "organicskincare.co",
+      "brandbase.store",
+      "brandbase.biz"
+    ]
+  },
+  {
+    "business_description": "education platform & training program with global outreach in Singapore",
+    "expected_domain_names": [
+      "ify.ai",
+      "educationify.store",
+      "base.ai"
+    ]
+  },
+  {
+    "business_description": "legal consultancy in Paris",
+    "expected_domain_names": [
+      "legalconsultancy.org",
+      "consultancylink.io",
+      "legalconsultancy.com"
+    ]
+  },
+  {
+    "business_description": "personal finance advisory in Singapore",
+    "expected_domain_names": [
+      "personalfinance.com",
+      "personalfinance.biz",
+      "personalfinance.net"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in Berlin",
+    "expected_domain_names": [
+      "tutoringio.org",
+      "languagetutoring.io",
+      "servicezone.biz"
+    ]
+  },
+  {
+    "business_description": "podcast production company in San Francisco",
+    "expected_domain_names": [
+      "podcastproduction.ai",
+      "podcastproduction.store",
+      "podcastproduction.com"
+    ]
+  },
+  {
+    "business_description": "fitness center in San Francisco",
+    "expected_domain_names": [
+      "centerhub.net",
+      "fitnesscenter.org",
+      "fitnesshub.io"
+    ]
+  },
+  {
+    "business_description": "podcast production company in Berlin",
+    "expected_domain_names": [
+      "podcastproduction.net",
+      "podcastify.org",
+      "companyhub.io"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in Singapore",
+    "expected_domain_names": [
+      "singaporebase.net",
+      "microlendingplatform.store",
+      "singaporelink.store"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Dubai",
+    "expected_domain_names": [
+      "healthhub.biz",
+      "healthio.net",
+      "mentalhealth.io"
+    ]
+  },
+  {
+    "business_description": "youth development program in Singapore",
+    "expected_domain_names": [
+      "youthdevelopment.io",
+      "youthdevelopment.org",
+      "programzone.com"
+    ]
+  },
+  {
+    "business_description": "vegan restaurant in Paris",
+    "expected_domain_names": [
+      "veganify.co",
+      "restaurantify.store",
+      "veganrestaurant.io"
+    ]
+  },
+  {
+    "business_description": "micro-lending platform in London",
+    "expected_domain_names": [
+      "microlendingplatform.net",
+      "londonlink.store",
+      "londonify.biz"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Toronto",
+    "expected_domain_names": [
+      "organicify.org",
+      "organiccoffee.co",
+      "organiccoffee.store"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in Berlin",
+    "expected_domain_names": [
+      "aiconsulting.co",
+      "aiconsulting.ai",
+      "aiconsulting.com"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Toronto",
+    "expected_domain_names": [
+      "mobileify.net",
+      "mobileapp.ai",
+      "mobileapp.io"
+    ]
+  },
+  {
+    "business_description": "luxury travel agency in Berlin",
+    "expected_domain_names": [
+      "luxurytravel.net",
+      "travellink.store",
+      "travelhub.store"
+    ]
+  },
+  {
+    "business_description": "SEO optimization firm in Paris",
+    "expected_domain_names": [
+      "seooptimization.net",
+      "seooptimization.ai",
+      "firmbase.store"
+    ]
+  },
+  {
+    "business_description": "electronics store in London",
+    "expected_domain_names": [
+      "londonzone.store",
+      "electronicsstore.net",
+      "electronicsstore.store"
+    ]
+  },
+  {
+    "business_description": "cryptocurrency exchange in London",
+    "expected_domain_names": [
+      "cryptocurrencyexchange.co",
+      "cryptocurrencyio.co",
+      "cryptocurrencyexchange.store"
+    ]
+  },
+  {
+    "business_description": "web design agency in San Francisco",
+    "expected_domain_names": [
+      "webify.biz",
+      "webdesign.store",
+      "designbase.com"
+    ]
+  },
+  {
+    "business_description": "home cleaning service in Berlin",
+    "expected_domain_names": [
+      "cleaninglink.biz",
+      "serviceify.store",
+      "homecleaning.org"
+    ]
+  },
+  {
+    "business_description": "music label in New York",
+    "expected_domain_names": [
+      "musiclabel.com",
+      "musiclabel.store",
+      "musiclabel.co"
+    ]
+  },
+  {
+    "business_description": "language tutoring service in London",
+    "expected_domain_names": [
+      "serviceio.biz",
+      "tutoringzone.com",
+      "languagetutoring.store"
+    ]
+  },
+  {
+    "business_description": "university consultancy in New York",
+    "expected_domain_names": [
+      "universityconsultancy.com",
+      "universityconsultancy.io",
+      "newify.com"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in San Francisco",
+    "expected_domain_names": [
+      "codingbootcamp.co",
+      "codingbootcamp.net",
+      "codingbootcamp.store"
+    ]
+  },
+  {
+    "business_description": "video streaming platform in Singapore",
+    "expected_domain_names": [
+      "videostreaming.org",
+      "streamingbase.com",
+      "videostreaming.biz"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Berlin",
+    "expected_domain_names": [
+      "organicbase.org",
+      "organicskincare.biz",
+      "skincarelink.net"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in New York",
+    "expected_domain_names": [
+      "vrgaming.biz",
+      "gaminghub.ai",
+      "vrgaming.store"
+    ]
+  },
+  {
+    "business_description": "mental health counseling service in Singapore",
+    "expected_domain_names": [
+      "healthio.com",
+      "mentalhealth.co",
+      "mentalhealth.net"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in Toronto",
+    "expected_domain_names": [
+      "shopzone.io",
+      "coffeehub.store",
+      "organiccoffee.com"
+    ]
+  },
+  {
+    "business_description": "food truck business in Berlin",
+    "expected_domain_names": [
+      "truckio.com",
+      "truckbase.net",
+      "businessio.ai"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in Tokyo",
+    "expected_domain_names": [
+      "bakerypastry.co",
+      "bakerypastry.org",
+      "bakerypastry.net"
+    ]
+  },
+  {
+    "business_description": "organic skincare brand in Singapore",
+    "expected_domain_names": [
+      "skincarelink.io",
+      "organicskincare.co",
+      "organicskincare.biz"
+    ]
+  },
+  {
+    "business_description": "digital art marketplace in Toronto",
+    "expected_domain_names": [
+      "digitalart.ai",
+      "marketplacezone.biz",
+      "digitalart.net"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in San Francisco",
+    "expected_domain_names": [
+      "nonprofitlink.biz",
+      "sanbase.store",
+      "sanzone.io"
+    ]
+  },
+  {
+    "business_description": "coworking space in New York",
+    "expected_domain_names": [
+      "spacehub.store",
+      "coworkingspace.com",
+      "coworkingspace.co"
+    ]
+  },
+  {
+    "business_description": "fast-food chain in London",
+    "expected_domain_names": [
+      "chainhub.store",
+      "fastfoodchain.store",
+      "chainify.io"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in Toronto",
+    "expected_domain_names": [
+      "nonprofiteducation.com",
+      "nonprofitzone.com",
+      "nonprofitlink.co"
+    ]
+  },
+  {
+    "business_description": "mobile app development company in Tokyo",
+    "expected_domain_names": [
+      "appzone.com",
+      "mobileapp.ai",
+      "developmentzone.org"
+    ]
+  },
+  {
+    "business_description": "bakery and pastry shop in London",
+    "expected_domain_names": [
+      "shophub.biz",
+      "bakerylink.store",
+      "bakerypastry.biz"
+    ]
+  },
+  {
+    "business_description": "fitness center in Singapore",
+    "expected_domain_names": [
+      "fitnesscenter.biz",
+      "singaporeify.store",
+      "fitnesscenter.net"
+    ]
+  },
+  {
+    "business_description": "VR gaming center in Toronto",
+    "expected_domain_names": [
+      "gaminglink.io",
+      "vrzone.co",
+      "vrify.org"
+    ]
+  },
+  {
+    "business_description": "food truck business in Singapore",
+    "expected_domain_names": [
+      "foodlink.store",
+      "foodtruck.net",
+      "truckhub.io"
+    ]
+  },
+  {
+    "business_description": "coding bootcamp in New York",
+    "expected_domain_names": [
+      "bootcampify.io",
+      "bootcamplink.com",
+      "codingbootcamp.io"
+    ]
+  },
+  {
+    "business_description": "pet grooming service in Dubai",
+    "expected_domain_names": [
+      "groominghub.ai",
+      "petzone.org",
+      "groomingify.io"
+    ]
+  },
+  {
+    "business_description": "fashion boutique in Berlin",
+    "expected_domain_names": [
+      "fashionzone.store",
+      "fashionzone.biz",
+      "boutiquezone.org"
+    ]
+  },
+  {
+    "business_description": "AI consulting firm in San Francisco",
+    "expected_domain_names": [
+      "aiconsulting.io",
+      "ailink.net",
+      "aiconsulting.com"
+    ]
+  },
+  {
+    "business_description": "organic coffee shop in San Francisco",
+    "expected_domain_names": [
+      "shopbase.net",
+      "organiccoffee.biz",
+      "organiccoffee.org"
+    ]
+  },
+  {
+    "business_description": "fine dining restaurant in Paris",
+    "expected_domain_names": [
+      "dininglink.com",
+      "finezone.net",
+      "finedining.org"
+    ]
+  },
+  {
+    "business_description": "ice cream parlor in Singapore",
+    "expected_domain_names": [
+      "creamlink.ai",
+      "creamhub.io",
+      "icecream.ai"
+    ]
+  },
+  {
+    "business_description": "nonprofit for education in London",
+    "expected_domain_names": [
+      "nonprofiteducation.ai",
+      "nonprofiteducation.biz",
+      "nonprofitlink.co"
+    ]
+  },
+  {
+    "business_description": "telemedicine platform in Singapore",
+    "expected_domain_names": [
+      "platformio.org",
+      "telemedicinehub.ai",
+      "telemedicinebase.biz"
+    ]
+  }
+]
