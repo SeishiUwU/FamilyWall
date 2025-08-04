@@ -1,0 +1,1514 @@
+{
+    "zero_shot": [
+        {
+            "index": 0,
+            "business_description": "startup for pets in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: startup for pets in Singapore\nDomains: start.pet.sg, startup-for-pets.com.sg, start.pet-sg.net\n"
+        },
+        {
+            "index": 1,
+            "business_description": "event planning company in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in Toronto\nDomains: eventscanada.com, torontoevents.com, planitwithus.com\n"
+        },
+        {
+            "index": 2,
+            "business_description": "event planning company in New York",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in New York\nDomains: EventPlanningNYC.com, EventPlanningNY.com, EventPlanningNYC\n"
+        },
+        {
+            "index": 3,
+            "business_description": "cybersecurity service provider in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo\nDomains: securetech.co.jp, cyberprotection.co.jp, techsupport.co.jp\n"
+        },
+        {
+            "index": 4,
+            "business_description": "micro-lending platform in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: micro-lending platform in Toronto\nDomains: \n1. \n2. \n3. \n\n4. \n5. \n6. \n7. \n8. \n9. \n10. \n11. \n12. "
+        },
+        {
+            "index": 5,
+            "business_description": "investment firm in New York",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in New York\nDomains: \n1. investmentfirmnyc.com\n2. nycinvestments.com\n3. theinvestornyc.com\n"
+        },
+        {
+            "index": 6,
+            "business_description": "youth development program in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: youth development program in Toronto\nDomains: yd.toronto, youthdevelopment.ca, yd.com.au\n"
+        },
+        {
+            "index": 7,
+            "business_description": "organic skincare brand in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Berlin\nDomains: \n- organicskincareberlin.com\n- BerlinOrganicSkincare.com\n- GreenSkinBerlin.com\n"
+        },
+        {
+            "index": 8,
+            "business_description": "luxury travel agency in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: luxury travel agency in Paris\nDomains: travelparis.com, luxuryparis.com, travelparissolutions.com\n"
+        },
+        {
+            "index": 9,
+            "business_description": "film production house in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: film production house in San Francisco\nDomains: \n1. filmi.sf\n2. SFnFilm\n3. CinemaFinder\n"
+        },
+        {
+            "index": 10,
+            "business_description": "educational game developer in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: educational game developer in Singapore\nDomains: \n1. ernicegame.com\n2. eryangame.sg\n3. eryangameservice.com\n"
+        },
+        {
+            "index": 11,
+            "business_description": "food truck business in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in Singapore\nDomains: foodtruck.com, foodtruck.com.sg, foodtruck.asia\n"
+        },
+        {
+            "index": 12,
+            "business_description": "bakery and pastry shop in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco\nDomains: \n1. SanFranciscoBakery.com\n2. SanFranciscoPastryShop.com\n3. SFBakery.com\n"
+        },
+        {
+            "index": 13,
+            "business_description": "digital marketing agency in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: digital marketing agency in Tokyo\nDomains: \n1. japanesemarketing.com \n2. digitalmarketingtokyo.com \n3. japanesemarketingagency.com\n"
+        },
+        {
+            "index": 14,
+            "business_description": "cloud solutions provider in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco\nDomains: cloud-solutions.com, cloud-solutions.net, cloud-solutions.co.uk\n"
+        },
+        {
+            "index": 15,
+            "business_description": "food truck business in London",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in London\nDomains: foodtrucklondon.com, foodtrucklondonco.com, foodtrucklondon.net\n"
+        },
+        {
+            "index": 16,
+            "business_description": "wedding photography business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in New York\nDomains:\n1. newyorkweddingsphotography.com\n2. weddingphotographyny.com\n3. weddingphotographynycity.com\n"
+        },
+        {
+            "index": 17,
+            "business_description": "digital art marketplace in London",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in London\nDomains: digitalartmarket, londonart, artmarketlondon\n"
+        },
+        {
+            "index": 18,
+            "business_description": "university consultancy in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: university consultancy in Paris\nDomains: \n- university-consulting-paris.com \n- ancleguide-paris.com \n- cepr-paris.com\n"
+        },
+        {
+            "index": 19,
+            "business_description": "coding bootcamp in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: coding bootcamp in Dubai\nDomains: CodeDubai, CodingDubai, CodetechDubai\n"
+        },
+        {
+            "index": 20,
+            "business_description": "online bookstore in London",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in London\nDomains: Bookstore.co.uk, Books.co.uk, Bookstore.london\n"
+        },
+        {
+            "index": 21,
+            "business_description": "language tutoring service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Dubai\nDomains: DubaiTutoring.com, ArabicLanguage.com, DubaiTutoring.ae\n"
+        },
+        {
+            "index": 22,
+            "business_description": "wedding photography business in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in San Francisco\nDomains: weddingsfran.com, weddingsfran.com.ph, weddingsfran.co.uk\n"
+        },
+        {
+            "index": 23,
+            "business_description": "digital art marketplace in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in Toronto\nDomains: artmarket.ca, Torontoart.com, digitalartmarket.co\n"
+        },
+        {
+            "index": 24,
+            "business_description": "fine dining restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fine dining restaurant in Paris\nDomains: finediningparis.com, restaurantparis.fr, paris.finefood.com\n"
+        },
+        {
+            "index": 25,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: Bookstore.on, Bookstore.ca, Bookstore.toronto\n"
+        },
+        {
+            "index": 26,
+            "business_description": "food truck business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in New York\nDomains: foodtrucknyc.com, foodtrucknyc.biz, foodtrucknyc.org\n"
+        },
+        {
+            "index": 27,
+            "business_description": "home decor shop in New York",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in New York\nDomains: homedecorny.com, newyork.com, decor.co\n"
+        },
+        {
+            "index": 28,
+            "business_description": "cloud solutions provider in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in Singapore\nDomains: cloud-solutions-sg.com, cloud-solutions-asia.com, cloud-solutions-asia.net\n"
+        },
+        {
+            "index": 29,
+            "business_description": "language tutoring service in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Berlin\nDomains: languagelearning.de, tutoringberlin.com, berlinlanguageinstitute.org\n"
+        },
+        {
+            "index": 30,
+            "business_description": "organic skincare brand in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Paris\nDomains: organicbeautyparis.fr, skincarebytheparis.fr, Parisorganic.fr\n"
+        },
+        {
+            "index": 31,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: Bookstore.ca, Torontos.com, Canada.net\n"
+        },
+        {
+            "index": 32,
+            "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai\nDomains: \n1. iHealthVet, \n2. ElderlyHealthcare UAE, \n3. AIPH Dubai\n"
+        },
+        {
+            "index": 33,
+            "business_description": "environmental NGO in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: environmental NGO in Toronto\nDomains: eco-tourism.ca, green-city.org, nature-advocates.co\n"
+        },
+        {
+            "index": 34,
+            "business_description": "real estate agency in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: real estate agency in Dubai\nDomains: realestate.ae, realestateinDubai.com, realestate.ae\n"
+        },
+        {
+            "index": 35,
+            "business_description": "organic skincare brand in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Toronto\nDomains: skincaretoronto.com, organicbeautycanada.com, skincareproducts.ca\n"
+        },
+        {
+            "index": 36,
+            "business_description": "vegan restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Paris\nDomains:\n1. veganparis.com\n2. plantbasedinparis.com\n3. veganparisboutique.com\n"
+        },
+        {
+            "index": 37,
+            "business_description": "investment firm in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in Berlin\nDomains: \n- investmentfirmberlin.com \n- berniainvestments.com \n- ikoniadevents.com\n"
+        },
+        {
+            "index": 38,
+            "business_description": "vegan restaurant in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Toronto\nDomains: vegansincanada, torontovegan, veganfoodtoronto\n"
+        },
+        {
+            "index": 39,
+            "business_description": "VR gaming center in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: VR gaming center in San Francisco\nDomains: \n1. vegamingcenter.sf\n2. thevirtualworld.sf\n3. psgrafica.com\n"
+        },
+        {
+            "index": 40,
+            "business_description": "fast-food chain in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fast-food chain in Paris\nDomains: fastfoodparis.com, fastfoodparistourism.com, fastfoodparis.eu\n"
+        },
+        {
+            "index": 41,
+            "business_description": "personal finance advisory in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: personal finance advisory in San Francisco\nDomains: finance.sanfrancisco, moneyadvice.com, personalfinance.net\n"
+        },
+        {
+            "index": 42,
+            "business_description": "home decor shop in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in Singapore\nDomains:\n- homedecor-singapore.com\n- decor-by-sinc.com\n- sgdecor.com\n"
+        },
+        {
+            "index": 43,
+            "business_description": "luxury watch retailer in New York",
+            "predicted": "Generate 3 domain names for this business. Business: luxury watch retailer in New York\nDomains: luxury-watch.com, newyorkluxurywatches.com, luxury.com/ny\n"
+        },
+        {
+            "index": 44,
+            "business_description": "car rental service in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: car rental service in San Francisco\nDomains: \n- car-rental-sf.com\n- sf-car-rental.com\n- car-rental-sanfrancisco.com\n"
+        },
+        {
+            "index": 45,
+            "business_description": "music label in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: music label in San Francisco\nDomains: musiclab.com, SFmusic.com, musiclabsanfrancisco.com\n"
+        },
+        {
+            "index": 46,
+            "business_description": "podcast production company in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: podcast production company in Paris\nDomains: podcastproduction.fr, podcastsinparistres.fr, podcastparis.com\n"
+        },
+        {
+            "index": 47,
+            "business_description": "home cleaning service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: home cleaning service in Dubai\nDomains: HomeCleaningDubai.com, DubaiHomeCleaning.com, CleanHomeArabia.com\n"
+        },
+        {
+            "index": 48,
+            "business_description": "ice cream parlor in London",
+            "predicted": "Generate 3 domain names for this business. Business: ice cream parlor in London\nDomains: \n1. icecreamlondon.com\n2. icecreamcouncil.com\n3. icecreamville.com\n"
+        },
+        {
+            "index": 49,
+            "business_description": "mental health counseling service in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: mental health counseling service in Paris\nDomains: mentalhealthcounselingparis.com, parismentalhealth.com, mentalhealthparis.co.uk\n"
+        }
+    ],
+    "aug_lora": [
+        {
+            "index": 0,
+            "business_description": "startup for pets in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: startup for pets in Singapore\nDomains: petstartup.sg, petcare.com.sg, petsupplies.com.sg\n"
+        },
+        {
+            "index": 1,
+            "business_description": "event planning company in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in Toronto\nDomains: eventplanningtoronto.com, partiesinToronto.com, TorontoEvents.com\n"
+        },
+        {
+            "index": 2,
+            "business_description": "event planning company in New York",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in New York\nDomains: eventplanningnyc.com, partyplanningnyc.com, weddingplanningnyc.com\n"
+        },
+        {
+            "index": 3,
+            "business_description": "cybersecurity service provider in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo\nDomains: protect-tokyo.com, secure-tech-japan.com, cyber-safety-solutions.net\n"
+        },
+        {
+            "index": 4,
+            "business_description": "micro-lending platform in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: micro-lending platform in Toronto\nDomains: \n- \n- \n- \n\n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- "
+        },
+        {
+            "index": 5,
+            "business_description": "investment firm in New York",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in New York\nDomains: \n- investmentfirmnyc.com \n- nycinvestors.com \n- investmentcoa.com\n"
+        },
+        {
+            "index": 6,
+            "business_description": "youth development program in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: youth development program in Toronto\nDomains: youthdevelopment, totoronto, canadayouthdevelopment\n"
+        },
+        {
+            "index": 7,
+            "business_description": "organic skincare brand in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Berlin\nDomains: \n1. organicskincareberlin.com\n2. organicskincareberlin.co.uk\n3. organicskincareberlin.de\n"
+        },
+        {
+            "index": 8,
+            "business_description": "luxury travel agency in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: luxury travel agency in Paris\nDomains: luxury-travel-paris.com, paris-luxury-travel.com, luxury-travel-paris.co.uk\n"
+        },
+        {
+            "index": 9,
+            "business_description": "film production house in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: film production house in San Francisco\nDomains: film-production.sf, SF_filmproduction, Film_Studio\n"
+        },
+        {
+            "index": 10,
+            "business_description": "educational game developer in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: educational game developer in Singapore\nDomains: \n1. \n2. \n3. \n\nDomain 1: edu_game@gmail.com \nDomain 2: en_game@gmail.com \nDomain 3: singapore_game@gmail."
+        },
+        {
+            "index": 11,
+            "business_description": "food truck business in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in Singapore\nDomains: foodtruck.sg, foodtruckdelivery.com, foodtruckdelivery.asia\n"
+        },
+        {
+            "index": 12,
+            "business_description": "bakery and pastry shop in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco\nDomains: bakerysf.com, pastriesf.com, SanFrancisco.com\n"
+        },
+        {
+            "index": 13,
+            "business_description": "digital marketing agency in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: digital marketing agency in Tokyo\nDomains: \n- digital-marketing-japan.com\n- japan-digital-agency.com\n- tokyo-digital-marketing.com\n"
+        },
+        {
+            "index": 14,
+            "business_description": "cloud solutions provider in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco\nDomains: cloud.sf, cloud.com, cloud.co\n"
+        },
+        {
+            "index": 15,
+            "business_description": "food truck business in London",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in London\nDomains: foodtruckslondon.com, foodtruckslondon.co.uk, foodtruckslondon.net\n"
+        },
+        {
+            "index": 16,
+            "business_description": "wedding photography business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in New York\nDomains: weddingphotographynyc.com, dreambridalphotography.com, and newyorkweddingphotography.com\n"
+        },
+        {
+            "index": 17,
+            "business_description": "digital art marketplace in London",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in London\nDomains: digitalartmarketplace.co.uk, digitalartmarketplace.co.uk, digitalartmarketplace.co.uk\n"
+        },
+        {
+            "index": 18,
+            "business_description": "university consultancy in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: university consultancy in Paris\nDomains: \n- university-consulting-paris.com \n- bpstudentsupport.com \n- education-counseling-paris.com\n"
+        },
+        {
+            "index": 19,
+            "business_description": "coding bootcamp in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: coding bootcamp in Dubai\nDomains: CodeDubai.com, CodeSchoolDubai.com, CodingAcademyDubai.com\n"
+        },
+        {
+            "index": 20,
+            "business_description": "online bookstore in London",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in London\nDomains: \n- BookZone.com\n- LondonBooks.com\n- BookLover.net\n"
+        },
+        {
+            "index": 21,
+            "business_description": "language tutoring service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Dubai\nDomains: languageeducation.com, dubailanguage.com, dubaitutor.com\n"
+        },
+        {
+            "index": 22,
+            "business_description": "wedding photography business in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in San Francisco\nDomains:\n1. SFweddingphotography.com\n2. SanFranciscoWeddingPhotography.com\n3. SFWeddingPhotographySanFrancisco.com\n"
+        },
+        {
+            "index": 23,
+            "business_description": "digital art marketplace in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in Toronto\nDomains: digitalartmarket.ca, torontoartmarket.com, artcanada.net\n"
+        },
+        {
+            "index": 24,
+            "business_description": "fine dining restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fine dining restaurant in Paris\nDomains: ParisFoodie, FineDiningParis, FoodandDrink\n"
+        },
+        {
+            "index": 25,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: Bookstore.ca, Read.io, BookNook.com\n"
+        },
+        {
+            "index": 26,
+            "business_description": "food truck business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in New York\nDomains: foodtrucknyc.com, foodtrucknyc.biz, foodtrucknyc.org\n"
+        },
+        {
+            "index": 27,
+            "business_description": "home decor shop in New York",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in New York\nDomains: NYHomeDecor.com, NYDecorShop.com, NYDecorForAll.com\n"
+        },
+        {
+            "index": 28,
+            "business_description": "cloud solutions provider in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in Singapore\nDomains: \n- cloud-solutions-sg\n- cloud-solutions-asia\n- cloud-solutions-asia-sg\n"
+        },
+        {
+            "index": 29,
+            "business_description": "language tutoring service in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Berlin\nDomains: tutoringberlin.com, langtutoringberlin.com, tutoringinberlin.com\n"
+        },
+        {
+            "index": 30,
+            "business_description": "organic skincare brand in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Paris\nDomains: skincareparis.fr, organicbeauty.fr, skincareparis.eu\n"
+        },
+        {
+            "index": 31,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: Bookstore.ca, Bookstore.com, Bookstore.co\n"
+        },
+        {
+            "index": 32,
+            "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai\nDomains: \n1. iheal.com\n2. vmafcare.com\n3. Dubaiaihealthcaretech\n"
+        },
+        {
+            "index": 33,
+            "business_description": "environmental NGO in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: environmental NGO in Toronto\nDomains: eco-toronto.com, enviro-toronto.org, toronto-environmental.com\n"
+        },
+        {
+            "index": 34,
+            "business_description": "real estate agency in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: real estate agency in Dubai\nDomains: realestate.com.ae, realestate-dubai.com, dhsrealestate.com\n"
+        },
+        {
+            "index": 35,
+            "business_description": "organic skincare brand in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Toronto\nDomains: skincarebynature.com, organicbeautytoronto.com, natureandbeauty.ca\n"
+        },
+        {
+            "index": 36,
+            "business_description": "vegan restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Paris\nDomains: VeganParis.com, FoodieParis.com, GreenParis.com\n"
+        },
+        {
+            "index": 37,
+            "business_description": "investment firm in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in Berlin\nDomains: \n- investmentfirmberlin.com\n- afinvest-berlin.com\n- devestolutionsberlin.com\n"
+        },
+        {
+            "index": 38,
+            "business_description": "vegan restaurant in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Toronto\nDomains: - veganfoodtoronto.com - plantbasedfoodtoronto.com - vegansinontario.com\n"
+        },
+        {
+            "index": 39,
+            "business_description": "VR gaming center in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: VR gaming center in San Francisco\nDomains: \n1. vrgamecentersf.com\n2. vrgamecenters-sf.com\n3. vrgamecenters SF.com\n"
+        },
+        {
+            "index": 40,
+            "business_description": "fast-food chain in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fast-food chain in Paris\nDomains: \n1.  fastfoodparis.com\n2.  fast-food-paris.de\n3.  fastfoodparis.fr\n"
+        },
+        {
+            "index": 41,
+            "business_description": "personal finance advisory in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: personal finance advisory in San Francisco\nDomains: financialadvisorysf, personalfinancesanfrancisco, financialadvisorysf\n"
+        },
+        {
+            "index": 42,
+            "business_description": "home decor shop in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in Singapore\nDomains:\n- HomeDecor-Singapore.com\n- SGHomeDecor.com\n- Decor-Shop-Singapore.com\n"
+        },
+        {
+            "index": 43,
+            "business_description": "luxury watch retailer in New York",
+            "predicted": "Generate 3 domain names for this business. Business: luxury watch retailer in New York\nDomains: watch.com, luxury.com, newyork.com\n"
+        },
+        {
+            "index": 44,
+            "business_description": "car rental service in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: car rental service in San Francisco\nDomains: SFcarrentals, SFcarrental, carrentalsf\n"
+        },
+        {
+            "index": 45,
+            "business_description": "music label in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: music label in San Francisco\nDomains: musiclab.com, musicsf.com, musicsfamerica.com\n"
+        },
+        {
+            "index": 46,
+            "business_description": "podcast production company in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: podcast production company in Paris\nDomains: Podcast-Productions.fr, Podcast-Productions-paris.com, Podcast-Productions-sant\u00e9\n"
+        },
+        {
+            "index": 47,
+            "business_description": "home cleaning service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: home cleaning service in Dubai\nDomains: CleanHomeDubai, DubaiCleaning, HomeCareServices\n"
+        },
+        {
+            "index": 48,
+            "business_description": "ice cream parlor in London",
+            "predicted": "Generate 3 domain names for this business. Business: ice cream parlor in London\nDomains: \n1. iccenet.co.uk\n2. iccenet.com\n3. iccenericestlondon.co.uk\n"
+        },
+        {
+            "index": 49,
+            "business_description": "mental health counseling service in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: mental health counseling service in Paris\nDomains: \n \n \n\n.com\n \n \n \n \n \n \n \n \n\n.org\n \n \n \n\n.net\n \n \n \n \n \n"
+        }
+    ],
+    "lora_finetuned": [
+        {
+            "index": 0,
+            "business_description": "startup for pets in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: startup for pets in Singapore\nDomains: petstartup.com, singapartypets.com, petsingapore.net\n"
+        },
+        {
+            "index": 1,
+            "business_description": "event planning company in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in Toronto\nDomains: EventsToronto.com, PlanYourEvent.ca, TorontoEvents.co.uk\n"
+        },
+        {
+            "index": 2,
+            "business_description": "event planning company in New York",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in New York\nDomains: EventPlanningNY.com, EventsByNY.com, NewYorkEvents.com\n"
+        },
+        {
+            "index": 3,
+            "business_description": "cybersecurity service provider in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo\nDomains: cybersec.jp, tokyo.cy.us, japansecurity.co.jp\n"
+        },
+        {
+            "index": 4,
+            "business_description": "micro-lending platform in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: micro-lending platform in Toronto\nDomains: \n1. ____.com\n2. ____.net\n3. ____.org\n"
+        },
+        {
+            "index": 5,
+            "business_description": "investment firm in New York",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in New York\nDomains: \n1. theinvestor.com\n2. wealthcreater.com\n3. NewYorkInvestments.com\n"
+        },
+        {
+            "index": 6,
+            "business_description": "youth development program in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: youth development program in Toronto\nDomains: youthdevelopment, torontoyouth, youthdevelopmentcanada\n"
+        },
+        {
+            "index": 7,
+            "business_description": "organic skincare brand in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Berlin\nDomains:\n- organic-skincare-berlin.com\n- bery-organic-skincare.de\n- organic-skincare-berlin.co.uk\n"
+        },
+        {
+            "index": 8,
+            "business_description": "luxury travel agency in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: luxury travel agency in Paris\nDomains: luxurytravelexperience.com, travelparis.fr, luxurytravel.net\n"
+        },
+        {
+            "index": 9,
+            "business_description": "film production house in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: film production house in San Francisco\nDomains: \n1. filmproductionSF.com\n2. SFfilmproduction.com\n3. SFcanalproduction.com\n"
+        },
+        {
+            "index": 10,
+            "business_description": "educational game developer in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: educational game developer in Singapore\nDomains: \n1. \n2. \n3. \n\n\u2022 \n\n\u2022 \n\n\u2022 \n\n4. \n5. \n6. \n\n7. \n8. \n9."
+        },
+        {
+            "index": 11,
+            "business_description": "food truck business in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in Singapore\nDomains: foodtruck.com, foodtrucksingapore, foodtruckasia\n"
+        },
+        {
+            "index": 12,
+            "business_description": "bakery and pastry shop in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco\nDomains: SanFranciscoBakery.com, SanFranciscoPastryShop.com, SanFranciscoBakery.net\n"
+        },
+        {
+            "index": 13,
+            "business_description": "digital marketing agency in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: digital marketing agency in Tokyo\nDomains: www.digital-tokyo.com, www.digital-marketing-agency.co.jp, www.tokyo-digital.com\n"
+        },
+        {
+            "index": 14,
+            "business_description": "cloud solutions provider in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco\nDomains: \n\u2022 cloudSolutionsSF.com\n\u2022 cloud-solutions-sf.com\n\u2022 cloud-solutions-sf.net\n"
+        },
+        {
+            "index": 15,
+            "business_description": "food truck business in London",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in London\nDomains: FoodTruckLondon.co.uk, FoodTruckLondon.com, FoodTruckLondon.ie\n"
+        },
+        {
+            "index": 16,
+            "business_description": "wedding photography business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in New York\nDomains:\n1. newyorkweddingphotography.com\n2. dreamydayweddingsphotography.com\n3. nycweddingphotography.com\n"
+        },
+        {
+            "index": 17,
+            "business_description": "digital art marketplace in London",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in London\nDomains: art.london, art.london.com, art.london.co.uk\n"
+        },
+        {
+            "index": 18,
+            "business_description": "university consultancy in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: university consultancy in Paris\nDomains: \n- university-consulting-paris.com \n- ou-consulting-paris.com \n- university-consulting.com\n"
+        },
+        {
+            "index": 19,
+            "business_description": "coding bootcamp in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: coding bootcamp in Dubai\nDomains: CodeAcademy.com, DubaiCoding.com, CodeMaster.com\n"
+        },
+        {
+            "index": 20,
+            "business_description": "online bookstore in London",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in London\nDomains: Bookworm.co.uk, BookFinder.co.uk, BookLover.co.uk\nA: Bookworm.co.uk is a simple and catchy name that suggests a love for books. BookFinder.co."
+        },
+        {
+            "index": 21,
+            "business_description": "language tutoring service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Dubai\nDomains: \n- ernanetwork.com\n- dubaispecialist.com\n- languageinstruction.com\n"
+        },
+        {
+            "index": 22,
+            "business_description": "wedding photography business in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in San Francisco\nDomains:\nweddingphotographysf.com\nweddingphotographysf.co.uk\nweddingphotographysf.net\n"
+        },
+        {
+            "index": 23,
+            "business_description": "digital art marketplace in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in Toronto\nDomains: art.ca, art.toronto, artmarket.ca\n"
+        },
+        {
+            "index": 24,
+            "business_description": "fine dining restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fine dining restaurant in Paris\nDomains: ParisFoodie, ParisEats, ParisCuisine.\n"
+        },
+        {
+            "index": 25,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: bookshop.torontos.com, bookstore.ca, bookshop.book\n"
+        },
+        {
+            "index": 26,
+            "business_description": "food truck business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in New York\nDomains: foodtrucks.com, foodtrucksnyc.com, foodtrucks.org\n"
+        },
+        {
+            "index": 27,
+            "business_description": "home decor shop in New York",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in New York\nDomains: homedecorbyjane.com, homedecornyc.com, homedecorny.net\n"
+        },
+        {
+            "index": 28,
+            "business_description": "cloud solutions provider in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in Singapore\nDomains: \n- cloud.sg \n- cloud.com.sg \n- cloudsolutions.net.sg\n"
+        },
+        {
+            "index": 29,
+            "business_description": "language tutoring service in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Berlin\nDomains: tutoringberlin.de, language-teaching.de, tutoring-services-berlin\n"
+        },
+        {
+            "index": 30,
+            "business_description": "organic skincare brand in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Paris\nDomains: skincarebymarie, parisorganic, organicbeauty\n"
+        },
+        {
+            "index": 31,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: \n- booknook.com\n- toonbooks.ca\n- ebooks.net\n"
+        },
+        {
+            "index": 32,
+            "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai\nDomains: \n1. iheal.io\n2. suziedubai.com\n3. aihealthcare.ae\n"
+        },
+        {
+            "index": 33,
+            "business_description": "environmental NGO in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: environmental NGO in Toronto\nDomains: environmentalsynergy.ca, ecofriendlycanada.org, greentoronto.com\n"
+        },
+        {
+            "index": 34,
+            "business_description": "real estate agency in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: real estate agency in Dubai\nDomains: realestate.dubai, Dubairealestate.com, realestate.ae\n"
+        },
+        {
+            "index": 35,
+            "business_description": "organic skincare brand in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Toronto\nDomains: organicskincare.ca, organicbeautystore.com, organicskincare.co\n"
+        },
+        {
+            "index": 36,
+            "business_description": "vegan restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Paris\nDomains: \n- veganparis.com\n- plantbasedfoods.fr\n- crueltyfreecafe.org\n"
+        },
+        {
+            "index": 37,
+            "business_description": "investment firm in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in Berlin\nDomains: \n- investmentfirm-berlin.com \n- afsberlin.com \n- berniedomainplacetrading.com\n"
+        },
+        {
+            "index": 38,
+            "business_description": "vegan restaurant in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Toronto\nDomains:\n1. vegantoronto.com\n2. plantbasedfoodtoronto.com\n3. vegansinToronto.com\n"
+        },
+        {
+            "index": 39,
+            "business_description": "VR gaming center in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: VR gaming center in San Francisco\nDomains: \n1. vrgamecentersf.com\n2. vrgamecentersco.us\n3. vrgamecentersnet.org\n"
+        },
+        {
+            "index": 40,
+            "business_description": "fast-food chain in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fast-food chain in Paris\nDomains: fastfood, fastfoodparis, fastfoodco\n"
+        },
+        {
+            "index": 41,
+            "business_description": "personal finance advisory in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: personal finance advisory in San Francisco\nDomains: personalfinanceadvisorysf.com, financialadvisorysanfrancisco.com, sanfrancisco.com/personal-finance\n"
+        },
+        {
+            "index": 42,
+            "business_description": "home decor shop in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in Singapore\nDomains: \n- home-decor-sg.com\n- decor-by-sincorp.com\n- sg-home-decor.com\n"
+        },
+        {
+            "index": 43,
+            "business_description": "luxury watch retailer in New York",
+            "predicted": "Generate 3 domain names for this business. Business: luxury watch retailer in New York\nDomains: watchnewyork.com, luxurytime.com, watchstoreny.com\n"
+        },
+        {
+            "index": 44,
+            "business_description": "car rental service in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: car rental service in San Francisco\nDomains: carrentalsf, SFcarrentals, CarRentalsSF\n"
+        },
+        {
+            "index": 45,
+            "business_description": "music label in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: music label in San Francisco\nDomains: MusicFirm, SFSound, SanFranciscoMusic\n"
+        },
+        {
+            "index": 46,
+            "business_description": "podcast production company in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: podcast production company in Paris\nDomains: podcastproduction.fr, podcastfr.com, podcastparis.com\n"
+        },
+        {
+            "index": 47,
+            "business_description": "home cleaning service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: home cleaning service in Dubai\nDomains: HomeCleaningDubai.com, DubaiCleaningSolutions.com, CleanersInDubai.com\n"
+        },
+        {
+            "index": 48,
+            "business_description": "ice cream parlor in London",
+            "predicted": "Generate 3 domain names for this business. Business: ice cream parlor in London\nDomains: icedcreme.co.uk, icecreamcomercial.co.uk, icecreams-in-london.co.uk\n"
+        },
+        {
+            "index": 49,
+            "business_description": "mental health counseling service in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: mental health counseling service in Paris\nDomains: \n\u2022 mentalhealth-paris.com \n\u2022 \n\u2022 mentalhealth-paris.fr\n"
+        }
+    ],
+    "hyperpar_exp1": [
+        {
+            "index": 0,
+            "business_description": "startup for pets in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: startup for pets in Singapore\nDomains: pet grooming service in Singapore\nDomains: [Business name] in Singapore\nDomains: Singapore's top pet grooming service\nDomains: A business dedicated to pet grooming service in Singapore\nDomains: A modern pet grooming service in Singapore\n"
+        },
+        {
+            "index": 1,
+            "business_description": "event planning company in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in Toronto\nDomains: event planning company in Toronto\nDomains: Toronto event planning company\nDomains: A business focused on wedding photography business in Toronto\nDomains: A business dedicated to fitness center in Toronto\nDomains: A business focused on fine dining restaurant in"
+        },
+        {
+            "index": 2,
+            "business_description": "event planning company in New York",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in New York\nDomains: event planning company in New York\nDomains: events.nyc\nDomains: events.nyc.com\nDomains: events.nyc.com for everyone\nDomains: events.nyc for modern customers\nDomains"
+        },
+        {
+            "index": 3,
+            "business_description": "cybersecurity service provider in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo\nDomains: cybersecurity service provider in Tokyo\nDomains: cybersecurity service provider in Tokyo\nDomains: cybersecurity service provider in Tokyo\nDomains: cybersecurity service provider in Tokyo\nDomains: cybersecurity service provider in Tokyo\nDomains: cybersecurity service provider in Tokyo"
+        },
+        {
+            "index": 4,
+            "business_description": "micro-lending platform in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: micro-lending platform in Toronto\nDomains: micro-lending platform in Toronto\nDomains: micro-lending platform in Toronto\nDomains: micro-lending platform in Toronto\nDomains: micro-lending platform in Toronto\nDomains: micro-lending platform in"
+        },
+        {
+            "index": 5,
+            "business_description": "investment firm in New York",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in New York\nDomains: investment firm in New York\nDomains: investment firm in New York\nDomains: investment firm in Tokyo\nDomains: investment firm in New York\nDomains: investment firm in Paris\nDomains: investment firm in Dubai\nDomains"
+        },
+        {
+            "index": 6,
+            "business_description": "youth development program in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: youth development program in Toronto\nDomains: youth development program in Toronto\nDomains: youth development program in Toronto with a modern touch\nDomains: youth development program in Toronto with a modern touch\nDomains: youth development program in Toronto for everyone\nDomains: youth development program in"
+        },
+        {
+            "index": 7,
+            "business_description": "organic skincare brand in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Berlin\nDomains: organic skincare brand in Berlin\nDomains: organic skincare brand in Paris\nDomains: organic skincare brand in Tokyo\nDomains: organic skincare brand in New York\nDomains: organic skincare brand"
+        },
+        {
+            "index": 8,
+            "business_description": "luxury travel agency in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: luxury travel agency in Paris\nDomains: luxury travel agency in Paris\nDomains: luxury travel agency in Paris\nDomains: luxury travel agency in Paris\nDomains: luxury travel agency in Paris\nDomains: luxury travel agency in Paris\nDomains: luxury travel agency in Paris"
+        },
+        {
+            "index": 9,
+            "business_description": "film production house in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: film production house in San Francisco\nDomains: film production house in San Francisco for everyone\nDomains: film production house in San Francisco\nDomains: film production house in San Francisco for modern customers\nDomains: film production house in San Francisco\nDomains: film production house in San"
+        },
+        {
+            "index": 10,
+            "business_description": "educational game developer in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: educational game developer in Singapore\nDomains: gaming company in Singapore\nDomains: gaming company in Singapore\nDomains: gaming company in Tokyo\nDomains: gaming company in Dubai\nDomains: gaming company in Toronto\nDomains: gaming company in New York\nDomains: gaming"
+        },
+        {
+            "index": 11,
+            "business_description": "food truck business in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in Singapore\nDomains: food truck business in Singapore\nDomains: Singapore food truck business\nDomains: food truck business in Singapore for modern customers\nDomains: A business focused on food truck business in Singapore\nDomains: A modern food truck business in Singapore\n"
+        },
+        {
+            "index": 12,
+            "business_description": "bakery and pastry shop in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco\nDomains: [Business: bakery and pastry shop in San Francisco]\nDomains: [Business: bakery and pastry shop in San Francisco]\nDomains: [Business: bakery and pastry shop in San Francisco]\n"
+        },
+        {
+            "index": 13,
+            "business_description": "digital marketing agency in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo"
+        },
+        {
+            "index": 14,
+            "business_description": "cloud solutions provider in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco\nDomains: cloud solutions provider in San Francisco\nDomains: cloud solutions provider in San Francisco\nDomains: cloud solutions provider in San Francisco\nDomains: cloud solutions provider in San Francisco\nDomains: cloud solutions provider in San Francisco\nDomains:"
+        },
+        {
+            "index": 15,
+            "business_description": "food truck business in London",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in London\nDomains: food truck business in London\nDomains: food truck business in Berlin\nDomains: food truck business in Toronto\nDomains: food truck business in New York\nDomains: food truck business in Dubai\nDomains: food truck business in"
+        },
+        {
+            "index": 16,
+            "business_description": "wedding photography business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in New York\nDomains: wedding photography business in New York\nDomains: wedding photography business in Paris\nDomains: wedding photography business in Tokyo\nDomains: wedding photography business in London\nDomains: wedding photography business in Toronto\nDomains: wedding photography business in"
+        },
+        {
+            "index": 17,
+            "business_description": "digital art marketplace in London",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in London\nDomains: [Domains]\nDomains: digital art marketplace in London\nDomains: digital art marketplace in New York\nDomains: digital art marketplace in Dubai\nDomains: digital art marketplace in Tokyo\nDomains: digital art marketplace in Paris"
+        },
+        {
+            "index": 18,
+            "business_description": "university consultancy in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: university consultancy in Paris\nDomains: Experts in education consultancy in Paris\nDomains: Paris\nDomains: education consultancy in Paris\nDomains: modern education consultancy in Paris\nDomains: modern education consultancy in Paris\nDomains: modern education consultancy in Paris\nDomains:"
+        },
+        {
+            "index": 19,
+            "business_description": "coding bootcamp in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: coding bootcamp in Dubai\nDomains: coding bootcamp in Dubai\nDomains: coding bootcamp in London\nDomains: coding bootcamp in New York\nDomains: coding bootcamp in Toronto\nDomains: coding bootcamp in Dubai\nDomains: coding bootcamp in"
+        },
+        {
+            "index": 20,
+            "business_description": "online bookstore in London",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in London\nDomains: online bookstore in London\nDomains: online bookstore in London\nDomains: online bookstore in New York\nDomains: online bookstore in Toronto\nDomains: online bookstore in Paris\nDomains: online bookstore in Dubai\nDomains: online"
+        },
+        {
+            "index": 21,
+            "business_description": "language tutoring service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Dubai\nDomains: language tutoring service in Dubai\nDomains: A startup dedicated to language tutoring service in Dubai\nDomains: A business focused on language tutoring service in Dubai\nDomains: A business focused on language tutoring service in Dubai\nDom"
+        },
+        {
+            "index": 22,
+            "business_description": "wedding photography business in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in San Francisco\nDomains: wedding photography business in San Francisco\nDomains: wedding photography business in San Francisco\nDomains: A business focused on wedding photography business in San Francisco\nDomains: Wedding photography business in San Francisco\nDomains: A business dedicated to wedding photography"
+        },
+        {
+            "index": 23,
+            "business_description": "digital art marketplace in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto"
+        },
+        {
+            "index": 24,
+            "business_description": "fine dining restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fine dining restaurant in Paris\nDomains: fine dining restaurant in Paris\nDomains: fine dining restaurant in Tokyo\nDomains: fine dining restaurant in New York for everyone\nDomains: fine dining restaurant in Berlin\nDomains: fine dining restaurant in Dubai\nDomains: fine dining"
+        },
+        {
+            "index": 25,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: online bookstore in Toronto for modern customers\nDomains: Toronto online bookstore for everyone\nDomains: A business dedicated to online bookstore in Toronto\nDomains: Online bookstore for modern customers in Toronto\nDomains: A modern online bookstore in Toronto\n"
+        },
+        {
+            "index": 26,
+            "business_description": "food truck business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in New York\nDomains: food truck business in New York\nDomains: food truck business in Paris\nDomains: food truck business in Tokyo\nDomains: food truck business in Dubai\nDomains: food truck business in Toronto\nDomains: food truck business in"
+        },
+        {
+            "index": 27,
+            "business_description": "home decor shop in New York",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in New York\nDomains: home decor shop in New York\nDomains: home decor shop in Tokyo\nDomains: home decor shop in Paris\nDomains: modern home decor shop in Dubai\nDomains: home decor shop in London\nDomains: home decor shop"
+        },
+        {
+            "index": 28,
+            "business_description": "cloud solutions provider in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore"
+        },
+        {
+            "index": 29,
+            "business_description": "language tutoring service in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Berlin\nDomains: language tutoring service in Berlin\nDomains: language tutoring service in Berlin\nDomains: language tutoring service in Berlin\nDomains: language tutoring service in Berlin\nDomains: language tutoring service in Berlin\nDomains:"
+        },
+        {
+            "index": 30,
+            "business_description": "organic skincare brand in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Paris\nDomains: organic skincare brand in Paris\nDomains: organic skincare brand in Tokyo\nDomains: organic skincare brand in Berlin\nDomains: organic skincare brand in Dubai\nDomains: organic skincare brand in"
+        },
+        {
+            "index": 31,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: A business focused on online bookstore in Toronto\nDomains: Online bookstore in Toronto\nDomains: A modern online bookstore in Toronto\nDomains: Online marketplace for books in Toronto\nDomains: A modern online bookstore in Toronto\nDomains:"
+        },
+        {
+            "index": 32,
+            "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai\nDomains: healthcare.ai, healthcare.me, healthcare.co\n"
+        },
+        {
+            "index": 33,
+            "business_description": "environmental NGO in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: environmental NGO in Toronto\nDomains: environmental NGO in Toronto\nDomains: eco-conscious NGO in Toronto\nDomains: environmental NGO in Toronto for everyone\nDomains: environmental NGO in Toronto for modern customers\nDomains: environmental NGO in Toronto with a modern touch\nDomains"
+        },
+        {
+            "index": 34,
+            "business_description": "real estate agency in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: real estate agency in Dubai\nDomains: real estate agency in Dubai\nDomains: Dubai real estate agency\nDomains: luxury real estate agency in Dubai\nDomains: modern real estate agency in Dubai\nDomains: real estate agency for everyone in Dubai\nDomains: luxury real"
+        },
+        {
+            "index": 35,
+            "business_description": "organic skincare brand in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Toronto\nDomains: organic skincare brand in Toronto\nDomains: organic skincare brand in Toronto with a modern touch\nDomains: organic skincare brand in Toronto for everyone\nDomains: organic skincare brand in Toronto for modern customers\n"
+        },
+        {
+            "index": 36,
+            "business_description": "vegan restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Paris\nDomains: vegan restaurant in Paris\nDomains: vegan restaurant in New York\nDomains: vegan restaurant in Tokyo\nDomains: vegan restaurant in Dubai\nDomains: vegan restaurant in Toronto\nDomains: vegan restaurant in San Francisco\nDomains:"
+        },
+        {
+            "index": 37,
+            "business_description": "investment firm in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in Berlin\nDomains: investment firm in Berlin\nDomains: investment firm in Berlin\nDomains: investment firm in Berlin\nDomains: investment firm in Berlin\nDomains: investment firm in Berlin\nDomains: investment firm in Berlin\nDomains: investment firm"
+        },
+        {
+            "index": 38,
+            "business_description": "vegan restaurant in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Toronto\nDomains: vegan restaurant in Toronto\nDomains: vegan restaurant in Toronto\nDomains: Vegan restaurant in Toronto\nDomains: Vegan restaurant in Toronto\nDomains: Vegan restaurant in Toronto\nDomains: Vegan restaurant in Toronto\nDomains: Vegan restaurant"
+        },
+        {
+            "index": 39,
+            "business_description": "VR gaming center in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: VR gaming center in San Francisco\nDomains: VR gaming center in San Francisco\nDomains: VR gaming center in San Francisco\nDomains: VR gaming center in San Francisco\nDomains: VR gaming center in San Francisco\nDomains: VR gaming center in San Francisco\nDomains:"
+        },
+        {
+            "index": 40,
+            "business_description": "fast-food chain in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fast-food chain in Paris\nDomains: fast-food chain in Paris\nDomains: fast-food chain in Paris\nDomains: fast-food chain in Paris\nDomains: fast-food chain in Paris\nDomains: fast-food chain in Paris\nDomains:"
+        },
+        {
+            "index": 41,
+            "business_description": "personal finance advisory in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: personal finance advisory in San Francisco\nDomains: [Business: personal finance advisory in San Francisco\nDomains: [Business: personal finance advisory in San Francisco\nDomains: [Business: personal finance advisory in San Francisco]\nDomains: [Business: personal finance advisory in San Francisco\n"
+        },
+        {
+            "index": 42,
+            "business_description": "home decor shop in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in Singapore\nDomains: home decor shop in Singapore\nDomains: home decor shop in Dubai with a modern touch\nDomains: home decor shop in Paris for everyone\nDomains: home decor shop in Toronto with a modern touch\nDomains: home decor shop in"
+        },
+        {
+            "index": 43,
+            "business_description": "luxury watch retailer in New York",
+            "predicted": "Generate 3 domain names for this business. Business: luxury watch retailer in New York\nDomains: luxury watch retailer in New York\nDomains: luxury watch retailer in San Francisco\nDomains: luxury watch retailer in Paris\nDomains: luxury watch retailer in London\nDomains: luxury watch retailer in Toronto\nDomains: luxury watch retailer"
+        },
+        {
+            "index": 44,
+            "business_description": "car rental service in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: car rental service in San Francisco\nDomains: car rental service in San Francisco\nDomains: car rental service in San Francisco\nDomains: car rental service in Tokyo\nDomains: car rental service in Dubai\nDomains: car rental service in New York\nDomains: car rental"
+        },
+        {
+            "index": 45,
+            "business_description": "music label in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: music label in San Francisco\nDomains: music label in San Francisco\nDomains: music label in Tokyo\nDomains: music label in Berlin\nDomains: music label in New York\nDomains: music label in London\nDomains: music label in Toronto\nDomains:"
+        },
+        {
+            "index": 46,
+            "business_description": "podcast production company in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: podcast production company in Paris\nDomains: podcast production company in Paris\nDomains: podcast production company in Tokyo\nDomains: podcast production company in Toronto\nDomains: podcast production company in Dubai\nDomains: podcast production company in London\nDomains: podcast production company in New"
+        },
+        {
+            "index": 47,
+            "business_description": "home cleaning service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: home cleaning service in Dubai\nDomains: Dubai cleaning service\nDomains: home cleaning service in Dubai\nDomains: modern cleaning service in Dubai\nDomains: modern cleaning service in Dubai\nDomains: cleaning service with a modern touch in Dubai\nDomains: cleaning service with a"
+        },
+        {
+            "index": 48,
+            "business_description": "ice cream parlor in London",
+            "predicted": "Generate 3 domain names for this business. Business: ice cream parlor in London\nDomains: ice cream parlor in London\nDomains: ice cream parlor in Singapore\nDomains: ice cream parlor in Paris\nDomains: ice cream parlor in Toronto\nDomains: ice cream parlor in New York\nDomains"
+        },
+        {
+            "index": 49,
+            "business_description": "mental health counseling service in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: mental health counseling service in Paris\nDomains: mental health counseling service in Paris\nDomains: mental health counseling service in Tokyo\nDomains: mental health counseling service in Berlin\nDomains: mental health counseling service in Toronto\nDomains: mental health counseling service in London\nDomains:"
+        }
+    ],
+    "hyperpar_exp2": [
+        {
+            "index": 0,
+            "business_description": "startup for pets in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: startup for pets in Singapore\nDomains: pet startup in Singapore solutions\nDomains: pet startup in Singapore solutions\nDomains: pet startup in Singapore solutions with a modern touch\n\nDomains: pet startup in Singapore solutions with a modern touch\nDomains: pet startup in Singapore solutions"
+        },
+        {
+            "index": 1,
+            "business_description": "event planning company in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in Toronto\nDomains: event planning company in Toronto\nDomains: event planning company in Toronto\nDomains: event planning company in Toronto solutions\n\nDomains: event planning company in Toronto solutions\nDomains: event planning company in Toronto solutions for modern customers\nDom"
+        },
+        {
+            "index": 2,
+            "business_description": "event planning company in New York",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in New York\nDomains: event planning company in New York\nDomains: event planning company in New York\nDomains: event planning company in New York\n"
+        },
+        {
+            "index": 3,
+            "business_description": "cybersecurity service provider in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo\nDomains: cybersecurity service provider in Tokyo\nDomains: cybersecurity service provider in Tokyo solutions\nDomains: cybersecurity service provider in Tokyo solutions\n\nDomains: cybersecurity service provider in Tokyo solutions\nDomains: cybersecurity service provider in Tokyo solutions\nDomains:"
+        },
+        {
+            "index": 4,
+            "business_description": "micro-lending platform in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: micro-lending platform in Toronto\nDomains: micro-lending platform in Toronto\nDomains: micro-lending platform in Toronto\nDomains: micro-lending platform in Toronto\n"
+        },
+        {
+            "index": 5,
+            "business_description": "investment firm in New York",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in New York\nDomains: investment firm in New York\nDomains: investment firm in New York solutions\nDomains: investment firm in New York solutions for everyone\n\nDomains: investment firm in San Francisco solutions\nDomains: investment firm in San Francisco solutions for everyone"
+        },
+        {
+            "index": 6,
+            "business_description": "youth development program in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: youth development program in Toronto\nDomains: youth development program in Toronto\nDomains: youth development program in Toronto solutions\nDomains: youth development program in Toronto for modern customers\n"
+        },
+        {
+            "index": 7,
+            "business_description": "organic skincare brand in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Berlin\nDomains: organic skincare brand in Berlin\nDomains: organic skincare brand in Berlin\nDomains: organic skincare brand in Berlin\n\nDomains: organic skincare brand in Berlin\nDomains: organic skincare brand"
+        },
+        {
+            "index": 8,
+            "business_description": "luxury travel agency in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: luxury travel agency in Paris\nDomains: luxury travel agency in Paris\nDomains: luxury travel agency in Paris\nDomains: luxury travel agency in Paris\n\nDomains: luxury travel agency in Singapore\nDomains: luxury travel agency in Singapore\nDomains: luxury travel agency in"
+        },
+        {
+            "index": 9,
+            "business_description": "film production house in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: film production house in San Francisco\nDomains: film production house in San Francisco\nDomains: film production house in San Francisco\nDomains: film production house in San Francisco with a modern touch\n\nDomains: film production house in San Francisco with a modern touch\nDomains: film"
+        },
+        {
+            "index": 10,
+            "business_description": "educational game developer in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: educational game developer in Singapore\nDomains: [Domains]\nDomains: game developer in Singapore\nDomains: game developer in Singapore\n\nDomains: game developer in Singapore\nDomains: game developer in Singapore\nDomains: game developer in Singapore\n\nDomains:"
+        },
+        {
+            "index": 11,
+            "business_description": "food truck business in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in Singapore\nDomains: food truck business in Singapore solutions\nDomains: food truck business in Singapore solutions\nDomains: food truck business in Singapore solutions\n\nDomains: food truck business in Singapore solutions\nDomains: food truck business in Singapore solutions\nDomains"
+        },
+        {
+            "index": 12,
+            "business_description": "bakery and pastry shop in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco\nDomains: bakery and pastry shop in San Francisco\nDomains: bakery and pastry shop in San Francisco solutions\nDomains: bakery and pastry shop in San Francisco solutions\n\nDomains: bakery and pastry shop in San Francisco solutions\nDomains: bakery and"
+        },
+        {
+            "index": 13,
+            "business_description": "digital marketing agency in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo\nDomains: digital marketing agency in Tokyo\n\nDomains: digital marketing agency in Tokyo for everyone\nDomains: digital marketing agency in Tokyo with a modern touch\nDom"
+        },
+        {
+            "index": 14,
+            "business_description": "cloud solutions provider in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco\nDomains: cloud solutions provider in San Francisco\nDomains: cloud solutions provider in San Francisco\nDomains: cloud solutions provider in San Francisco solutions\n"
+        },
+        {
+            "index": 15,
+            "business_description": "food truck business in London",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in London\nDomains: food truck business in London\nDomains: food truck business in London solutions\nDomains: food truck business in London solutions\n"
+        },
+        {
+            "index": 16,
+            "business_description": "wedding photography business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in New York\nDomains: wedding photography business in New York\nDomains: wedding photography business in New York\nDomains: wedding photography business in New York with a modern touch\n\nDomains: wedding photography business in New York with a modern touch\nDomains: wedding"
+        },
+        {
+            "index": 17,
+            "business_description": "digital art marketplace in London",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in London\nDomains: digital art marketplace in London\nDomains: digital art marketplace in London\nDomains: digital art marketplace in London\n"
+        },
+        {
+            "index": 18,
+            "business_description": "university consultancy in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: university consultancy in Paris\nDomains: university consultancy in Paris\nDomains: university consultancy in Paris\nDomains: university consultancy in Paris solutions\n"
+        },
+        {
+            "index": 19,
+            "business_description": "coding bootcamp in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: coding bootcamp in Dubai\nDomains: coding bootcamp in Dubai\nDomains: coding bootcamp in Dubai with a modern touch\nDomains: coding bootcamp in Dubai with a global outreach\n\nDomains: coding bootcamp in Dubai with a modern touch\nDomains: coding"
+        },
+        {
+            "index": 20,
+            "business_description": "online bookstore in London",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in London\nDomains: online bookstore in London\nDomains: online bookstore in London solutions\nDomains: online bookstore in London solutions\n"
+        },
+        {
+            "index": 21,
+            "business_description": "language tutoring service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Dubai\nDomains: language tutoring service in Dubai\nDomains: language tutoring service in Dubai solutions\nDomains: language tutoring service in Dubai with a modern touch\n\nDomains: language tutoring service in Dubai with a modern touch\nDomains:"
+        },
+        {
+            "index": 22,
+            "business_description": "wedding photography business in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in San Francisco\nDomains: wedding photography business in San Francisco\nDomains: wedding photography business in San Francisco\nDomains: wedding photography business in San Francisco\n\nDomains: wedding photography business in San Francisco\nDomains: wedding photography business in San Francisco\nDomains"
+        },
+        {
+            "index": 23,
+            "business_description": "digital art marketplace in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto\nDomains: digital art marketplace in Toronto\n"
+        },
+        {
+            "index": 24,
+            "business_description": "fine dining restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fine dining restaurant in Paris\nDomains: fine dining restaurant in Paris\nDomains: fine dining restaurant in Paris\nDomains: fine dining restaurant in Paris solutions\n\nDomains: fine dining restaurant in Paris solutions\nDomains: fine dining restaurant in Paris solutions for everyone\nDomains"
+        },
+        {
+            "index": 25,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: Experts in online bookstore in Toronto\nDomains: online bookstore in Toronto\nDomains: online bookstore in Toronto solutions\n"
+        },
+        {
+            "index": 26,
+            "business_description": "food truck business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in New York\nDomains: food truck business in New York\nDomains: foodtruckinny.com\nDomains: foodtruckinny.co.uk\nDomains: foodtruckinny.com\n"
+        },
+        {
+            "index": 27,
+            "business_description": "home decor shop in New York",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in New York\nDomains: home decor shop in New York\nDomains: homedecorshop.com\nDomains: homedecorshop.co.uk\nDomains: homedecorshop.org\n"
+        },
+        {
+            "index": 28,
+            "business_description": "cloud solutions provider in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore solutions\n"
+        },
+        {
+            "index": 29,
+            "business_description": "language tutoring service in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Berlin\nDomains: language tutoring service in Berlin\nDomains: language tutoring service in Berlin\nDomains: language tutoring service in Berlin\n\nDomains: language tutoring service in Berlin with a modern touch\nDomains: language tutoring service in"
+        },
+        {
+            "index": 30,
+            "business_description": "organic skincare brand in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Paris\nDomains: organic skincare brand in Paris solutions\nDomains: organic skincare brand in Paris solutions\nDomains: organic skincare brand in Paris solutions\n\nDomains: organic skincare brand in Dubai solutions\nDomains: organic"
+        },
+        {
+            "index": 31,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: [Domains for online bookstore in Toronto]\nDomains: https://www.myofflin bookstore.co.uk\nDomains: https://www.offlinestore.co.uk\nDomains: https://offlinest"
+        },
+        {
+            "index": 32,
+            "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai\nDomains:\n1. AI-powered healthcare solution for elderly in rural areas in Dubai\n2. AI-powered healthcare solution for elderly in rural areas in Dubai with a modern touch\n3. AI-powered healthcare solution for elderly in rural areas in Dubai in"
+        },
+        {
+            "index": 33,
+            "business_description": "environmental NGO in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: environmental NGO in Toronto\nDomains: environmental NGO in Toronto\nDomains: environmental NGO in Toronto solutions\nDomains: environmental NGO in Toronto for everyone\n\nDomains: environmental NGO in Toronto solutions\nDomains: environmental NGO in Toronto solutions with a modern touch\nDomains:"
+        },
+        {
+            "index": 34,
+            "business_description": "real estate agency in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: real estate agency in Dubai\nDomains: realestateagency in Dubai\nDomains: realestateagency in Dubai solutions\nDomains: realestateagency in Dubai business\n"
+        },
+        {
+            "index": 35,
+            "business_description": "organic skincare brand in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Toronto\nDomains: organic skincare brand in Toronto\nDomains: organic skincare brand in Toronto\nDomains: organic skincare brand in Toronto\n\nDomains: organic skincare brand in Toronto\nDomains: organic skincare brand"
+        },
+        {
+            "index": 36,
+            "business_description": "vegan restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Paris\nDomains: vegan restaurant in Paris\nDomains: vegan restaurant in Paris\nDomains: vegan restaurant in Paris solutions\n\nDomains: vegan restaurant in Paris solutions for everyone\n\nDomains: vegan restaurant in Paris solutions for modern customers\n\nDomains"
+        },
+        {
+            "index": 37,
+            "business_description": "investment firm in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in Berlin\nDomains: investment firm in Berlin\nDomains: investment firm in Berlin solutions\nDomains: investment firm in Berlin solutions for everyone\n"
+        },
+        {
+            "index": 38,
+            "business_description": "vegan restaurant in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Toronto\nDomains: vegan restaurant in Toronto\nDomains: vegan restaurant in Toronto solutions\nDomains: vegan restaurant in Toronto for modern customers\n"
+        },
+        {
+            "index": 39,
+            "business_description": "VR gaming center in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: VR gaming center in San Francisco\nDomains: VR gaming center in San Francisco\nDomains: VR gaming center in San Francisco\nDomains: VR gaming center in San Francisco\n"
+        },
+        {
+            "index": 40,
+            "business_description": "fast-food chain in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fast-food chain in Paris\nDomains: fast-food chain in Paris\nDomains: fast-food chain in Paris\nDomains: fast-food chain in Paris solutions\n\nDomains: fast-food chain in Paris solutions\nDomains: fast-food chain in Paris for"
+        },
+        {
+            "index": 41,
+            "business_description": "personal finance advisory in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: personal finance advisory in San Francisco\nDomains: personal finance advisory in San Francisco\nDomains: personal finance advisory in San Francisco\nDomains: personal finance advisory in San Francisco\n"
+        },
+        {
+            "index": 42,
+            "business_description": "home decor shop in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in Singapore\nDomains: home decor shop in Singapore\nDomains: home decor shop in Singapore solutions\nDomains: home decor shop in Singapore solutions\n\nDomains: home decor shop in Singapore solutions\nDomains: home decor shop in Singapore solutions\nDomains:"
+        },
+        {
+            "index": 43,
+            "business_description": "luxury watch retailer in New York",
+            "predicted": "Generate 3 domain names for this business. Business: luxury watch retailer in New York\nDomains: luxury watch retailer in New York\nDomains: luxury watch retailer in New York\nDomains: luxury watch retailer in New York\n"
+        },
+        {
+            "index": 44,
+            "business_description": "car rental service in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: car rental service in San Francisco\nDomains: car rental service in San Francisco solutions\nDomains: car rental service in San Francisco solutions\nDomains: car rental service in San Francisco solutions\n"
+        },
+        {
+            "index": 45,
+            "business_description": "music label in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: music label in San Francisco\nDomains: music label in San Francisco\nDomains: musiclabel San Francisco\nDomains: musiclabel san francisco\n"
+        },
+        {
+            "index": 46,
+            "business_description": "podcast production company in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: podcast production company in Paris\nDomains: podcast production company in Paris\nDomains: podcast production company in Paris solutions\nDomains: podcast production company in Paris solutions\n"
+        },
+        {
+            "index": 47,
+            "business_description": "home cleaning service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: home cleaning service in Dubai\nDomains: home cleaning service in Dubai solutions\nDomains: home cleaning service in Dubai solutions\nDomains: home cleaning service in Dubai solutions\n\nDomains: home cleaning service in Dubai solutions\nDomains: home cleaning service in Dubai solutions\nDomains"
+        },
+        {
+            "index": 48,
+            "business_description": "ice cream parlor in London",
+            "predicted": "Generate 3 domain names for this business. Business: ice cream parlor in London\nDomains: ice cream parlor in London\nDomains: ice cream parlor in London\nDomains: ice cream parlor in London with a modern touch\n\nDomains: ice cream parlor in Paris\nDomains: ice cream parlor in"
+        },
+        {
+            "index": 49,
+            "business_description": "mental health counseling service in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: mental health counseling service in Paris\nDomains: mental health counseling service in Paris\nDomains: mental health counseling service in Paris\nDomains: mental health counseling service in Paris\n\nDomains: mental health counseling service in Dubai\nDomains: mental health counseling service in Dubai\nDomains"
+        }
+    ],
+    "hyperpar_exp3": [
+        {
+            "index": 0,
+            "business_description": "startup for pets in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: startup for pets in Singapore\nDomains: pet startup for pets in Singapore\nDomains: pet startup for pets in Singapore solutions\nDomains: pet startup for pets in Singapore with a modern touch\n"
+        },
+        {
+            "index": 1,
+            "business_description": "event planning company in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in Toronto\nDomains: 1. eventplanningcompany.domains.in Toronto\n2. eventplanningbusiness.domain.in Toronto\n3. eventplanning business with a modern touch in Toronto\n"
+        },
+        {
+            "index": 2,
+            "business_description": "event planning company in New York",
+            "predicted": "Generate 3 domain names for this business. Business: event planning company in New York\nDomains: 1. eventplanningcompany in New York\n2. event planning company in New York for everyone\n3. event planning business with a modern touch in New York\n"
+        },
+        {
+            "index": 3,
+            "business_description": "cybersecurity service provider in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo\nDomains:\n- domain 1: cybersevr@domain.co\n- domain 2: cybersecurity service provider in Tokyo\n- domain 3: cybersevr in Dubai\n"
+        },
+        {
+            "index": 4,
+            "business_description": "micro-lending platform in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: micro-lending platform in Toronto\nDomains: 1. micro-lending platform in Toronto | 2. micro-lending platform in Toronto for everyone | 3. micro-lending platform in Toronto with a modern touch\n"
+        },
+        {
+            "index": 5,
+            "business_description": "investment firm in New York",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in New York\nDomains: 1. investment firm in New York | 2. investment firm in London | 3. investment firm in Dubai\n"
+        },
+        {
+            "index": 6,
+            "business_description": "youth development program in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: youth development program in Toronto\nDomains: 1. youthdevelopmentprogram. domain\n2. youthdevelopmentprogram in Toronto. domain\n3. youth development program with a modern touch in Toronto\n"
+        },
+        {
+            "index": 7,
+            "business_description": "organic skincare brand in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Berlin\nDomains: organic skincare brand in Berlin solutions: organic skincare brand in Paris solutions: organic skincare brand in London solutions: organic skincare brand in Dubai solutions: organic skincare brand in Dubai\n\nDomains: organic sk"
+        },
+        {
+            "index": 8,
+            "business_description": "luxury travel agency in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: luxury travel agency in Paris\nDomains: 1. luxurytravelagency. domain\n2. luxurytravelagency in Paris domain\n3. luxury travel agency with a modern touch in Paris domain\n"
+        },
+        {
+            "index": 9,
+            "business_description": "film production house in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: film production house in San Francisco\nDomains: 1. filmproductionhouse. domain\n2. filmproductionhouse. in San Francisco\n3. film production house solutions\n"
+        },
+        {
+            "index": 10,
+            "business_description": "educational game developer in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: educational game developer in Singapore\nDomains: 1. game developer in Singapore domain\n2. game developer in Singapore in 3-letter domain\n3. game developer in Singapore for nonprofit\n\nDomains: 3 domain names for this business in Singapore\nDomains: game developer in Singapore in"
+        },
+        {
+            "index": 11,
+            "business_description": "food truck business in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in Singapore\nDomains: 1. food truck business in Singapore domain\n2. food truck business in Singapore mobile app\n3. food truck business in Singapore business\n"
+        },
+        {
+            "index": 12,
+            "business_description": "bakery and pastry shop in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco\nDomains: 1. bakery and pastry shop in San Francisco\nDomains: 2. bakery and pastry shop in San Francisco with a modern touch\nDomains: 3. bakery and pastry shop in San Francisco with a cultural touch\n"
+        },
+        {
+            "index": 13,
+            "business_description": "digital marketing agency in Tokyo",
+            "predicted": "Generate 3 domain names for this business. Business: digital marketing agency in Tokyo\nDomains: 1. domain for digital marketing agency in Tokyo\n2. domain for digital marketing agency in Paris\n3. domain for digital marketing agency in London\n"
+        },
+        {
+            "index": 14,
+            "business_description": "cloud solutions provider in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco\nDomains: 1. cloud solutions provider in San Francisco\nDomains: 2. cloud solutions provider in San Francisco with a modern touch\nDomains: 3. cloud solutions provider in San Francisco with a global perspective\n"
+        },
+        {
+            "index": 15,
+            "business_description": "food truck business in London",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in London\nDomains:\n1. food truck business in London domain\n2. food truck business in London with a modern touch domain\n3. food truck business in London for everyone domain\n"
+        },
+        {
+            "index": 16,
+            "business_description": "wedding photography business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in New York\nDomains: 1. domain for wedding photography business in New York\n2. domain for wedding photography business in Toronto\n3. domain for wedding photography business in London\n\nDomains: 3 domain names for wedding photography business in Paris\n1. domain for wedding"
+        },
+        {
+            "index": 17,
+            "business_description": "digital art marketplace in London",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in London\nDomains: 1. domain for this business in London\n2. domain for this business in Dubai\n3. domain for this business in Berlin\n"
+        },
+        {
+            "index": 18,
+            "business_description": "university consultancy in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: university consultancy in Paris\nDomains: 1. university consultancy in Paris domain\nDomains: 1. university consultancy in Paris for business\nDomains: 1. university consultancy in Paris for individuals\n"
+        },
+        {
+            "index": 19,
+            "business_description": "coding bootcamp in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: coding bootcamp in Dubai\nDomains:\n1. coding bootcamp in Dubai domain\n2. coding bootcamp in Dubai for everyone\n3. coding bootcamp in Dubai with a modern touch\n"
+        },
+        {
+            "index": 20,
+            "business_description": "online bookstore in London",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in London\nDomains:\n- https://domain.domain for this business\n- https://domain.domain for this business in Singapore\n- https://domain.domain for this business in Paris\n"
+        },
+        {
+            "index": 21,
+            "business_description": "language tutoring service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Dubai\nDomains: 1. domain names: tutoring service in Dubai\n2. domain names: tutoring service in Dubai with a modern touch\n3. domain names: tutoring service in Dubai for everyone\n"
+        },
+        {
+            "index": 22,
+            "business_description": "wedding photography business in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: wedding photography business in San Francisco\nDomains: 1. weddingphotography sanfrancisco\n2. weddingphotography business\n3. wedding photography business in San Francisco\n"
+        },
+        {
+            "index": 23,
+            "business_description": "digital art marketplace in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: digital art marketplace in Toronto\nDomains: 1. domain for digital art marketplace in Toronto\n2. domain for digital art marketplace in Toronto with a modern touch\n3. domain for digital art marketplace with a global outreach in Toronto\n"
+        },
+        {
+            "index": 24,
+            "business_description": "fine dining restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fine dining restaurant in Paris\nDomains: Paris fine dining restaurant domain names\n"
+        },
+        {
+            "index": 25,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains:\n- 3 domain names for this business in Toronto\n- domestic domain for this business\n- 3 innovative domain names for this business\n- domestic domain for this business with a modern touch\n- 3 domain names with a global reach for this business\n"
+        },
+        {
+            "index": 26,
+            "business_description": "food truck business in New York",
+            "predicted": "Generate 3 domain names for this business. Business: food truck business in New York\nDomains: food truck business in New York\nDomains: food truck business in London with a modern touch\nDomains: food truck business in Dubai for everyone\n"
+        },
+        {
+            "index": 27,
+            "business_description": "home decor shop in New York",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in New York\nDomains:\n1. home decor shop in New York\n2. home decor shop in Paris\n3. home decor shop in Tokyo\n"
+        },
+        {
+            "index": 28,
+            "business_description": "cloud solutions provider in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: cloud solutions provider in Singapore\nDomains: cloud solutions provider in Singapore solutions\nDomains: cloud solutions provider in Singapore with a global touch\nDomains: cloud solutions provider in Singapore with a modern touch\n"
+        },
+        {
+            "index": 29,
+            "business_description": "language tutoring service in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: language tutoring service in Berlin\nDomains: 1. domain for language tutoring service in Berlin\n2. domain for language tutoring service in Berlin with a modern touch\n3. domain for language tutoring service in Berlin with a global reach\n"
+        },
+        {
+            "index": 30,
+            "business_description": "organic skincare brand in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Paris\nDomains: organic skincare brand in Paris solutions\nDomains: organic skincare brand in Paris solutions for everyone\nDomains: organic skincare brand in Paris solutions with a modern touch\n"
+        },
+        {
+            "index": 31,
+            "business_description": "online bookstore in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: online bookstore in Toronto\nDomains: 1. ontario.domains.com 2. onlinebookstore.ca 3. for this business, there are many options for domain names in Toronto\n"
+        },
+        {
+            "index": 32,
+            "business_description": "AI-powered healthcare solution for elderly in rural areas in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai\nDomains:\n1. AI-powered healthcare solution for elderly in rural areas in Dubai\n2. Solutions for elderly healthcare in Dubai\n3. Solutions for elderly healthcare business in Dubai\n"
+        },
+        {
+            "index": 33,
+            "business_description": "environmental NGO in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: environmental NGO in Toronto\nDomains: 1. environmental NGO in Toronto\n2. environmental NGO in Toronto for business\n3. environmental NGO in Toronto for nonprofit\n\nFor business: 3 domain names for environmental NGO in Toronto\nFor nonprofit: 3 domain names for environmental NGO in Toronto\n"
+        },
+        {
+            "index": 34,
+            "business_description": "real estate agency in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: real estate agency in Dubai\nDomains: 1. domain names for real estate agency in Dubai\n2. domain names with a modern touch for this business\n3. domain names with a global reach for this business\n"
+        },
+        {
+            "index": 35,
+            "business_description": "organic skincare brand in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: organic skincare brand in Toronto\nDomains: organic skincare brand in Toronto\n- organic skincare brand in Toronto\n- organic skincare brand in Toronto with a modern touch\n- organic skincare brand in Toronto with a global perspective\n\nDomains: organic skinc"
+        },
+        {
+            "index": 36,
+            "business_description": "vegan restaurant in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Paris\nDomains:\n- vegan restaurant in Paris\n- vegan restaurant in London\n- vegan restaurant in Dubai\n"
+        },
+        {
+            "index": 37,
+            "business_description": "investment firm in Berlin",
+            "predicted": "Generate 3 domain names for this business. Business: investment firm in Berlin\nDomains: 1. investment firm in Berlin domain\n2. investment firm in Berlin for nonprofit\n3. investment firm in Berlin for graduate program\n"
+        },
+        {
+            "index": 38,
+            "business_description": "vegan restaurant in Toronto",
+            "predicted": "Generate 3 domain names for this business. Business: vegan restaurant in Toronto\nDomains: 1. vegan restaurant in Toronto domain\nDomains: vegan restaurant in Toronto with a modern touch\nDomains: vegan restaurant in Toronto with a cultural touch\n"
+        },
+        {
+            "index": 39,
+            "business_description": "VR gaming center in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: VR gaming center in San Francisco\nDomains: 1. VR gaming center in San Francisco\nDomains: 2. VR gaming center in Tokyo\nDomains: 3. VR gaming center in Dubai\n"
+        },
+        {
+            "index": 40,
+            "business_description": "fast-food chain in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: fast-food chain in Paris\nDomains: 1. fast-food chain in Paris domain\n2. fast-food chain in Paris with a modern touch\n3. fast-food chain in Paris with a global outreach\n"
+        },
+        {
+            "index": 41,
+            "business_description": "personal finance advisory in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: personal finance advisory in San Francisco\nDomains:\n1. personal finance advisory in San Francisco\n2. personal finance advisory in San Francisco for everyone\n3. personal finance advisory in San Francisco for startups\n"
+        },
+        {
+            "index": 42,
+            "business_description": "home decor shop in Singapore",
+            "predicted": "Generate 3 domain names for this business. Business: home decor shop in Singapore\nDomains:\n1. home decor shop in Singapore\n2. home decor shop in Singapore with a modern touch\n3. home decor shop in Singapore with a cultural touch\n"
+        },
+        {
+            "index": 43,
+            "business_description": "luxury watch retailer in New York",
+            "predicted": "Generate 3 domain names for this business. Business: luxury watch retailer in New York\nDomains: 1. luxury watch retailer in New York\nDomains: 2. luxury watch retailer in New York for nonprofit\nDomains: 3. luxury watch retailer in New York with a modern touch\n"
+        },
+        {
+            "index": 44,
+            "business_description": "car rental service in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: car rental service in San Francisco\nDomains: car rental service in San Francisco | car rental service with a modern touch | car rental service for everyone in San Francisco\n"
+        },
+        {
+            "index": 45,
+            "business_description": "music label in San Francisco",
+            "predicted": "Generate 3 domain names for this business. Business: music label in San Francisco\nDomains: 1. music label in San Francisco\n2. music label in San Francisco with a modern touch\n3. music label with a global reach in San Francisco\n\nDomains: 3 solutions for this business in San Francisco\n1. music label in"
+        },
+        {
+            "index": 46,
+            "business_description": "podcast production company in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: podcast production company in Paris\nDomains: 1. domain for podcast production company in Paris\n2. domain for podcast production company in Toronto\n3. domain for podcast production company in London\n"
+        },
+        {
+            "index": 47,
+            "business_description": "home cleaning service in Dubai",
+            "predicted": "Generate 3 domain names for this business. Business: home cleaning service in Dubai\nDomains: home cleaning service in Dubai | Dubai home cleaning service | home cleaning service business\n"
+        },
+        {
+            "index": 48,
+            "business_description": "ice cream parlor in London",
+            "predicted": "Generate 3 domain names for this business. Business: ice cream parlor in London\nDomains: ice cream parlor in London solutions\nDomains: ice cream parlor in London solutions in New York\nDomains: ice cream parlor in London solutions for business\n"
+        },
+        {
+            "index": 49,
+            "business_description": "mental health counseling service in Paris",
+            "predicted": "Generate 3 domain names for this business. Business: mental health counseling service in Paris\nDomains: 1. mental health counseling service in Paris\nDomains: 2. mental health counseling service in Berlin\nDomains: 3. mental health counseling service in Dubai\n"
+        }
+    ]
+}

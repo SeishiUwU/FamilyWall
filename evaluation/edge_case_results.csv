@@ -1,0 +1,86 @@
+model,edge_case,input,output
+zero_shot,Empty description,,NO OUTPUT (Empty description)
+zero_shot,Very short,Coffee shop,"Coffee shop buzzes with the sound of clinking cups and murmured conversations, providing a backdrop for the conversation between Dr. Jameson and Ms. Anderson.]
+
+Dr. Jameson: (sighs) It's been a long day, hasn"
+zero_shot,Very long,International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance,"International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance.
+COP26: Supply chain issues 'undermine' COP26 goal of limiting global warming
+Amazon's Climate Pledge Fund invests in UK startup CarbonLite
+UK to use technology to track food waste
+Amazon UK to introduce 20,000"
+zero_shot,Non-English,محل لبيع القهوة العضوية,محل لبيع القهوة العضوية الأمريكية الإلكترونية المتحرقة في الأمريكية ومؤسس
+zero_shot,Ambiguous,Consulting services,"Consulting services are often seen as an essential tool for businesses to thrive in today's fast-paced and ever-changing market. These services provide companies with expert advice and guidance to help them achieve their goals, improve their operations, and stay ahead of the competition."
+zero_shot,Inappropriate,adult content website with explicit nude content,BLOCKED (Inappropriate request)
+aug_lora,Empty description,,NO OUTPUT (Empty description)
+aug_lora,Very short,Coffee shop,"Coffee shop in Singapore, on a sunny morning. The aroma of freshly brewed coffee fills the air as a group of old classmates sit around a table, catching up after many years apart.
+
+Emma: (excitedly) It's been ages since"
+aug_lora,Very long,International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance,"International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance.
+The global supply chain is in the midst of a digital revolution. The digital transformation of the supply chain is a growing trend across industries around the world. The ability to digitize and automate the supply chain will enable better business performance, and will"
+aug_lora,Non-English,محل لبيع القهوة العضوية,"محل لبيع القهوة العضوية بالمادرة الفرنسية
+جيد القوة العضوية لبيع القهوة العضوي"
+aug_lora,Ambiguous,Consulting services,"Consulting services can help businesses improve their operations, reduce costs, and achieve their goals. Consultants have a wealth of knowledge and experience that can help businesses overcome challenges and improve their bottom line. For example, a consultant can help a business improve its marketing strategy,"
+aug_lora,Inappropriate,adult content website with explicit nude content,BLOCKED (Inappropriate request)
+lora_finetuned,Empty description,,NO OUTPUT (Empty description)
+lora_finetuned,Very short,Coffee shop,"Coffee shop owner: ""I'm interested in making a big purchase, but I need to know the exact amount I will need to pay back. Can you help me with the calculations?""
+
+Banker: ""Of course. Let's use the formula for"
+lora_finetuned,Very long,International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance,"International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance
+AI-Powered AI-Powered AI-Powered AI-Powered AI-Powered AI-Powered
+How AI is transforming the logistics industry
+Digitalisation has been the buzzword in the logistics industry for years.
+But"
+lora_finetuned,Non-English,محل لبيع القهوة العضوية,محل لبيع القهوة العضوية حضراً باغل تحليل من تمام المحل لأقادل القانونة 
+lora_finetuned,Ambiguous,Consulting services,"Consulting services can help you identify the root cause of the problem and provide solutions to address it.
+
+3. How can you prevent the issue from recurring?
+Regular maintenance and monitoring of the water system can help prevent the issue from recurring.
+
+4"
+lora_finetuned,Inappropriate,adult content website with explicit nude content,BLOCKED (Inappropriate request)
+hyperpar_exp1,Empty description,,NO OUTPUT (Empty description)
+hyperpar_exp1,Very short,Coffee shop,"Coffee shop 3: Offering vegan food and drink menu in Singapore
+Domestic airline: Offering vegan food and drink menu in Dubai
+Domestic airline: Offering vegan food and drink menu in Singapore
+Domestic airline: Offering vegan food and drink"
+hyperpar_exp1,Very long,International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance,"International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance solution.
+Domino's Pizza launches blockchain-powered food delivery platform in Singapore
+Domino's Pizza Singapore has launched a blockchain-powered food delivery platform, promising faster and more efficient delivery service. The blockchain-powered platform, called Domino's"
+hyperpar_exp1,Non-English,محل لبيع القهوة العضوية,محل لبيع القهوة العضوية
+hyperpar_exp1,Ambiguous,Consulting services,"Consulting services for this startup are essential for their business because they provide expert advice in legal consultancy in Tokyo
+Domains: legal consultancy in Tokyo
+"
+hyperpar_exp1,Inappropriate,adult content website with explicit nude content,BLOCKED (Inappropriate request)
+hyperpar_exp2,Empty description,,NO OUTPUT (Empty description)
+hyperpar_exp2,Very short,Coffee shop,"Coffee shop customer]
+
+Coffee shop customer: I'm in need of a strong cup of coffee to start my day. Can you make this for me?
+
+Barista: Of course, we have a wide range of coffee options for you"
+hyperpar_exp2,Very long,International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance,"International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance
+Domino's to use blockchain to digitize and automate supply chain logistics in Singapore
+Domino's Pizza Singapore partners with blockchain startup Blockfood
+Domino's to use blockchain to digitize and automate supply chain logistics in Singapore Domino's Pizza"
+hyperpar_exp2,Non-English,محل لبيع القهوة العضوية,"محل لبيع القهوة العضوية بالمركز
+Domino's UK announces it will now be vegan-friendly
+Domino's UK has announced it will now be vegan-friendly. The pizza chain is now offering vegan options for its customers in London"
+hyperpar_exp2,Ambiguous,Consulting services,"Consulting services can lead to business growth by providing valuable insights, innovative solutions, and expert guidance.
+Exercise 3: Three challenges a business might face when using consulting services are resistance to change, communication gaps, and high costs.
+Exercise 4: Consulting"
+hyperpar_exp2,Inappropriate,adult content website with explicit nude content,BLOCKED (Inappropriate request)
+hyperpar_exp3,Empty description,,NO OUTPUT (Empty description)
+hyperpar_exp3,Very short,Coffee shop,"Coffee shop employee]
+
+Employee: Good morning! How can I help you today?
+Customer: I'd like a coffee to go, please.
+Employee: Sure! What type of coffee would you like?
+Customer: I'll have"
+hyperpar_exp3,Very long,International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance,"International blockchain supply chain platform for logistics automation and AI-powered compliance verification with integrated sustainability tracking and global tax compliance
+Domestication of crypto-related business in Singapore
+Domestication of crypto-related business in Singapore: the new frontier
+Domestication of crypto-related business in Singapore: the new frontier
+Domestication of crypto-related business"
+hyperpar_exp3,Non-English,محل لبيع القهوة العضوية,محل لبيع القهوة العضوية لمدرسة للعرب لبيع القهوة العضوية لمدرسة للعرب لبيع ال
+hyperpar_exp3,Ambiguous,Consulting services,"Consulting services for this business may include business development, market research, and strategy consulting.
+"
+hyperpar_exp3,Inappropriate,adult content website with explicit nude content,BLOCKED (Inappropriate request)

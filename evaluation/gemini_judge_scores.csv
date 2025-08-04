@@ -1,0 +1,5327 @@
+model,business,predicted,gemini_score
+zero_shot,startup for pets in Singapore,"Generate 3 domain names for this business. Business: startup for pets in Singapore
+Domains: start.pet.sg, startup-for-pets.com.sg, start.pet-sg.net
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.8
+}
+```"
+zero_shot,event planning company in Toronto,"Generate 3 domain names for this business. Business: event planning company in Toronto
+Domains: eventscanada.com, torontoevents.com, planitwithus.com
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.83
+}
+```"
+zero_shot,event planning company in New York,"Generate 3 domain names for this business. Business: event planning company in New York
+Domains: EventPlanningNYC.com, EventPlanningNY.com, EventPlanningNYC
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.95,
+  ""validity"": 0.9,
+  ""overall"": 0.7166666666666667
+}
+```"
+zero_shot,cybersecurity service provider in Tokyo,"Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo
+Domains: securetech.co.jp, cyberprotection.co.jp, techsupport.co.jp
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.73
+}
+```"
+zero_shot,micro-lending platform in Toronto,"Generate 3 domain names for this business. Business: micro-lending platform in Toronto
+Domains: 
+1. 
+2. 
+3. 
+
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. ","Okay, I'm ready. Please provide the domain name suggestions. I need the actual domain names in order to evaluate them.  For example:
+
+Domains:
+1. Torontolend.com
+2. MicroloansTO.ca
+3. MapleMoney.org"
+zero_shot,investment firm in New York,"Generate 3 domain names for this business. Business: investment firm in New York
+Domains: 
+1. investmentfirmnyc.com
+2. nycinvestments.com
+3. theinvestornyc.com
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.8333333333333334
+}
+```"
+zero_shot,youth development program in Toronto,"Generate 3 domain names for this business. Business: youth development program in Toronto
+Domains: yd.toronto, youthdevelopment.ca, yd.com.au
+","```json
+{
+  ""yd.toronto"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.7666666666666667
+  },
+  ""youthdevelopment.ca"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7333333333333333
+  },
+  ""yd.com.au"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.3,
+    ""validity"": 0.9,
+    ""overall"": 0.6333333333333333
+  }
+}
+```"
+zero_shot,organic skincare brand in Berlin,"Generate 3 domain names for this business. Business: organic skincare brand in Berlin
+Domains: 
+- organicskincareberlin.com
+- BerlinOrganicSkincare.com
+- GreenSkinBerlin.com
+","```json
+{
+  ""organicskincareberlin.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""BerlinOrganicSkincare.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""GreenSkinBerlin.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  }
+}
+```"
+zero_shot,luxury travel agency in Paris,"Generate 3 domain names for this business. Business: luxury travel agency in Paris
+Domains: travelparis.com, luxuryparis.com, travelparissolutions.com
+","```json
+{
+  ""travelparis.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""luxuryparis.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.766
+  },
+  ""travelparissolutions.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.733
+  }
+}
+```"
+zero_shot,film production house in San Francisco,"Generate 3 domain names for this business. Business: film production house in San Francisco
+Domains: 
+1. filmi.sf
+2. SFnFilm
+3. CinemaFinder
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.7666666666666667
+}
+```"
+zero_shot,educational game developer in Singapore,"Generate 3 domain names for this business. Business: educational game developer in Singapore
+Domains: 
+1. ernicegame.com
+2. eryangame.sg
+3. eryangameservice.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.7,
+  ""validity"": 0.9,
+  ""overall"": 0.63
+}
+```"
+zero_shot,food truck business in Singapore,"Generate 3 domain names for this business. Business: food truck business in Singapore
+Domains: foodtruck.com, foodtruck.com.sg, foodtruck.asia
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.63
+}
+```"
+zero_shot,bakery and pastry shop in San Francisco,"Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco
+Domains: 
+1. SanFranciscoBakery.com
+2. SanFranciscoPastryShop.com
+3. SFBakery.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+zero_shot,digital marketing agency in Tokyo,"Generate 3 domain names for this business. Business: digital marketing agency in Tokyo
+Domains: 
+1. japanesemarketing.com 
+2. digitalmarketingtokyo.com 
+3. japanesemarketingagency.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.85,
+  ""validity"": 1.0,
+  ""overall"": 0.7166666666666667
+}
+```"
+zero_shot,cloud solutions provider in San Francisco,"Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco
+Domains: cloud-solutions.com, cloud-solutions.net, cloud-solutions.co.uk
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.6666666666666666
+}
+```"
+zero_shot,food truck business in London,"Generate 3 domain names for this business. Business: food truck business in London
+Domains: foodtrucklondon.com, foodtrucklondonco.com, foodtrucklondon.net
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+zero_shot,wedding photography business in New York,"Generate 3 domain names for this business. Business: wedding photography business in New York
+Domains:
+1. newyorkweddingsphotography.com
+2. weddingphotographyny.com
+3. weddingphotographynycity.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+zero_shot,digital art marketplace in London,"Generate 3 domain names for this business. Business: digital art marketplace in London
+Domains: digitalartmarket, londonart, artmarketlondon
+","```json
+{
+  ""digitalartmarket"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""londonart"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""artmarketlondon"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+zero_shot,university consultancy in Paris,"Generate 3 domain names for this business. Business: university consultancy in Paris
+Domains: 
+- university-consulting-paris.com 
+- ancleguide-paris.com 
+- cepr-paris.com
+","```json
+{
+  ""university-consulting-paris.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""ancleguide-paris.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.1,
+    ""validity"": 1.0,
+    ""overall"": 0.57
+  },
+  ""cepr-paris.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.4,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+zero_shot,coding bootcamp in Dubai,"Generate 3 domain names for this business. Business: coding bootcamp in Dubai
+Domains: CodeDubai, CodingDubai, CodetechDubai
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.95,
+  ""validity"": 1.0,
+  ""overall"": 0.85
+}
+```"
+zero_shot,online bookstore in London,"Generate 3 domain names for this business. Business: online bookstore in London
+Domains: Bookstore.co.uk, Books.co.uk, Bookstore.london
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+zero_shot,language tutoring service in Dubai,"Generate 3 domain names for this business. Business: language tutoring service in Dubai
+Domains: DubaiTutoring.com, ArabicLanguage.com, DubaiTutoring.ae
+","```json
+{
+  ""DubaiTutoring.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""ArabicLanguage.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.6,
+    ""validity"": 1.0,
+    ""overall"": 0.63
+  },
+  ""DubaiTutoring.ae"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  }
+}
+```"
+zero_shot,wedding photography business in San Francisco,"Generate 3 domain names for this business. Business: wedding photography business in San Francisco
+Domains: weddingsfran.com, weddingsfran.com.ph, weddingsfran.co.uk
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.7,
+  ""validity"": 0.9,
+  ""overall"": 0.6
+}
+```"
+zero_shot,digital art marketplace in Toronto,"Generate 3 domain names for this business. Business: digital art marketplace in Toronto
+Domains: artmarket.ca, Torontoart.com, digitalartmarket.co
+","```json
+{
+  ""artmarket.ca"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""Torontoart.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""digitalartmarket.co"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  }
+}
+```"
+zero_shot,fine dining restaurant in Paris,"Generate 3 domain names for this business. Business: fine dining restaurant in Paris
+Domains: finediningparis.com, restaurantparis.fr, paris.finefood.com
+","```json
+{
+  ""finediningparis.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""restaurantparis.fr"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""paris.finefood.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  }
+}
+```"
+zero_shot,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: Bookstore.on, Bookstore.ca, Bookstore.toronto
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.67
+}
+```"
+zero_shot,food truck business in New York,"Generate 3 domain names for this business. Business: food truck business in New York
+Domains: foodtrucknyc.com, foodtrucknyc.biz, foodtrucknyc.org
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.833
+}
+```"
+zero_shot,home decor shop in New York,"Generate 3 domain names for this business. Business: home decor shop in New York
+Domains: homedecorny.com, newyork.com, decor.co
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.8
+}
+```"
+zero_shot,cloud solutions provider in Singapore,"Generate 3 domain names for this business. Business: cloud solutions provider in Singapore
+Domains: cloud-solutions-sg.com, cloud-solutions-asia.com, cloud-solutions-asia.net
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+zero_shot,language tutoring service in Berlin,"Generate 3 domain names for this business. Business: language tutoring service in Berlin
+Domains: languagelearning.de, tutoringberlin.com, berlinlanguageinstitute.org
+","```json
+{
+  ""languagelearning.de"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""tutoringberlin.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""berlinlanguageinstitute.org"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+zero_shot,organic skincare brand in Paris,"Generate 3 domain names for this business. Business: organic skincare brand in Paris
+Domains: organicbeautyparis.fr, skincarebytheparis.fr, Parisorganic.fr
+","```json
+{
+  ""organicbeautyparis.fr"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""skincarebytheparis.fr"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.77
+  },
+  ""Parisorganic.fr"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  }
+}
+```"
+zero_shot,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: Bookstore.ca, Torontos.com, Canada.net
+","```json
+{
+  ""Bookstore.ca"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""Torontos.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.6,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""Canada.net"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.3,
+    ""validity"": 1.0,
+    ""overall"": 0.5
+  }
+}
+```"
+zero_shot,AI-powered healthcare solution for elderly in rural areas in Dubai,"Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai
+Domains: 
+1. iHealthVet, 
+2. ElderlyHealthcare UAE, 
+3. AIPH Dubai
+","```json
+{
+  ""iHealthVet"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.7,
+    ""validity"": 0.9,
+    ""overall"": 0.733
+  },
+  ""ElderlyHealthcare UAE"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 0.7,
+    ""overall"": 0.6
+  },
+  ""AIPH Dubai"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.7,
+    ""validity"": 0.9,
+    ""overall"": 0.767
+  }
+}
+```"
+zero_shot,environmental NGO in Toronto,"Generate 3 domain names for this business. Business: environmental NGO in Toronto
+Domains: eco-tourism.ca, green-city.org, nature-advocates.co
+","```json
+{
+  ""eco-tourism.ca"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.5,
+    ""validity"": 0.9,
+    ""overall"": 0.67
+  },
+  ""green-city.org"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.8
+  },
+  ""nature-advocates.co"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.9,
+    ""validity"": 0.8,
+    ""overall"": 0.83
+  }
+}
+```"
+zero_shot,real estate agency in Dubai,"Generate 3 domain names for this business. Business: real estate agency in Dubai
+Domains: realestate.ae, realestateinDubai.com, realestate.ae
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.633
+}
+```"
+zero_shot,organic skincare brand in Toronto,"Generate 3 domain names for this business. Business: organic skincare brand in Toronto
+Domains: skincaretoronto.com, organicbeautycanada.com, skincareproducts.ca
+","```json
+{
+  ""skincaretoronto.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""organicbeautycanada.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""skincareproducts.ca"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.6666666666666666
+  }
+}
+```"
+zero_shot,vegan restaurant in Paris,"Generate 3 domain names for this business. Business: vegan restaurant in Paris
+Domains:
+1. veganparis.com
+2. plantbasedinparis.com
+3. veganparisboutique.com
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.83
+}
+```"
+zero_shot,investment firm in Berlin,"Generate 3 domain names for this business. Business: investment firm in Berlin
+Domains: 
+- investmentfirmberlin.com 
+- berniainvestments.com 
+- ikoniadevents.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.7,
+  ""validity"": 1.0,
+  ""overall"": 0.63
+}
+```"
+zero_shot,vegan restaurant in Toronto,"Generate 3 domain names for this business. Business: vegan restaurant in Toronto
+Domains: vegansincanada, torontovegan, veganfoodtoronto
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7666666666666667
+}
+```"
+zero_shot,VR gaming center in San Francisco,"Generate 3 domain names for this business. Business: VR gaming center in San Francisco
+Domains: 
+1. vegamingcenter.sf
+2. thevirtualworld.sf
+3. psgrafica.com
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.7666666666666667
+}
+```"
+zero_shot,fast-food chain in Paris,"Generate 3 domain names for this business. Business: fast-food chain in Paris
+Domains: fastfoodparis.com, fastfoodparistourism.com, fastfoodparis.eu
+","```json
+{
+  ""fastfoodparis.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""fastfoodparistourism.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.63
+  },
+  ""fastfoodparis.eu"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  }
+}
+```"
+zero_shot,personal finance advisory in San Francisco,"Generate 3 domain names for this business. Business: personal finance advisory in San Francisco
+Domains: finance.sanfrancisco, moneyadvice.com, personalfinance.net
+","```json
+{
+  ""finance.sanfrancisco"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 0.7,
+    ""overall"": 0.63
+  },
+  ""moneyadvice.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""personalfinance.net"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+zero_shot,home decor shop in Singapore,"Generate 3 domain names for this business. Business: home decor shop in Singapore
+Domains:
+- homedecor-singapore.com
+- decor-by-sinc.com
+- sgdecor.com
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7666666666666667
+}
+```"
+zero_shot,luxury watch retailer in New York,"Generate 3 domain names for this business. Business: luxury watch retailer in New York
+Domains: luxury-watch.com, newyorkluxurywatches.com, luxury.com/ny
+","```json
+{
+  ""luxury-watch.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.6666666666666666
+  },
+  ""newyorkluxurywatches.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 0.9,
+    ""overall"": 0.7333333333333333
+  },
+  ""luxury.com/ny"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.6,
+    ""validity"": 0.1,
+    ""overall"": 0.4666666666666667
+  }
+}
+```"
+zero_shot,car rental service in San Francisco,"Generate 3 domain names for this business. Business: car rental service in San Francisco
+Domains: 
+- car-rental-sf.com
+- sf-car-rental.com
+- car-rental-sanfrancisco.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+zero_shot,music label in San Francisco,"Generate 3 domain names for this business. Business: music label in San Francisco
+Domains: musiclab.com, SFmusic.com, musiclabsanfrancisco.com
+","```json
+{
+  ""musiclab.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""SFmusic.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""musiclabsanfrancisco.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  }
+}
+```"
+zero_shot,podcast production company in Paris,"Generate 3 domain names for this business. Business: podcast production company in Paris
+Domains: podcastproduction.fr, podcastsinparistres.fr, podcastparis.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+zero_shot,home cleaning service in Dubai,"Generate 3 domain names for this business. Business: home cleaning service in Dubai
+Domains: HomeCleaningDubai.com, DubaiHomeCleaning.com, CleanHomeArabia.com
+","```json
+{
+  ""HomeCleaningDubai.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""DubaiHomeCleaning.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""CleanHomeArabia.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+zero_shot,ice cream parlor in London,"Generate 3 domain names for this business. Business: ice cream parlor in London
+Domains: 
+1. icecreamlondon.com
+2. icecreamcouncil.com
+3. icecreamville.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+zero_shot,mental health counseling service in Paris,"Generate 3 domain names for this business. Business: mental health counseling service in Paris
+Domains: mentalhealthcounselingparis.com, parismentalhealth.com, mentalhealthparis.co.uk
+","```json
+{
+  ""mentalhealthcounselingparis.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""parismentalhealth.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""mentalhealthparis.co.uk"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.73
+  }
+}
+```"
+aug_lora,startup for pets in Singapore,"Generate 3 domain names for this business. Business: startup for pets in Singapore
+Domains: petstartup.sg, petcare.com.sg, petsupplies.com.sg
+","```json
+{
+  ""petstartup.sg"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""petcare.com.sg"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""petsupplies.com.sg"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.67
+  }
+}
+```"
+aug_lora,event planning company in Toronto,"Generate 3 domain names for this business. Business: event planning company in Toronto
+Domains: eventplanningtoronto.com, partiesinToronto.com, TorontoEvents.com
+","```json
+{
+  ""eventplanningtoronto.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""partiesinToronto.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  },
+  ""TorontoEvents.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  }
+}
+```"
+aug_lora,event planning company in New York,"Generate 3 domain names for this business. Business: event planning company in New York
+Domains: eventplanningnyc.com, partyplanningnyc.com, weddingplanningnyc.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+aug_lora,cybersecurity service provider in Tokyo,"Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo
+Domains: protect-tokyo.com, secure-tech-japan.com, cyber-safety-solutions.net
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.83
+}
+```"
+aug_lora,micro-lending platform in Toronto,"Generate 3 domain names for this business. Business: micro-lending platform in Toronto
+Domains: 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- ","Okay, I need the domain name suggestions to evaluate. Please provide the list of domain names you want me to assess. Once you give me the list, I'll return a JSON object with the creativity, relevance, validity, and overall scores for each."
+aug_lora,investment firm in New York,"Generate 3 domain names for this business. Business: investment firm in New York
+Domains: 
+- investmentfirmnyc.com 
+- nycinvestors.com 
+- investmentcoa.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+aug_lora,youth development program in Toronto,"Generate 3 domain names for this business. Business: youth development program in Toronto
+Domains: youthdevelopment, totoronto, canadayouthdevelopment
+","```json
+{
+  ""youthdevelopment"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""totoronto"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.4,
+    ""validity"": 1.0,
+    ""overall"": 0.6666666666666666
+  },
+  ""canadayouthdevelopment"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+aug_lora,organic skincare brand in Berlin,"Generate 3 domain names for this business. Business: organic skincare brand in Berlin
+Domains: 
+1. organicskincareberlin.com
+2. organicskincareberlin.co.uk
+3. organicskincareberlin.de
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.6666666666666666
+}
+```"
+aug_lora,luxury travel agency in Paris,"Generate 3 domain names for this business. Business: luxury travel agency in Paris
+Domains: luxury-travel-paris.com, paris-luxury-travel.com, luxury-travel-paris.co.uk
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+aug_lora,film production house in San Francisco,"Generate 3 domain names for this business. Business: film production house in San Francisco
+Domains: film-production.sf, SF_filmproduction, Film_Studio
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 0.7,
+  ""overall"": 0.6
+}
+```"
+aug_lora,educational game developer in Singapore,"Generate 3 domain names for this business. Business: educational game developer in Singapore
+Domains: 
+1. 
+2. 
+3. 
+
+Domain 1: edu_game@gmail.com 
+Domain 2: en_game@gmail.com 
+Domain 3: singapore_game@gmail.","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.3,
+  ""validity"": 0.0,
+  ""overall"": 0.133
+}
+```"
+aug_lora,food truck business in Singapore,"Generate 3 domain names for this business. Business: food truck business in Singapore
+Domains: foodtruck.sg, foodtruckdelivery.com, foodtruckdelivery.asia
+","```json
+{
+  ""foodtruck.sg"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""foodtruckdelivery.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""foodtruckdelivery.asia"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  }
+}
+```"
+aug_lora,bakery and pastry shop in San Francisco,"Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco
+Domains: bakerysf.com, pastriesf.com, SanFrancisco.com
+","```json
+{
+  ""bakerysf.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.833
+  },
+  ""pastriesf.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.833
+  },
+  ""SanFrancisco.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.3,
+    ""validity"": 1.0,
+    ""overall"": 0.467
+  }
+}
+```"
+aug_lora,digital marketing agency in Tokyo,"Generate 3 domain names for this business. Business: digital marketing agency in Tokyo
+Domains: 
+- digital-marketing-japan.com
+- japan-digital-agency.com
+- tokyo-digital-marketing.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.73
+}
+```"
+aug_lora,cloud solutions provider in San Francisco,"Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco
+Domains: cloud.sf, cloud.com, cloud.co
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.6
+}
+```"
+aug_lora,food truck business in London,"Generate 3 domain names for this business. Business: food truck business in London
+Domains: foodtruckslondon.com, foodtruckslondon.co.uk, foodtruckslondon.net
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.95,
+  ""validity"": 1.0,
+  ""overall"": 0.7166666666666667
+}
+```"
+aug_lora,wedding photography business in New York,"Generate 3 domain names for this business. Business: wedding photography business in New York
+Domains: weddingphotographynyc.com, dreambridalphotography.com, and newyorkweddingphotography.com
+","```json
+{
+  ""weddingphotographynyc.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""dreambridalphotography.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""newyorkweddingphotography.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  }
+}
+```"
+aug_lora,digital art marketplace in London,"Generate 3 domain names for this business. Business: digital art marketplace in London
+Domains: digitalartmarketplace.co.uk, digitalartmarketplace.co.uk, digitalartmarketplace.co.uk
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.67
+}
+```"
+aug_lora,university consultancy in Paris,"Generate 3 domain names for this business. Business: university consultancy in Paris
+Domains: 
+- university-consulting-paris.com 
+- bpstudentsupport.com 
+- education-counseling-paris.com
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.733
+}
+```"
+aug_lora,coding bootcamp in Dubai,"Generate 3 domain names for this business. Business: coding bootcamp in Dubai
+Domains: CodeDubai.com, CodeSchoolDubai.com, CodingAcademyDubai.com
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.95,
+  ""validity"": 1.0,
+  ""overall"": 0.85
+}
+```"
+aug_lora,online bookstore in London,"Generate 3 domain names for this business. Business: online bookstore in London
+Domains: 
+- BookZone.com
+- LondonBooks.com
+- BookLover.net
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.83
+}
+```"
+aug_lora,language tutoring service in Dubai,"Generate 3 domain names for this business. Business: language tutoring service in Dubai
+Domains: languageeducation.com, dubailanguage.com, dubaitutor.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+aug_lora,wedding photography business in San Francisco,"Generate 3 domain names for this business. Business: wedding photography business in San Francisco
+Domains:
+1. SFweddingphotography.com
+2. SanFranciscoWeddingPhotography.com
+3. SFWeddingPhotographySanFrancisco.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+aug_lora,digital art marketplace in Toronto,"Generate 3 domain names for this business. Business: digital art marketplace in Toronto
+Domains: digitalartmarket.ca, torontoartmarket.com, artcanada.net
+","```json
+{
+  ""digitalartmarket.ca"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.833
+  },
+  ""torontoartmarket.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.867
+  },
+  ""artcanada.net"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.733
+  }
+}
+```"
+aug_lora,fine dining restaurant in Paris,"Generate 3 domain names for this business. Business: fine dining restaurant in Paris
+Domains: ParisFoodie, FineDiningParis, FoodandDrink
+","```json
+{
+  ""ParisFoodie"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""FineDiningParis"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""FoodandDrink"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.5,
+    ""validity"": 1.0,
+    ""overall"": 0.5666666666666667
+  }
+}
+```"
+aug_lora,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: Bookstore.ca, Read.io, BookNook.com
+","```json
+{
+  ""Bookstore.ca"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""Read.io"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""BookNook.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  }
+}
+```"
+aug_lora,food truck business in New York,"Generate 3 domain names for this business. Business: food truck business in New York
+Domains: foodtrucknyc.com, foodtrucknyc.biz, foodtrucknyc.org
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.833
+}
+```"
+aug_lora,home decor shop in New York,"Generate 3 domain names for this business. Business: home decor shop in New York
+Domains: NYHomeDecor.com, NYDecorShop.com, NYDecorForAll.com
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7666666666666667
+}
+```"
+aug_lora,cloud solutions provider in Singapore,"Generate 3 domain names for this business. Business: cloud solutions provider in Singapore
+Domains: 
+- cloud-solutions-sg
+- cloud-solutions-asia
+- cloud-solutions-asia-sg
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+aug_lora,language tutoring service in Berlin,"Generate 3 domain names for this business. Business: language tutoring service in Berlin
+Domains: tutoringberlin.com, langtutoringberlin.com, tutoringinberlin.com
+","```json
+{
+  ""tutoringberlin.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""langtutoringberlin.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.95,
+    ""validity"": 1.0,
+    ""overall"": 0.88
+  },
+  ""tutoringinberlin.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+aug_lora,organic skincare brand in Paris,"Generate 3 domain names for this business. Business: organic skincare brand in Paris
+Domains: skincareparis.fr, organicbeauty.fr, skincareparis.eu
+","```json
+{
+  ""skincareparis.fr"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""organicbeauty.fr"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""skincareparis.eu"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  }
+}
+```"
+aug_lora,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: Bookstore.ca, Bookstore.com, Bookstore.co
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.6666666666666666
+}
+```"
+aug_lora,AI-powered healthcare solution for elderly in rural areas in Dubai,"Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai
+Domains: 
+1. iheal.com
+2. vmafcare.com
+3. Dubaiaihealthcaretech
+","```json
+{
+  ""iheal.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""vmafcare.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.5,
+    ""validity"": 1.0,
+    ""overall"": 0.6333333333333333
+  },
+  ""Dubaiaihealthcaretech.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 0.7,
+    ""overall"": 0.6
+  }
+}
+```"
+aug_lora,environmental NGO in Toronto,"Generate 3 domain names for this business. Business: environmental NGO in Toronto
+Domains: eco-toronto.com, enviro-toronto.org, toronto-environmental.com
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.83
+}
+```"
+aug_lora,real estate agency in Dubai,"Generate 3 domain names for this business. Business: real estate agency in Dubai
+Domains: realestate.com.ae, realestate-dubai.com, dhsrealestate.com
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.6666666666666666
+}
+```"
+aug_lora,organic skincare brand in Toronto,"Generate 3 domain names for this business. Business: organic skincare brand in Toronto
+Domains: skincarebynature.com, organicbeautytoronto.com, natureandbeauty.ca
+","```json
+{
+  ""skincarebynature.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  },
+  ""organicbeautytoronto.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  },
+  ""natureandbeauty.ca"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  }
+}
+```"
+aug_lora,vegan restaurant in Paris,"Generate 3 domain names for this business. Business: vegan restaurant in Paris
+Domains: VeganParis.com, FoodieParis.com, GreenParis.com
+","```json
+{
+  ""VeganParis.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""FoodieParis.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.6,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""GreenParis.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+aug_lora,investment firm in Berlin,"Generate 3 domain names for this business. Business: investment firm in Berlin
+Domains: 
+- investmentfirmberlin.com
+- afinvest-berlin.com
+- devestolutionsberlin.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.6666666666666666
+}
+```"
+aug_lora,vegan restaurant in Toronto,"Generate 3 domain names for this business. Business: vegan restaurant in Toronto
+Domains: - veganfoodtoronto.com - plantbasedfoodtoronto.com - vegansinontario.com
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.73
+}
+```"
+aug_lora,VR gaming center in San Francisco,"Generate 3 domain names for this business. Business: VR gaming center in San Francisco
+Domains: 
+1. vrgamecentersf.com
+2. vrgamecenters-sf.com
+3. vrgamecenters SF.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.6666666666666666
+}
+```"
+aug_lora,fast-food chain in Paris,"Generate 3 domain names for this business. Business: fast-food chain in Paris
+Domains: 
+1.  fastfoodparis.com
+2.  fast-food-paris.de
+3.  fastfoodparis.fr
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.6666666666666666
+}
+```"
+aug_lora,personal finance advisory in San Francisco,"Generate 3 domain names for this business. Business: personal finance advisory in San Francisco
+Domains: financialadvisorysf, personalfinancesanfrancisco, financialadvisorysf
+","```json
+{
+  ""financialadvisorysf"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.6666666666666666
+  },
+  ""personalfinancesanfrancisco"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 0.9,
+    ""overall"": 0.7333333333333333
+  },
+  ""financialadvisorysf"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.6666666666666666
+  }
+}
+```"
+aug_lora,home decor shop in Singapore,"Generate 3 domain names for this business. Business: home decor shop in Singapore
+Domains:
+- HomeDecor-Singapore.com
+- SGHomeDecor.com
+- Decor-Shop-Singapore.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.733
+}
+```"
+aug_lora,luxury watch retailer in New York,"Generate 3 domain names for this business. Business: luxury watch retailer in New York
+Domains: watch.com, luxury.com, newyork.com
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.7,
+  ""validity"": 1.0,
+  ""overall"": 0.6
+}
+```"
+aug_lora,car rental service in San Francisco,"Generate 3 domain names for this business. Business: car rental service in San Francisco
+Domains: SFcarrentals, SFcarrental, carrentalsf
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.95,
+  ""validity"": 1.0,
+  ""overall"": 0.75
+}
+```"
+aug_lora,music label in San Francisco,"Generate 3 domain names for this business. Business: music label in San Francisco
+Domains: musiclab.com, musicsf.com, musicsfamerica.com
+","```json
+{
+  ""musiclab.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""musicsf.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""musicsfamerica.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+aug_lora,podcast production company in Paris,"Generate 3 domain names for this business. Business: podcast production company in Paris
+Domains: Podcast-Productions.fr, Podcast-Productions-paris.com, Podcast-Productions-santé
+","```json
+{
+  ""Podcast-Productions.fr"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""Podcast-Productions-paris.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""Podcast-Productions-santé"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.4,
+    ""validity"": 1.0,
+    ""overall"": 0.6333333333333333
+  }
+}
+```"
+aug_lora,home cleaning service in Dubai,"Generate 3 domain names for this business. Business: home cleaning service in Dubai
+Domains: CleanHomeDubai, DubaiCleaning, HomeCareServices
+","```json
+{
+  ""CleanHomeDubai"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""DubaiCleaning"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""HomeCareServices"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+aug_lora,ice cream parlor in London,"Generate 3 domain names for this business. Business: ice cream parlor in London
+Domains: 
+1. iccenet.co.uk
+2. iccenet.com
+3. iccenericestlondon.co.uk
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.6,
+  ""validity"": 0.9,
+  ""overall"": 0.57
+}
+```"
+aug_lora,mental health counseling service in Paris,"Generate 3 domain names for this business. Business: mental health counseling service in Paris
+Domains: 
+ 
+ 
+
+.com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+.org
+ 
+ 
+ 
+
+.net
+ 
+ 
+ 
+ 
+ 
+",I need the domain name suggestions to evaluate them. Please provide the 3 domain names before I can return the JSON object.
+lora_finetuned,startup for pets in Singapore,"Generate 3 domain names for this business. Business: startup for pets in Singapore
+Domains: petstartup.com, singapartypets.com, petsingapore.net
+","```json
+{
+  ""petstartup.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""singapartypets.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""petsingapore.net"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+lora_finetuned,event planning company in Toronto,"Generate 3 domain names for this business. Business: event planning company in Toronto
+Domains: EventsToronto.com, PlanYourEvent.ca, TorontoEvents.co.uk
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.73
+}
+```"
+lora_finetuned,event planning company in New York,"Generate 3 domain names for this business. Business: event planning company in New York
+Domains: EventPlanningNY.com, EventsByNY.com, NewYorkEvents.com
+","```json
+{
+  ""EventPlanningNY.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""EventsByNY.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  },
+  ""NewYorkEvents.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+lora_finetuned,cybersecurity service provider in Tokyo,"Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo
+Domains: cybersec.jp, tokyo.cy.us, japansecurity.co.jp
+","```json
+{
+  ""cybersec.jp"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""tokyo.cy.us"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.8
+  },
+  ""japansecurity.co.jp"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+lora_finetuned,micro-lending platform in Toronto,"Generate 3 domain names for this business. Business: micro-lending platform in Toronto
+Domains: 
+1. ____.com
+2. ____.net
+3. ____.org
+","Okay, I understand. I will generate three domain names for a micro-lending platform in Toronto and then evaluate those domain names. After the evaluations, I will return a JSON object with the creativity, relevance, validity, and overall score.
+
+Here are three domain name suggestions for a micro-lending platform in Toronto:
+
+1.  TorontoMicroLoans.com
+2.  LendLocalTO.net
+3.  CommunityCapital.org
+
+Now, let's evaluate these domain names:
+
+**1. TorontoMicroLoans.com**
+
+*   **Creativity:** 0.6 - It's descriptive but not exceptionally unique. It clearly states the location and type of service.
+*   **Relevance:** 0.9 - Highly relevant; clearly indicates micro-loans in Toronto.
+*   **Validity:** 1.0 - Valid and standard .com domain.
+
+**2. LendLocalTO.net**
+
+*   **Creativity:** 0.7 - ""LendLocal"" is catchy, and ""TO"" is a common abbreviation for Toronto. It has a slightly more modern feel.
+*   **Relevance:** 0.8 - Good relevance; implies local lending in Toronto (TO).
+*   **Validity:** 1.0 - Valid .net domain.
+
+**3. CommunityCapital.org**
+
+*   **Creativity:** 0.5 - A bit generic; ""Community Capital"" could apply to many things.
+*   **Relevance:** 0.7 - Relevant because it relates to capital, which is related to lending.
+*   **Validity:** 1.0 - Valid .org domain, implying a non-profit or community-focused organization.
+
+Here is the JSON object:
+
+```json
+{
+  ""TorontoMicroLoans.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""LendLocalTO.net"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""CommunityCapital.org"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  }
+}
+```"
+lora_finetuned,investment firm in New York,"Generate 3 domain names for this business. Business: investment firm in New York
+Domains: 
+1. theinvestor.com
+2. wealthcreater.com
+3. NewYorkInvestments.com
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7666666666666667
+}
+```"
+lora_finetuned,youth development program in Toronto,"Generate 3 domain names for this business. Business: youth development program in Toronto
+Domains: youthdevelopment, torontoyouth, youthdevelopmentcanada
+","```json
+{
+  ""youthdevelopment"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.6666666666666666
+  },
+  ""torontoyouth"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7333333333333333
+  },
+  ""youthdevelopmentcanada"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+lora_finetuned,organic skincare brand in Berlin,"Generate 3 domain names for this business. Business: organic skincare brand in Berlin
+Domains:
+- organic-skincare-berlin.com
+- bery-organic-skincare.de
+- organic-skincare-berlin.co.uk
+","```json
+{
+  ""organic-skincare-berlin.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.733
+  },
+  ""bery-organic-skincare.de"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.833
+  },
+  ""organic-skincare-berlin.co.uk"": {
+    ""creativity"": 0.2,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.733
+  }
+}
+```"
+lora_finetuned,luxury travel agency in Paris,"Generate 3 domain names for this business. Business: luxury travel agency in Paris
+Domains: luxurytravelexperience.com, travelparis.fr, luxurytravel.net
+","```json
+{
+  ""luxurytravelexperience.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""travelparis.fr"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""luxurytravel.net"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+lora_finetuned,film production house in San Francisco,"Generate 3 domain names for this business. Business: film production house in San Francisco
+Domains: 
+1. filmproductionSF.com
+2. SFfilmproduction.com
+3. SFcanalproduction.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+lora_finetuned,educational game developer in Singapore,"Generate 3 domain names for this business. Business: educational game developer in Singapore
+Domains: 
+1. 
+2. 
+3. 
+
+• 
+
+• 
+
+• 
+
+4. 
+5. 
+6. 
+
+7. 
+8. 
+9.","Okay, I need the actual domain name suggestions to evaluate them. Please provide the list of 9 domain names. Once you provide the list, I will evaluate them based on Creativity, Relevance, and Validity, and return a JSON object as requested."
+lora_finetuned,food truck business in Singapore,"Generate 3 domain names for this business. Business: food truck business in Singapore
+Domains: foodtruck.com, foodtrucksingapore, foodtruckasia
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.6666666666666666
+}
+```"
+lora_finetuned,bakery and pastry shop in San Francisco,"Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco
+Domains: SanFranciscoBakery.com, SanFranciscoPastryShop.com, SanFranciscoBakery.net
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+lora_finetuned,digital marketing agency in Tokyo,"Generate 3 domain names for this business. Business: digital marketing agency in Tokyo
+Domains: www.digital-tokyo.com, www.digital-marketing-agency.co.jp, www.tokyo-digital.com
+","```json
+{
+  ""www.digital-tokyo.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""www.digital-marketing-agency.co.jp"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""www.tokyo-digital.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  }
+}
+```"
+lora_finetuned,cloud solutions provider in San Francisco,"Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco
+Domains: 
+• cloudSolutionsSF.com
+• cloud-solutions-sf.com
+• cloud-solutions-sf.net
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+lora_finetuned,food truck business in London,"Generate 3 domain names for this business. Business: food truck business in London
+Domains: FoodTruckLondon.co.uk, FoodTruckLondon.com, FoodTruckLondon.ie
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+lora_finetuned,wedding photography business in New York,"Generate 3 domain names for this business. Business: wedding photography business in New York
+Domains:
+1. newyorkweddingphotography.com
+2. dreamydayweddingsphotography.com
+3. nycweddingphotography.com
+","```json
+{
+  ""newyorkweddingphotography.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""dreamydayweddingsphotography.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""nycweddingphotography.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  }
+}
+```"
+lora_finetuned,digital art marketplace in London,"Generate 3 domain names for this business. Business: digital art marketplace in London
+Domains: art.london, art.london.com, art.london.co.uk
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.6666666666666666
+}
+```"
+lora_finetuned,university consultancy in Paris,"Generate 3 domain names for this business. Business: university consultancy in Paris
+Domains: 
+- university-consulting-paris.com 
+- ou-consulting-paris.com 
+- university-consulting.com
+","```json
+{
+  ""university-consulting-paris.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""ou-consulting-paris.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""university-consulting.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+lora_finetuned,coding bootcamp in Dubai,"Generate 3 domain names for this business. Business: coding bootcamp in Dubai
+Domains: CodeAcademy.com, DubaiCoding.com, CodeMaster.com
+","```json
+{
+  ""CodeAcademy.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.4,
+    ""validity"": 1.0,
+    ""overall"": 0.53
+  },
+  ""DubaiCoding.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""CodeMaster.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.5,
+    ""validity"": 1.0,
+    ""overall"": 0.6
+  }
+}
+```"
+lora_finetuned,online bookstore in London,"Generate 3 domain names for this business. Business: online bookstore in London
+Domains: Bookworm.co.uk, BookFinder.co.uk, BookLover.co.uk
+A: Bookworm.co.uk is a simple and catchy name that suggests a love for books. BookFinder.co.","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.83
+}
+```"
+lora_finetuned,language tutoring service in Dubai,"Generate 3 domain names for this business. Business: language tutoring service in Dubai
+Domains: 
+- ernanetwork.com
+- dubaispecialist.com
+- languageinstruction.com
+","```json
+{
+  ""ernanetwork.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.1,
+    ""validity"": 1.0,
+    ""overall"": 0.43
+  },
+  ""dubaispecialist.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""languageinstruction.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+lora_finetuned,wedding photography business in San Francisco,"Generate 3 domain names for this business. Business: wedding photography business in San Francisco
+Domains:
+weddingphotographysf.com
+weddingphotographysf.co.uk
+weddingphotographysf.net
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.6666666666666666
+}
+```"
+lora_finetuned,digital art marketplace in Toronto,"Generate 3 domain names for this business. Business: digital art marketplace in Toronto
+Domains: art.ca, art.toronto, artmarket.ca
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.6666666666666666
+}
+```"
+lora_finetuned,fine dining restaurant in Paris,"Generate 3 domain names for this business. Business: fine dining restaurant in Paris
+Domains: ParisFoodie, ParisEats, ParisCuisine.
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.8333333333333334
+}
+```"
+lora_finetuned,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: bookshop.torontos.com, bookstore.ca, bookshop.book
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.6666666666666666
+}
+```"
+lora_finetuned,food truck business in New York,"Generate 3 domain names for this business. Business: food truck business in New York
+Domains: foodtrucks.com, foodtrucksnyc.com, foodtrucks.org
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+lora_finetuned,home decor shop in New York,"Generate 3 domain names for this business. Business: home decor shop in New York
+Domains: homedecorbyjane.com, homedecornyc.com, homedecorny.net
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.7
+}
+```"
+lora_finetuned,cloud solutions provider in Singapore,"Generate 3 domain names for this business. Business: cloud solutions provider in Singapore
+Domains: 
+- cloud.sg 
+- cloud.com.sg 
+- cloudsolutions.net.sg
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.73
+}
+```"
+lora_finetuned,language tutoring service in Berlin,"Generate 3 domain names for this business. Business: language tutoring service in Berlin
+Domains: tutoringberlin.de, language-teaching.de, tutoring-services-berlin
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+lora_finetuned,organic skincare brand in Paris,"Generate 3 domain names for this business. Business: organic skincare brand in Paris
+Domains: skincarebymarie, parisorganic, organicbeauty
+","```json
+{
+  ""skincarebymarie"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""parisorganic"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""organicbeauty"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7333333333333333
+  }
+}
+```"
+lora_finetuned,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: 
+- booknook.com
+- toonbooks.ca
+- ebooks.net
+","```json
+{
+  ""booknook.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""toonbooks.ca"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""ebooks.net"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.67
+  }
+}
+```"
+lora_finetuned,AI-powered healthcare solution for elderly in rural areas in Dubai,"Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai
+Domains: 
+1. iheal.io
+2. suziedubai.com
+3. aihealthcare.ae
+","```json
+{
+  ""iheal.io"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.7,
+    ""validity"": 0.9,
+    ""overall"": 0.7666666666666667
+  },
+  ""suziedubai.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.1,
+    ""validity"": 0.9,
+    ""overall"": 0.4
+  },
+  ""aihealthcare.ae"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.7666666666666667
+  }
+}
+```"
+lora_finetuned,environmental NGO in Toronto,"Generate 3 domain names for this business. Business: environmental NGO in Toronto
+Domains: environmentalsynergy.ca, ecofriendlycanada.org, greentoronto.com
+","```json
+{
+  ""environmentalsynergy.ca"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""ecofriendlycanada.org"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""greentoronto.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  }
+}
+```"
+lora_finetuned,real estate agency in Dubai,"Generate 3 domain names for this business. Business: real estate agency in Dubai
+Domains: realestate.dubai, Dubairealestate.com, realestate.ae
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+lora_finetuned,organic skincare brand in Toronto,"Generate 3 domain names for this business. Business: organic skincare brand in Toronto
+Domains: organicskincare.ca, organicbeautystore.com, organicskincare.co
+","```json
+{
+  ""organicskincare.ca"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""organicbeautystore.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.77
+  },
+  ""organicskincare.co"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  }
+}
+```"
+lora_finetuned,vegan restaurant in Paris,"Generate 3 domain names for this business. Business: vegan restaurant in Paris
+Domains: 
+- veganparis.com
+- plantbasedfoods.fr
+- crueltyfreecafe.org
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.8
+}
+```"
+lora_finetuned,investment firm in Berlin,"Generate 3 domain names for this business. Business: investment firm in Berlin
+Domains: 
+- investmentfirm-berlin.com 
+- afsberlin.com 
+- berniedomainplacetrading.com
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.7,
+  ""validity"": 0.9,
+  ""overall"": 0.6
+}
+```"
+lora_finetuned,vegan restaurant in Toronto,"Generate 3 domain names for this business. Business: vegan restaurant in Toronto
+Domains:
+1. vegantoronto.com
+2. plantbasedfoodtoronto.com
+3. vegansinToronto.com
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.73
+}
+```"
+lora_finetuned,VR gaming center in San Francisco,"Generate 3 domain names for this business. Business: VR gaming center in San Francisco
+Domains: 
+1. vrgamecentersf.com
+2. vrgamecentersco.us
+3. vrgamecentersnet.org
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.6666666666666666
+}
+```"
+lora_finetuned,fast-food chain in Paris,"Generate 3 domain names for this business. Business: fast-food chain in Paris
+Domains: fastfood, fastfoodparis, fastfoodco
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.63
+}
+```"
+lora_finetuned,personal finance advisory in San Francisco,"Generate 3 domain names for this business. Business: personal finance advisory in San Francisco
+Domains: personalfinanceadvisorysf.com, financialadvisorysanfrancisco.com, sanfrancisco.com/personal-finance
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 0.7,
+  ""overall"": 0.6
+}
+```"
+lora_finetuned,home decor shop in Singapore,"Generate 3 domain names for this business. Business: home decor shop in Singapore
+Domains: 
+- home-decor-sg.com
+- decor-by-sincorp.com
+- sg-home-decor.com
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7666666666666667
+}
+```"
+lora_finetuned,luxury watch retailer in New York,"Generate 3 domain names for this business. Business: luxury watch retailer in New York
+Domains: watchnewyork.com, luxurytime.com, watchstoreny.com
+","```json
+{
+  ""watchnewyork.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""luxurytime.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""watchstoreny.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+lora_finetuned,car rental service in San Francisco,"Generate 3 domain names for this business. Business: car rental service in San Francisco
+Domains: carrentalsf, SFcarrentals, CarRentalsSF
+","```json
+{
+  ""carrentalsf"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""SFcarrentals"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""CarRentalsSF"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  }
+}
+```"
+lora_finetuned,music label in San Francisco,"Generate 3 domain names for this business. Business: music label in San Francisco
+Domains: MusicFirm, SFSound, SanFranciscoMusic
+","```json
+{
+  ""MusicFirm"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""SFSound"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""SanFranciscoMusic"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+lora_finetuned,podcast production company in Paris,"Generate 3 domain names for this business. Business: podcast production company in Paris
+Domains: podcastproduction.fr, podcastfr.com, podcastparis.com
+","```json
+{
+  ""podcastproduction.fr"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""podcastfr.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""podcastparis.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  }
+}
+```"
+lora_finetuned,home cleaning service in Dubai,"Generate 3 domain names for this business. Business: home cleaning service in Dubai
+Domains: HomeCleaningDubai.com, DubaiCleaningSolutions.com, CleanersInDubai.com
+","```json
+{
+  ""HomeCleaningDubai.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""DubaiCleaningSolutions.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""CleanersInDubai.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+lora_finetuned,ice cream parlor in London,"Generate 3 domain names for this business. Business: ice cream parlor in London
+Domains: icedcreme.co.uk, icecreamcomercial.co.uk, icecreams-in-london.co.uk
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.8
+}
+```"
+lora_finetuned,mental health counseling service in Paris,"Generate 3 domain names for this business. Business: mental health counseling service in Paris
+Domains: 
+• mentalhealth-paris.com 
+• 
+• mentalhealth-paris.fr
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+hyperpar_exp1,startup for pets in Singapore,"Generate 3 domain names for this business. Business: startup for pets in Singapore
+Domains: pet grooming service in Singapore
+Domains: [Business name] in Singapore
+Domains: Singapore's top pet grooming service
+Domains: A business dedicated to pet grooming service in Singapore
+Domains: A modern pet grooming service in Singapore
+","```json
+{
+  ""pet grooming service in Singapore"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.63
+  },
+  ""[Business name] in Singapore"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.3,
+    ""validity"": 0.7,
+    ""overall"": 0.37
+  },
+  ""Singapore's top pet grooming service"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.7
+  },
+  ""A business dedicated to pet grooming service in Singapore"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.6
+  },
+  ""A modern pet grooming service in Singapore"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.67
+  }
+}
+```"
+hyperpar_exp1,event planning company in Toronto,"Generate 3 domain names for this business. Business: event planning company in Toronto
+Domains: event planning company in Toronto
+Domains: Toronto event planning company
+Domains: A business focused on wedding photography business in Toronto
+Domains: A business dedicated to fitness center in Toronto
+Domains: A business focused on fine dining restaurant in","I need the domain name suggestions to evaluate them. Please provide the list of domain names. Once you provide the domain names, I will evaluate them based on creativity, relevance, and validity, and return a JSON object as requested."
+hyperpar_exp1,event planning company in New York,"Generate 3 domain names for this business. Business: event planning company in New York
+Domains: event planning company in New York
+Domains: events.nyc
+Domains: events.nyc.com
+Domains: events.nyc.com for everyone
+Domains: events.nyc for modern customers
+Domains","```json
+{
+  ""eventplanningcompanyinnewyork.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.67
+  },
+  ""events.nyc"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+   ""events.nyc.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""events.nyc.comforeveryone.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.6,
+    ""validity"": 0.8,
+    ""overall"": 0.5
+  },
+  ""events.nycformoderncustomers.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.7,
+    ""validity"": 0.9,
+    ""overall"": 0.6
+  }
+}
+```"
+hyperpar_exp1,cybersecurity service provider in Tokyo,"Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo
+Domains: cybersecurity service provider in Tokyo
+Domains: cybersecurity service provider in Tokyo
+Domains: cybersecurity service provider in Tokyo
+Domains: cybersecurity service provider in Tokyo
+Domains: cybersecurity service provider in Tokyo
+Domains: cybersecurity service provider in Tokyo","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```"
+hyperpar_exp1,micro-lending platform in Toronto,"Generate 3 domain names for this business. Business: micro-lending platform in Toronto
+Domains: micro-lending platform in Toronto
+Domains: micro-lending platform in Toronto
+Domains: micro-lending platform in Toronto
+Domains: micro-lending platform in Toronto
+Domains: micro-lending platform in","I cannot generate 3 domain names, as I am an expert evaluator. I can only evaluate domain name suggestions. There were no suggestions provided, so I will assume the suggestions are the business description itself.
+
+```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.5,
+  ""overall"": 0.47
+}
+```"
+hyperpar_exp1,investment firm in New York,"Generate 3 domain names for this business. Business: investment firm in New York
+Domains: investment firm in New York
+Domains: investment firm in New York
+Domains: investment firm in Tokyo
+Domains: investment firm in New York
+Domains: investment firm in Paris
+Domains: investment firm in Dubai
+Domains","It seems there's an issue with the prompt. The domain suggestions are missing. I need actual domain name suggestions to evaluate them based on creativity, relevance, and validity.
+
+However, I can provide the JSON object format that I will use once you provide the domain names:
+
+```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```
+
+**Please provide the domain name suggestions so I can complete the evaluation.**"
+hyperpar_exp1,youth development program in Toronto,"Generate 3 domain names for this business. Business: youth development program in Toronto
+Domains: youth development program in Toronto
+Domains: youth development program in Toronto with a modern touch
+Domains: youth development program in Toronto with a modern touch
+Domains: youth development program in Toronto for everyone
+Domains: youth development program in","Okay, I will evaluate the domain name suggestions based on the criteria you provided. Since the domain suggestions were not provided, I will create 3 domain suggestions based on your business description and rate them.
+
+**Business Description:** Youth development program in Toronto
+
+**Domain Suggestions:**
+
+1.  TorontoYouthRise.org
+2.  TdotYouth.ca
+3.  YouthForwardTO.com
+
+Here's the JSON evaluation for each domain, assuming they were the suggestions. I will provide 3 evaluations.
+
+```json
+{
+  ""creativity"": 0.7,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.8666666666666667
+}
+```
+
+```json
+{
+  ""creativity"": 0.8,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.8666666666666667
+}
+```
+
+```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.8333333333333334
+}
+```"
+hyperpar_exp1,organic skincare brand in Berlin,"Generate 3 domain names for this business. Business: organic skincare brand in Berlin
+Domains: organic skincare brand in Berlin
+Domains: organic skincare brand in Paris
+Domains: organic skincare brand in Tokyo
+Domains: organic skincare brand in New York
+Domains: organic skincare brand",I am unable to evaluate the domain name suggestions because there are no actual domain names provided. The prompt only contains a business description and a repeated instruction to generate domains. I need actual domain name suggestions to provide a useful evaluation.
+hyperpar_exp1,luxury travel agency in Paris,"Generate 3 domain names for this business. Business: luxury travel agency in Paris
+Domains: luxury travel agency in Paris
+Domains: luxury travel agency in Paris
+Domains: luxury travel agency in Paris
+Domains: luxury travel agency in Paris
+Domains: luxury travel agency in Paris
+Domains: luxury travel agency in Paris","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```"
+hyperpar_exp1,film production house in San Francisco,"Generate 3 domain names for this business. Business: film production house in San Francisco
+Domains: film production house in San Francisco for everyone
+Domains: film production house in San Francisco
+Domains: film production house in San Francisco for modern customers
+Domains: film production house in San Francisco
+Domains: film production house in San","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.63
+}
+```"
+hyperpar_exp1,educational game developer in Singapore,"Generate 3 domain names for this business. Business: educational game developer in Singapore
+Domains: gaming company in Singapore
+Domains: gaming company in Singapore
+Domains: gaming company in Tokyo
+Domains: gaming company in Dubai
+Domains: gaming company in Toronto
+Domains: gaming company in New York
+Domains: gaming","Okay, I will evaluate the domain suggestions based on the provided business description (educational game developer in Singapore) and return a JSON object.
+
+```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.2,
+  ""validity"": 1.0,
+  ""overall"": 0.43
+}
+```"
+hyperpar_exp1,food truck business in Singapore,"Generate 3 domain names for this business. Business: food truck business in Singapore
+Domains: food truck business in Singapore
+Domains: Singapore food truck business
+Domains: food truck business in Singapore for modern customers
+Domains: A business focused on food truck business in Singapore
+Domains: A modern food truck business in Singapore
+","```json
+{
+  ""foodtrucksingapore.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""singaporefoodtruck.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""sgfoodtruck.com"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.77
+  }
+}
+```"
+hyperpar_exp1,bakery and pastry shop in San Francisco,"Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco
+Domains: [Business: bakery and pastry shop in San Francisco]
+Domains: [Business: bakery and pastry shop in San Francisco]
+Domains: [Business: bakery and pastry shop in San Francisco]
+","I am unable to generate domain name suggestions, as I am an evaluator. I can, however, evaluate domain names if you provide them. Please provide the domain names you would like me to evaluate."
+hyperpar_exp1,digital marketing agency in Tokyo,"Generate 3 domain names for this business. Business: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo","Here's an evaluation of the domain names, based on the provided business description and your instructions:
+
+**Domain Names (all the same):** digital marketing agency in Tokyo
+
+```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.3,
+  ""overall"": 0.43
+}
+```"
+hyperpar_exp1,cloud solutions provider in San Francisco,"Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco
+Domains: cloud solutions provider in San Francisco
+Domains: cloud solutions provider in San Francisco
+Domains: cloud solutions provider in San Francisco
+Domains: cloud solutions provider in San Francisco
+Domains: cloud solutions provider in San Francisco
+Domains:","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```"
+hyperpar_exp1,food truck business in London,"Generate 3 domain names for this business. Business: food truck business in London
+Domains: food truck business in London
+Domains: food truck business in Berlin
+Domains: food truck business in Toronto
+Domains: food truck business in New York
+Domains: food truck business in Dubai
+Domains: food truck business in","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.7,
+  ""validity"": 0.9,
+  ""overall"": 0.5666666666666667
+}
+```"
+hyperpar_exp1,wedding photography business in New York,"Generate 3 domain names for this business. Business: wedding photography business in New York
+Domains: wedding photography business in New York
+Domains: wedding photography business in Paris
+Domains: wedding photography business in Tokyo
+Domains: wedding photography business in London
+Domains: wedding photography business in Toronto
+Domains: wedding photography business in","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.2,
+  ""validity"": 0.2,
+  ""overall"": 0.16666666666666666
+}
+```"
+hyperpar_exp1,digital art marketplace in London,"Generate 3 domain names for this business. Business: digital art marketplace in London
+Domains: [Domains]
+Domains: digital art marketplace in London
+Domains: digital art marketplace in New York
+Domains: digital art marketplace in Dubai
+Domains: digital art marketplace in Tokyo
+Domains: digital art marketplace in Paris","Okay, I understand. I will evaluate the domain name suggestions and return a JSON object with the creativity, relevance, and validity scores.
+
+I will need the actual domain name suggestions to perform the evaluation. Since the input only provided the business description and the phrase ""Domains: [Domains]"", I will generate three domain name examples based on the business description:
+
+1.  londonart.market
+2.  artscene.london
+3.  digitalcanvas.london
+
+Now, I will evaluate these three domain names.
+
+```json
+{
+  ""londonart.market"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 0.9,
+    ""overall"": 0.8
+  },
+  ""artscene.london"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.8
+  },
+  ""digitalcanvas.london"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.7,
+    ""validity"": 0.9,
+    ""overall"": 0.8
+  }
+}
+```"
+hyperpar_exp1,university consultancy in Paris,"Generate 3 domain names for this business. Business: university consultancy in Paris
+Domains: Experts in education consultancy in Paris
+Domains: Paris
+Domains: education consultancy in Paris
+Domains: modern education consultancy in Paris
+Domains: modern education consultancy in Paris
+Domains: modern education consultancy in Paris
+Domains:","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.63
+}
+```"
+hyperpar_exp1,coding bootcamp in Dubai,"Generate 3 domain names for this business. Business: coding bootcamp in Dubai
+Domains: coding bootcamp in Dubai
+Domains: coding bootcamp in London
+Domains: coding bootcamp in New York
+Domains: coding bootcamp in Toronto
+Domains: coding bootcamp in Dubai
+Domains: coding bootcamp in","I cannot evaluate domain names without any actual domain name suggestions. The prompt provides the business description but then lists it again and again in the ""Domains"" field, and provides an incomplete final line.
+
+Please provide three *actual* domain name suggestions to be evaluated. For example:
+
+Domains:
+*  dubaiCodeCamp.com
+*  codeDubai.io
+*  learnCodingDubai.net"
+hyperpar_exp1,online bookstore in London,"Generate 3 domain names for this business. Business: online bookstore in London
+Domains: online bookstore in London
+Domains: online bookstore in London
+Domains: online bookstore in New York
+Domains: online bookstore in Toronto
+Domains: online bookstore in Paris
+Domains: online bookstore in Dubai
+Domains: online","Here's the evaluation of the provided domain name suggestions:
+
+```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.7,
+  ""validity"": 1.0,
+  ""overall"": 0.6
+}
+```"
+hyperpar_exp1,language tutoring service in Dubai,"Generate 3 domain names for this business. Business: language tutoring service in Dubai
+Domains: language tutoring service in Dubai
+Domains: A startup dedicated to language tutoring service in Dubai
+Domains: A business focused on language tutoring service in Dubai
+Domains: A business focused on language tutoring service in Dubai
+Dom","Here's an evaluation of three domain name suggestions for a language tutoring service in Dubai, presented in JSON format:
+
+**Domain 1: languagetutoringdubai.com**
+
+```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```
+
+**Domain 2: dubailanguageacademy.com**
+
+```json
+{
+  ""creativity"": 0.7,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.83
+}
+```
+
+**Domain 3: learnlanguagesindubai.com**
+
+```json
+{
+  ""creativity"": 0.5,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.8
+}
+```"
+hyperpar_exp1,wedding photography business in San Francisco,"Generate 3 domain names for this business. Business: wedding photography business in San Francisco
+Domains: wedding photography business in San Francisco
+Domains: wedding photography business in San Francisco
+Domains: A business focused on wedding photography business in San Francisco
+Domains: Wedding photography business in San Francisco
+Domains: A business dedicated to wedding photography","Okay, I will evaluate the provided domain name suggestions based on the criteria of creativity, relevance, and validity, and return a JSON object with the scores.
+
+**Domain Name Suggestions:**
+*   wedding photography business in San Francisco
+*   wedding photography business in San Francisco
+*   A business focused on wedding photography business in San Francisco
+*   Wedding photography business in San Francisco
+*   A business dedicated to wedding photography
+
+```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.1,
+  ""overall"": 0.37
+}
+```"
+hyperpar_exp1,digital art marketplace in Toronto,"Generate 3 domain names for this business. Business: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto","Okay, I will evaluate the domain name suggestions based on the provided business description.
+
+Given the repeated prompt ""digital art marketplace in Toronto"", it seems like the domain suggestions are simply a repetition of the business description itself.
+
+```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.7,
+  ""validity"": 0.3,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp1,fine dining restaurant in Paris,"Generate 3 domain names for this business. Business: fine dining restaurant in Paris
+Domains: fine dining restaurant in Paris
+Domains: fine dining restaurant in Tokyo
+Domains: fine dining restaurant in New York for everyone
+Domains: fine dining restaurant in Berlin
+Domains: fine dining restaurant in Dubai
+Domains: fine dining","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.2,
+  ""validity"": 1.0,
+  ""overall"": 0.43
+}
+```"
+hyperpar_exp1,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: online bookstore in Toronto for modern customers
+Domains: Toronto online bookstore for everyone
+Domains: A business dedicated to online bookstore in Toronto
+Domains: Online bookstore for modern customers in Toronto
+Domains: A modern online bookstore in Toronto
+","```json
+{
+  ""torontoBookshop.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""booksToronto.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""the6ixBooks.com"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  }
+}
+```"
+hyperpar_exp1,food truck business in New York,"Generate 3 domain names for this business. Business: food truck business in New York
+Domains: food truck business in New York
+Domains: food truck business in Paris
+Domains: food truck business in Tokyo
+Domains: food truck business in Dubai
+Domains: food truck business in Toronto
+Domains: food truck business in","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.1,
+  ""validity"": 0.3,
+  ""overall"": 0.16666666666666666
+}
+```"
+hyperpar_exp1,home decor shop in New York,"Generate 3 domain names for this business. Business: home decor shop in New York
+Domains: home decor shop in New York
+Domains: home decor shop in Tokyo
+Domains: home decor shop in Paris
+Domains: modern home decor shop in Dubai
+Domains: home decor shop in London
+Domains: home decor shop","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 1.0,
+  ""overall"": 0.63
+}
+```"
+hyperpar_exp1,cloud solutions provider in Singapore,"Generate 3 domain names for this business. Business: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore","Okay, I need the list of domain suggestions to properly evaluate them. You've only provided the business description and repeated the description several times. I can't give scores without the domain suggestions.
+
+However, assuming you provide me with a list of 3 *actual* domain suggestions, I would evaluate them according to creativity, relevance, and validity (domain name structure) and then average those scores for an overall score.
+
+Because I *don't* have a list of domains, I will return placeholders.  **Treat this as if you had provided me with domain names that are utterly useless and completely based on the original description.**
+
+```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```"
+hyperpar_exp1,language tutoring service in Berlin,"Generate 3 domain names for this business. Business: language tutoring service in Berlin
+Domains: language tutoring service in Berlin
+Domains: language tutoring service in Berlin
+Domains: language tutoring service in Berlin
+Domains: language tutoring service in Berlin
+Domains: language tutoring service in Berlin
+Domains:",I am unable to evaluate the domains without knowing the actual domain names generated. Please provide the domain names so I can evaluate them according to the criteria.
+hyperpar_exp1,organic skincare brand in Paris,"Generate 3 domain names for this business. Business: organic skincare brand in Paris
+Domains: organic skincare brand in Paris
+Domains: organic skincare brand in Tokyo
+Domains: organic skincare brand in Berlin
+Domains: organic skincare brand in Dubai
+Domains: organic skincare brand in","Okay, I understand. I will evaluate the domain names you provide based on Creativity, Relevance, and Validity, and return a JSON object with scores between 0.0 and 1.0 for each, as well as an overall average score.  Since you haven't provided any domain name *suggestions*, I will assume you want me to evaluate some automatically generated options.  I will generate a few based on the information you gave.
+
+Here are three domain name suggestions based on ""organic skincare brand in Paris"":
+
+1.  parisianorganicskin.com
+2.  seineorganics.com
+3.  beautenatureparis.com
+
+Here's the evaluation of these domain names:
+
+```json
+{
+  ""parisianorganicskin.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""seineorganics.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""beautenatureparis.com"": {
+    ""creativity"": 0.75,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.88
+  }
+}
+```"
+hyperpar_exp1,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: A business focused on online bookstore in Toronto
+Domains: Online bookstore in Toronto
+Domains: A modern online bookstore in Toronto
+Domains: Online marketplace for books in Toronto
+Domains: A modern online bookstore in Toronto
+Domains:","```json
+{
+  ""torontoreads.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8666666666666667
+  },
+  ""bookstoronto.ca"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  },
+  ""the6ixbooks.com"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8666666666666667
+  }
+}
+```"
+hyperpar_exp1,AI-powered healthcare solution for elderly in rural areas in Dubai,"Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai
+Domains: healthcare.ai, healthcare.me, healthcare.co
+","```json
+{
+  ""healthcare.ai"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""healthcare.me"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.77
+  },
+  ""healthcare.co"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  }
+}
+```"
+hyperpar_exp1,environmental NGO in Toronto,"Generate 3 domain names for this business. Business: environmental NGO in Toronto
+Domains: environmental NGO in Toronto
+Domains: eco-conscious NGO in Toronto
+Domains: environmental NGO in Toronto for everyone
+Domains: environmental NGO in Toronto for modern customers
+Domains: environmental NGO in Toronto with a modern touch
+Domains","```json
+{
+  ""eco-conscious NGO in Toronto"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 0.7,
+    ""overall"": 0.73
+  },
+  ""environmental NGO in Toronto"": {
+    ""creativity"": 0.2,
+    ""relevance"": 1.0,
+    ""validity"": 0.8,
+    ""overall"": 0.67
+  },
+ ""environmental NGO in Toronto for everyone"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.8,
+    ""validity"": 0.6,
+    ""overall"": 0.60
+  },
+  ""environmental NGO in Toronto for modern customers"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.7,
+    ""validity"": 0.6,
+    ""overall"": 0.60
+  },
+  ""environmental NGO in Toronto with a modern touch"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.7,
+    ""validity"": 0.6,
+    ""overall"": 0.63
+  }
+}
+```"
+hyperpar_exp1,real estate agency in Dubai,"Generate 3 domain names for this business. Business: real estate agency in Dubai
+Domains: real estate agency in Dubai
+Domains: Dubai real estate agency
+Domains: luxury real estate agency in Dubai
+Domains: modern real estate agency in Dubai
+Domains: real estate agency for everyone in Dubai
+Domains: luxury real","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.9,
+  ""validity"": 1.0,
+  ""overall"": 0.7
+}
+```"
+hyperpar_exp1,organic skincare brand in Toronto,"Generate 3 domain names for this business. Business: organic skincare brand in Toronto
+Domains: organic skincare brand in Toronto
+Domains: organic skincare brand in Toronto with a modern touch
+Domains: organic skincare brand in Toronto for everyone
+Domains: organic skincare brand in Toronto for modern customers
+","```json
+{
+  ""organicTorontoSkincare.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""TorontoOrganicSkin.ca"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7666666666666667
+  },
+  ""NaturallyTorontoSkin.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+hyperpar_exp1,vegan restaurant in Paris,"Generate 3 domain names for this business. Business: vegan restaurant in Paris
+Domains: vegan restaurant in Paris
+Domains: vegan restaurant in New York
+Domains: vegan restaurant in Tokyo
+Domains: vegan restaurant in Dubai
+Domains: vegan restaurant in Toronto
+Domains: vegan restaurant in San Francisco
+Domains:",I need the domain name suggestions to evaluate them. Please provide the list of 3 domain names you generated.
+hyperpar_exp1,investment firm in Berlin,"Generate 3 domain names for this business. Business: investment firm in Berlin
+Domains: investment firm in Berlin
+Domains: investment firm in Berlin
+Domains: investment firm in Berlin
+Domains: investment firm in Berlin
+Domains: investment firm in Berlin
+Domains: investment firm in Berlin
+Domains: investment firm","Okay, I will evaluate the domain name suggestions based on the business description ""investment firm in Berlin"" and provide a JSON object with the scores.
+
+**Domain Suggestions:**
+
+1.  investmentfirmberlin.com
+2.  berlininvestco.com
+3.  kapitalhaus.de
+
+**Evaluations:**
+
+```json
+[
+  {
+    ""domain"": ""investmentfirmberlin.com"",
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  {
+    ""domain"": ""berlininvestco.com"",
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  {
+    ""domain"": ""kapitalhaus.de"",
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  }
+]
+```"
+hyperpar_exp1,vegan restaurant in Toronto,"Generate 3 domain names for this business. Business: vegan restaurant in Toronto
+Domains: vegan restaurant in Toronto
+Domains: vegan restaurant in Toronto
+Domains: Vegan restaurant in Toronto
+Domains: Vegan restaurant in Toronto
+Domains: Vegan restaurant in Toronto
+Domains: Vegan restaurant in Toronto
+Domains: Vegan restaurant","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.63
+}
+```"
+hyperpar_exp1,VR gaming center in San Francisco,"Generate 3 domain names for this business. Business: VR gaming center in San Francisco
+Domains: VR gaming center in San Francisco
+Domains: VR gaming center in San Francisco
+Domains: VR gaming center in San Francisco
+Domains: VR gaming center in San Francisco
+Domains: VR gaming center in San Francisco
+Domains:","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```"
+hyperpar_exp1,fast-food chain in Paris,"Generate 3 domain names for this business. Business: fast-food chain in Paris
+Domains: fast-food chain in Paris
+Domains: fast-food chain in Paris
+Domains: fast-food chain in Paris
+Domains: fast-food chain in Paris
+Domains: fast-food chain in Paris
+Domains:","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.7,
+  ""validity"": 0.9,
+  ""overall"": 0.5666666666666667
+}
+```"
+hyperpar_exp1,personal finance advisory in San Francisco,"Generate 3 domain names for this business. Business: personal finance advisory in San Francisco
+Domains: [Business: personal finance advisory in San Francisco
+Domains: [Business: personal finance advisory in San Francisco
+Domains: [Business: personal finance advisory in San Francisco]
+Domains: [Business: personal finance advisory in San Francisco
+","I need the actual domain name suggestions to evaluate them. Please provide the list of three domain names. For example:
+
+Domains: [""sfmoneywise.com"", ""bayareafinance.net"", ""goldenfinancialplanning.org""]
+
+Once you provide the domain names, I can provide the JSON object with the evaluation."
+hyperpar_exp1,home decor shop in Singapore,"Generate 3 domain names for this business. Business: home decor shop in Singapore
+Domains: home decor shop in Singapore
+Domains: home decor shop in Dubai with a modern touch
+Domains: home decor shop in Paris for everyone
+Domains: home decor shop in Toronto with a modern touch
+Domains: home decor shop in","Okay, I will evaluate the domain name suggestions as requested. Since there are no actual domain name suggestions provided, I will assume the task is to evaluate names directly derived from variations of the business description and the prompt itself. This is not a good sign, as these are not creative or suitable domain names.
+
+Here's the JSON object:
+
+```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.5,
+  ""validity"": 0.7,
+  ""overall"": 0.43
+}
+```"
+hyperpar_exp1,luxury watch retailer in New York,"Generate 3 domain names for this business. Business: luxury watch retailer in New York
+Domains: luxury watch retailer in New York
+Domains: luxury watch retailer in San Francisco
+Domains: luxury watch retailer in Paris
+Domains: luxury watch retailer in London
+Domains: luxury watch retailer in Toronto
+Domains: luxury watch retailer","I am sorry, I need the domain name suggestions to provide the json response requested."
+hyperpar_exp1,car rental service in San Francisco,"Generate 3 domain names for this business. Business: car rental service in San Francisco
+Domains: car rental service in San Francisco
+Domains: car rental service in San Francisco
+Domains: car rental service in Tokyo
+Domains: car rental service in Dubai
+Domains: car rental service in New York
+Domains: car rental","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.2,
+  ""validity"": 0.0,
+  ""overall"": 0.1
+}
+```"
+hyperpar_exp1,music label in San Francisco,"Generate 3 domain names for this business. Business: music label in San Francisco
+Domains: music label in San Francisco
+Domains: music label in Tokyo
+Domains: music label in Berlin
+Domains: music label in New York
+Domains: music label in London
+Domains: music label in Toronto
+Domains:","I need domain name suggestions to evaluate. Please provide the list of domain names. For example:
+
+Domains: sfmusic.com, bayarearecords.net, goldenstatemusic.org"
+hyperpar_exp1,podcast production company in Paris,"Generate 3 domain names for this business. Business: podcast production company in Paris
+Domains: podcast production company in Paris
+Domains: podcast production company in Tokyo
+Domains: podcast production company in Toronto
+Domains: podcast production company in Dubai
+Domains: podcast production company in London
+Domains: podcast production company in New","Based on the prompt, I need to evaluate domain name suggestions for a podcast production company in Paris. However, the provided ""domain suggestions"" are simply variations of the phrase ""podcast production company in [various cities]"". These are not valid or creative domain name *suggestions*. Therefore, the evaluation will reflect this.
+
+Here's the evaluation for the domain names given that they are simply variations of the basic phrase: ""podcast production company in [city]""
+
+```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.3,
+  ""validity"": 0.3,
+  ""overall"": 0.2
+}
+```"
+hyperpar_exp1,home cleaning service in Dubai,"Generate 3 domain names for this business. Business: home cleaning service in Dubai
+Domains: Dubai cleaning service
+Domains: home cleaning service in Dubai
+Domains: modern cleaning service in Dubai
+Domains: modern cleaning service in Dubai
+Domains: cleaning service with a modern touch in Dubai
+Domains: cleaning service with a","```json
+{
+  ""dubai cleaning service"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""home cleaning service in dubai"": {
+    ""creativity"": 0.1,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""modern cleaning service in dubai"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.77
+  },
+  ""cleaning service with a modern touch in dubai"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+hyperpar_exp1,ice cream parlor in London,"Generate 3 domain names for this business. Business: ice cream parlor in London
+Domains: ice cream parlor in London
+Domains: ice cream parlor in Singapore
+Domains: ice cream parlor in Paris
+Domains: ice cream parlor in Toronto
+Domains: ice cream parlor in New York
+Domains","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```"
+hyperpar_exp1,mental health counseling service in Paris,"Generate 3 domain names for this business. Business: mental health counseling service in Paris
+Domains: mental health counseling service in Paris
+Domains: mental health counseling service in Tokyo
+Domains: mental health counseling service in Berlin
+Domains: mental health counseling service in Toronto
+Domains: mental health counseling service in London
+Domains:","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```"
+hyperpar_exp2,startup for pets in Singapore,"Generate 3 domain names for this business. Business: startup for pets in Singapore
+Domains: pet startup in Singapore solutions
+Domains: pet startup in Singapore solutions
+Domains: pet startup in Singapore solutions with a modern touch
+
+Domains: pet startup in Singapore solutions with a modern touch
+Domains: pet startup in Singapore solutions","```json
+{
+  ""petstartupinsingaporesolutionswithamoderntouch.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 0.7,
+    ""overall"": 0.57
+  },
+  ""petstartupinsingaporesolutions.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.9,
+    ""validity"": 0.8,
+    ""overall"": 0.6
+  }
+}
+```"
+hyperpar_exp2,event planning company in Toronto,"Generate 3 domain names for this business. Business: event planning company in Toronto
+Domains: event planning company in Toronto
+Domains: event planning company in Toronto
+Domains: event planning company in Toronto solutions
+
+Domains: event planning company in Toronto solutions
+Domains: event planning company in Toronto solutions for modern customers
+Dom",{}
+hyperpar_exp2,event planning company in New York,"Generate 3 domain names for this business. Business: event planning company in New York
+Domains: event planning company in New York
+Domains: event planning company in New York
+Domains: event planning company in New York
+",{}
+hyperpar_exp2,cybersecurity service provider in Tokyo,"Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo
+Domains: cybersecurity service provider in Tokyo
+Domains: cybersecurity service provider in Tokyo solutions
+Domains: cybersecurity service provider in Tokyo solutions
+
+Domains: cybersecurity service provider in Tokyo solutions
+Domains: cybersecurity service provider in Tokyo solutions
+Domains:",{}
+hyperpar_exp2,micro-lending platform in Toronto,"Generate 3 domain names for this business. Business: micro-lending platform in Toronto
+Domains: micro-lending platform in Toronto
+Domains: micro-lending platform in Toronto
+Domains: micro-lending platform in Toronto
+",{}
+hyperpar_exp2,investment firm in New York,"Generate 3 domain names for this business. Business: investment firm in New York
+Domains: investment firm in New York
+Domains: investment firm in New York solutions
+Domains: investment firm in New York solutions for everyone
+
+Domains: investment firm in San Francisco solutions
+Domains: investment firm in San Francisco solutions for everyone",{}
+hyperpar_exp2,youth development program in Toronto,"Generate 3 domain names for this business. Business: youth development program in Toronto
+Domains: youth development program in Toronto
+Domains: youth development program in Toronto solutions
+Domains: youth development program in Toronto for modern customers
+",{}
+hyperpar_exp2,organic skincare brand in Berlin,"Generate 3 domain names for this business. Business: organic skincare brand in Berlin
+Domains: organic skincare brand in Berlin
+Domains: organic skincare brand in Berlin
+Domains: organic skincare brand in Berlin
+
+Domains: organic skincare brand in Berlin
+Domains: organic skincare brand",{}
+hyperpar_exp2,luxury travel agency in Paris,"Generate 3 domain names for this business. Business: luxury travel agency in Paris
+Domains: luxury travel agency in Paris
+Domains: luxury travel agency in Paris
+Domains: luxury travel agency in Paris
+
+Domains: luxury travel agency in Singapore
+Domains: luxury travel agency in Singapore
+Domains: luxury travel agency in",{}
+hyperpar_exp2,film production house in San Francisco,"Generate 3 domain names for this business. Business: film production house in San Francisco
+Domains: film production house in San Francisco
+Domains: film production house in San Francisco
+Domains: film production house in San Francisco with a modern touch
+
+Domains: film production house in San Francisco with a modern touch
+Domains: film",{}
+hyperpar_exp2,educational game developer in Singapore,"Generate 3 domain names for this business. Business: educational game developer in Singapore
+Domains: [Domains]
+Domains: game developer in Singapore
+Domains: game developer in Singapore
+
+Domains: game developer in Singapore
+Domains: game developer in Singapore
+Domains: game developer in Singapore
+
+Domains:","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.6
+}
+```"
+hyperpar_exp2,food truck business in Singapore,"Generate 3 domain names for this business. Business: food truck business in Singapore
+Domains: food truck business in Singapore solutions
+Domains: food truck business in Singapore solutions
+Domains: food truck business in Singapore solutions
+
+Domains: food truck business in Singapore solutions
+Domains: food truck business in Singapore solutions
+Domains","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.0,
+  ""validity"": 0.0,
+  ""overall"": 0.0
+}
+```"
+hyperpar_exp2,bakery and pastry shop in San Francisco,"Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco
+Domains: bakery and pastry shop in San Francisco
+Domains: bakery and pastry shop in San Francisco solutions
+Domains: bakery and pastry shop in San Francisco solutions
+
+Domains: bakery and pastry shop in San Francisco solutions
+Domains: bakery and","```json
+{
+  ""bakeryinSF.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""sfpastries.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""goldengatebakes.com"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  }
+}
+```"
+hyperpar_exp2,digital marketing agency in Tokyo,"Generate 3 domain names for this business. Business: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo
+Domains: digital marketing agency in Tokyo
+
+Domains: digital marketing agency in Tokyo for everyone
+Domains: digital marketing agency in Tokyo with a modern touch
+Dom","```json
+{
+  ""digitalmarketingagencytokyo.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""tokyodigitalmarketing.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.9
+  },
+  ""modernmarketingtokyo.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""digitalmarketingagencyintokyo.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.67
+  },
+  ""digitalmarketingagencyintokyo.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.67
+  },
+  ""digitalmarketingagencyintokyo.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.67
+  },
+  ""digitalmarketingagencyintokyo.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.67
+  },
+  ""digitalmarketingagencyintokyo.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.67
+  },
+  ""digitalmarketingagencyinTokyo.jp"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  }
+}
+```"
+hyperpar_exp2,cloud solutions provider in San Francisco,"Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco
+Domains: cloud solutions provider in San Francisco
+Domains: cloud solutions provider in San Francisco
+Domains: cloud solutions provider in San Francisco solutions
+","```json
+{
+  ""cloudSFsolutions.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.77
+  },
+  ""SFCloudExperts.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""BayAreaCloud.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+hyperpar_exp2,food truck business in London,"Generate 3 domain names for this business. Business: food truck business in London
+Domains: food truck business in London
+Domains: food truck business in London solutions
+Domains: food truck business in London solutions
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.6,
+  ""overall"": 0.5
+}
+```"
+hyperpar_exp2,wedding photography business in New York,"Generate 3 domain names for this business. Business: wedding photography business in New York
+Domains: wedding photography business in New York
+Domains: wedding photography business in New York
+Domains: wedding photography business in New York with a modern touch
+
+Domains: wedding photography business in New York with a modern touch
+Domains: wedding","```json
+{
+  ""weddingphotographyny.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.73
+  },
+  ""nyweddingphoto.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""modernlovephotographyny.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  }
+}
+```"
+hyperpar_exp2,digital art marketplace in London,"Generate 3 domain names for this business. Business: digital art marketplace in London
+Domains: digital art marketplace in London
+Domains: digital art marketplace in London
+Domains: digital art marketplace in London
+","```json
+{
+  ""domain1"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.2,
+    ""overall"": 0.3666666666666667
+  },
+  ""domain2"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.2,
+    ""overall"": 0.3666666666666667
+  },
+  ""domain3"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.2,
+    ""overall"": 0.3666666666666667
+  }
+}
+```"
+hyperpar_exp2,university consultancy in Paris,"Generate 3 domain names for this business. Business: university consultancy in Paris
+Domains: university consultancy in Paris
+Domains: university consultancy in Paris
+Domains: university consultancy in Paris solutions
+","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.8,
+  ""validity"": 0.6,
+  ""overall"": 0.47
+}
+```"
+hyperpar_exp2,coding bootcamp in Dubai,"Generate 3 domain names for this business. Business: coding bootcamp in Dubai
+Domains: coding bootcamp in Dubai
+Domains: coding bootcamp in Dubai with a modern touch
+Domains: coding bootcamp in Dubai with a global outreach
+
+Domains: coding bootcamp in Dubai with a modern touch
+Domains: coding","```json
+{
+  ""codingbootcampdubai.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.77
+  },
+  ""dubaicodingbootcamp.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""moderncodingdubai.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""coding.dubai"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.63
+  }
+}
+```"
+hyperpar_exp2,online bookstore in London,"Generate 3 domain names for this business. Business: online bookstore in London
+Domains: online bookstore in London
+Domains: online bookstore in London solutions
+Domains: online bookstore in London solutions
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.6,
+  ""overall"": 0.5
+}
+```"
+hyperpar_exp2,language tutoring service in Dubai,"Generate 3 domain names for this business. Business: language tutoring service in Dubai
+Domains: language tutoring service in Dubai
+Domains: language tutoring service in Dubai solutions
+Domains: language tutoring service in Dubai with a modern touch
+
+Domains: language tutoring service in Dubai with a modern touch
+Domains:","```json
+{
+  ""languageTutorDubai.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""DubaiLanguageTutors.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""ModernLanguageDubai.com"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""languageTutoringDubaiSolutions.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.7,
+    ""validity"": 0.9,
+    ""overall"": 0.67
+  },
+  ""languageTutoringDubaiModernTouch.com"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.6,
+    ""validity"": 0.8,
+    ""overall"": 0.57
+  }
+}
+```"
+hyperpar_exp2,wedding photography business in San Francisco,"Generate 3 domain names for this business. Business: wedding photography business in San Francisco
+Domains: wedding photography business in San Francisco
+Domains: wedding photography business in San Francisco
+Domains: wedding photography business in San Francisco
+
+Domains: wedding photography business in San Francisco
+Domains: wedding photography business in San Francisco
+Domains","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 1.0,
+  ""validity"": 0.0,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp2,digital art marketplace in Toronto,"Generate 3 domain names for this business. Business: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto
+Domains: digital art marketplace in Toronto
+","```json
+[
+  {
+    ""domain"": ""TorontoDigitalArt.com"",
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  {
+    ""domain"": ""DigiArtTO.com"",
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  {
+    ""domain"": ""TorontoArtExchange.com"",
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+]
+```"
+hyperpar_exp2,fine dining restaurant in Paris,"Generate 3 domain names for this business. Business: fine dining restaurant in Paris
+Domains: fine dining restaurant in Paris
+Domains: fine dining restaurant in Paris
+Domains: fine dining restaurant in Paris solutions
+
+Domains: fine dining restaurant in Paris solutions
+Domains: fine dining restaurant in Paris solutions for everyone
+Domains","```json
+{
+  ""ParisianPlate"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""ParisFineDining"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.95,
+    ""validity"": 1.0,
+    ""overall"": 0.85
+  },
+  ""LeRestaurantParis"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.9
+  }
+}
+```"
+hyperpar_exp2,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: Experts in online bookstore in Toronto
+Domains: online bookstore in Toronto
+Domains: online bookstore in Toronto solutions
+","```json
+{
+  ""creativity"": {
+    ""Experts in online bookstore in Toronto"": 0.1,
+    ""online bookstore in Toronto"": 0.0,
+    ""online bookstore in Toronto solutions"": 0.2
+  },
+  ""relevance"": {
+    ""Experts in online bookstore in Toronto"": 0.8,
+    ""online bookstore in Toronto"": 1.0,
+    ""online bookstore in Toronto solutions"": 0.9
+  },
+  ""validity"": {
+    ""Experts in online bookstore in Toronto"": 0.3, 
+    ""online bookstore in Toronto"": 0.7,
+    ""online bookstore in Toronto solutions"": 0.6
+  },
+  ""overall"": {
+    ""Experts in online bookstore in Toronto"": 0.4,
+    ""online bookstore in Toronto"": 0.56,
+    ""online bookstore in Toronto solutions"": 0.56
+  }
+}
+```"
+hyperpar_exp2,food truck business in New York,"Generate 3 domain names for this business. Business: food truck business in New York
+Domains: food truck business in New York
+Domains: foodtruckinny.com
+Domains: foodtruckinny.co.uk
+Domains: foodtruckinny.com
+","```json
+{
+  ""food truck business in New York"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.2,
+    ""overall"": 0.3666666666666667
+  },
+  ""foodtruckinny.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8333333333333334
+  },
+  ""foodtruckinny.co.uk"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.6,
+    ""validity"": 0.9,
+    ""overall"": 0.7
+  }
+}
+```"
+hyperpar_exp2,home decor shop in New York,"Generate 3 domain names for this business. Business: home decor shop in New York
+Domains: home decor shop in New York
+Domains: homedecorshop.com
+Domains: homedecorshop.co.uk
+Domains: homedecorshop.org
+","```json
+{
+  ""home decor shop in New York"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.2,
+    ""overall"": 0.37
+  },
+  ""homedecorshop.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 0.9,
+    ""overall"": 0.67
+  },
+  ""homedecorshop.co.uk"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.7,
+    ""validity"": 0.8,
+    ""overall"": 0.57
+  },
+  ""homedecorshop.org"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.6,
+    ""validity"": 0.6,
+    ""overall"": 0.47
+  }
+}
+```"
+hyperpar_exp2,cloud solutions provider in Singapore,"Generate 3 domain names for this business. Business: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore solutions
+","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 1.0,
+  ""validity"": 0.0,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp2,language tutoring service in Berlin,"Generate 3 domain names for this business. Business: language tutoring service in Berlin
+Domains: language tutoring service in Berlin
+Domains: language tutoring service in Berlin
+Domains: language tutoring service in Berlin
+
+Domains: language tutoring service in Berlin with a modern touch
+Domains: language tutoring service in","```json
+{
+  ""languageBerlinTutoring.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""BerlinLanguageBoost.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""SprachschuleBerlin.com"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.77
+  },
+  ""languageTutoringServiceinBerlin.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""languageTutoringServicein.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.63
+  }
+}
+```"
+hyperpar_exp2,organic skincare brand in Paris,"Generate 3 domain names for this business. Business: organic skincare brand in Paris
+Domains: organic skincare brand in Paris solutions
+Domains: organic skincare brand in Paris solutions
+Domains: organic skincare brand in Paris solutions
+
+Domains: organic skincare brand in Dubai solutions
+Domains: organic","```json
+{
+  ""organic-paris-skincare.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""parisorganicskin.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""biotifulparis.com"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""organic skincare brand in Dubai solutions"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.2,
+    ""validity"": 0.0,
+    ""overall"": 0.1
+  },
+  ""organic"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.5,
+    ""validity"": 0.8, 
+    ""overall"": 0.47
+  }
+}
+```"
+hyperpar_exp2,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: [Domains for online bookstore in Toronto]
+Domains: https://www.myofflin bookstore.co.uk
+Domains: https://www.offlinestore.co.uk
+Domains: https://offlinest","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.3,
+  ""validity"": 0.2,
+  ""overall"": 0.2
+}
+```"
+hyperpar_exp2,AI-powered healthcare solution for elderly in rural areas in Dubai,"Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai
+Domains:
+1. AI-powered healthcare solution for elderly in rural areas in Dubai
+2. AI-powered healthcare solution for elderly in rural areas in Dubai with a modern touch
+3. AI-powered healthcare solution for elderly in rural areas in Dubai in","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 1.0,
+  ""validity"": 0.0,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp2,environmental NGO in Toronto,"Generate 3 domain names for this business. Business: environmental NGO in Toronto
+Domains: environmental NGO in Toronto
+Domains: environmental NGO in Toronto solutions
+Domains: environmental NGO in Toronto for everyone
+
+Domains: environmental NGO in Toronto solutions
+Domains: environmental NGO in Toronto solutions with a modern touch
+Domains:","```json
+{
+  ""environmentalNGOtoronto.org"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""torontoenvironsolutions.org"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""greentoronto.org"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  }
+}
+```"
+hyperpar_exp2,real estate agency in Dubai,"Generate 3 domain names for this business. Business: real estate agency in Dubai
+Domains: realestateagency in Dubai
+Domains: realestateagency in Dubai solutions
+Domains: realestateagency in Dubai business
+","```json
+{
+  ""realestateagencyindubai.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 0.9,
+    ""overall"": 0.67
+  },
+  ""realestateagencyindubaisolutions.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.8,
+    ""overall"": 0.57
+  },
+  ""realestateagencyindubaibusiness.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.7,
+    ""validity"": 0.7,
+    ""overall"": 0.5
+  }
+}
+```"
+hyperpar_exp2,organic skincare brand in Toronto,"Generate 3 domain names for this business. Business: organic skincare brand in Toronto
+Domains: organic skincare brand in Toronto
+Domains: organic skincare brand in Toronto
+Domains: organic skincare brand in Toronto
+
+Domains: organic skincare brand in Toronto
+Domains: organic skincare brand","```json
+{
+  ""organicTorontoSkin"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 0.9,
+    ""overall"": 0.8
+  },
+  ""TorontoOrganicSkincare"": {
+    ""creativity"": 0.5,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  },
+  ""TheOrganicSkinCoToronto"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.8
+  }
+}
+```"
+hyperpar_exp2,vegan restaurant in Paris,"Generate 3 domain names for this business. Business: vegan restaurant in Paris
+Domains: vegan restaurant in Paris
+Domains: vegan restaurant in Paris
+Domains: vegan restaurant in Paris solutions
+
+Domains: vegan restaurant in Paris solutions for everyone
+
+Domains: vegan restaurant in Paris solutions for modern customers
+
+Domains","```json
+{
+  ""veganparis.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""parisveganfood.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""leveganparis.com"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.9
+  },
+  ""veganrestaurantinparis.com"": {
+    ""creativity"": 0.1,
+    ""relevance"": 1.0,
+    ""validity"": 1.0,
+    ""overall"": 0.7
+  },
+  ""veganrestaurantinparissolutionsforeveryone.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 0.6,
+    ""overall"": 0.53
+  },
+  ""veganrestaurantinparissolutionsformoderncustomers.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.7,
+    ""validity"": 0.5,
+    ""overall"": 0.47
+  }
+}
+```"
+hyperpar_exp2,investment firm in Berlin,"Generate 3 domain names for this business. Business: investment firm in Berlin
+Domains: investment firm in Berlin
+Domains: investment firm in Berlin solutions
+Domains: investment firm in Berlin solutions for everyone
+","```json
+{
+  ""investment-firm-berlin"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 0.9,
+    ""overall"": 0.67
+  },
+  ""berlin-investment-solutions"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.8,
+    ""validity"": 0.9,
+    ""overall"": 0.7
+  },
+  ""investberlin"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 0.95,
+    ""overall"": 0.85
+  }
+}
+```"
+hyperpar_exp2,vegan restaurant in Toronto,"Generate 3 domain names for this business. Business: vegan restaurant in Toronto
+Domains: vegan restaurant in Toronto
+Domains: vegan restaurant in Toronto solutions
+Domains: vegan restaurant in Toronto for modern customers
+","```json
+{
+  ""veganTorontoEats.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""TorontoVeganTable.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""ModernVeganTO.com"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  }
+}
+```"
+hyperpar_exp2,VR gaming center in San Francisco,"Generate 3 domain names for this business. Business: VR gaming center in San Francisco
+Domains: VR gaming center in San Francisco
+Domains: VR gaming center in San Francisco
+Domains: VR gaming center in San Francisco
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 1.0,
+  ""validity"": 0.0,
+  ""overall"": 0.37
+}
+```"
+hyperpar_exp2,fast-food chain in Paris,"Generate 3 domain names for this business. Business: fast-food chain in Paris
+Domains: fast-food chain in Paris
+Domains: fast-food chain in Paris
+Domains: fast-food chain in Paris solutions
+
+Domains: fast-food chain in Paris solutions
+Domains: fast-food chain in Paris for","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.8,
+  ""validity"": 0.2,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp2,personal finance advisory in San Francisco,"Generate 3 domain names for this business. Business: personal finance advisory in San Francisco
+Domains: personal finance advisory in San Francisco
+Domains: personal finance advisory in San Francisco
+Domains: personal finance advisory in San Francisco
+","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 1.0,
+  ""validity"": 0.0,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp2,home decor shop in Singapore,"Generate 3 domain names for this business. Business: home decor shop in Singapore
+Domains: home decor shop in Singapore
+Domains: home decor shop in Singapore solutions
+Domains: home decor shop in Singapore solutions
+
+Domains: home decor shop in Singapore solutions
+Domains: home decor shop in Singapore solutions
+Domains:","```json
+{
+  ""domains"": [
+    {
+      ""domain"": ""sghomedecor.com"",
+      ""creativity"": 0.6,
+      ""relevance"": 0.9,
+      ""validity"": 1.0,
+      ""overall"": 0.83
+    },
+    {
+      ""domain"": ""decorationsg.com"",
+      ""creativity"": 0.7,
+      ""relevance"": 0.9,
+      ""validity"": 1.0,
+      ""overall"": 0.87
+    },
+    {
+      ""domain"": ""homesgstyle.com"",
+      ""creativity"": 0.8,
+      ""relevance"": 0.8,
+      ""validity"": 1.0,
+      ""overall"": 0.87
+    }
+  ]
+}
+```"
+hyperpar_exp2,luxury watch retailer in New York,"Generate 3 domain names for this business. Business: luxury watch retailer in New York
+Domains: luxury watch retailer in New York
+Domains: luxury watch retailer in New York
+Domains: luxury watch retailer in New York
+","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 1.0,
+  ""validity"": 0.0,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp2,car rental service in San Francisco,"Generate 3 domain names for this business. Business: car rental service in San Francisco
+Domains: car rental service in San Francisco solutions
+Domains: car rental service in San Francisco solutions
+Domains: car rental service in San Francisco solutions
+","```json
+{
+  ""creativity"": 0.0,
+  ""relevance"": 0.7,
+  ""validity"": 0.6,
+  ""overall"": 0.43
+}
+```"
+hyperpar_exp2,music label in San Francisco,"Generate 3 domain names for this business. Business: music label in San Francisco
+Domains: music label in San Francisco
+Domains: musiclabel San Francisco
+Domains: musiclabel san francisco
+","```json
+{
+  ""music label in San Francisco"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.6,
+    ""overall"": 0.5
+  },
+  ""musiclabel San Francisco"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 0.7,
+    ""overall"": 0.6
+  },
+  ""musiclabel san francisco"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.9,
+    ""validity"": 0.7,
+    ""overall"": 0.6
+  }
+}
+```"
+hyperpar_exp2,podcast production company in Paris,"Generate 3 domain names for this business. Business: podcast production company in Paris
+Domains: podcast production company in Paris
+Domains: podcast production company in Paris solutions
+Domains: podcast production company in Paris solutions
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.3,
+  ""overall"": 0.43
+}
+```"
+hyperpar_exp2,home cleaning service in Dubai,"Generate 3 domain names for this business. Business: home cleaning service in Dubai
+Domains: home cleaning service in Dubai solutions
+Domains: home cleaning service in Dubai solutions
+Domains: home cleaning service in Dubai solutions
+
+Domains: home cleaning service in Dubai solutions
+Domains: home cleaning service in Dubai solutions
+Domains","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.6,
+  ""overall"": 0.5
+}
+```"
+hyperpar_exp2,ice cream parlor in London,"Generate 3 domain names for this business. Business: ice cream parlor in London
+Domains: ice cream parlor in London
+Domains: ice cream parlor in London
+Domains: ice cream parlor in London with a modern touch
+
+Domains: ice cream parlor in Paris
+Domains: ice cream parlor in","```json
+{
+  ""Domains: ice cream parlor in London"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.6,
+    ""overall"": 0.5
+  },
+  ""Domains: ice cream parlor in Paris"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.2,
+    ""validity"": 0.7,
+    ""overall"": 0.36666666666666664
+  },
+  ""Domains: ice cream parlor in"": {
+    ""creativity"": 0.0,
+    ""relevance"": 0.5,
+    ""validity"": 0.3,
+    ""overall"": 0.26666666666666666
+  },
+  ""Domains: ice cream parlor in London with a modern touch"": {
+    ""creativity"": 0.0,
+    ""relevance"": 0.9,
+    ""validity"": 0.4,
+    ""overall"": 0.43333333333333335
+  }
+}
+```"
+hyperpar_exp2,mental health counseling service in Paris,"Generate 3 domain names for this business. Business: mental health counseling service in Paris
+Domains: mental health counseling service in Paris
+Domains: mental health counseling service in Paris
+Domains: mental health counseling service in Paris
+
+Domains: mental health counseling service in Dubai
+Domains: mental health counseling service in Dubai
+Domains","```json
+{
+  ""mentalhealthparis.com"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""parismentalwellness.com"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""espritparis.com"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.7,
+    ""validity"": 1.0,
+    ""overall"": 0.83
+  },
+  ""mentalhealthcounselingindubai.com"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.0,
+    ""validity"": 1.0,
+    ""overall"": 0.4
+  }
+}
+```"
+hyperpar_exp3,startup for pets in Singapore,"Generate 3 domain names for this business. Business: startup for pets in Singapore
+Domains: pet startup for pets in Singapore
+Domains: pet startup for pets in Singapore solutions
+Domains: pet startup for pets in Singapore with a modern touch
+","```json
+{
+  ""pet startup for pets in Singapore"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.6,
+    ""overall"": 0.5
+  },
+  ""pet startup for pets in Singapore solutions"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.7,
+    ""validity"": 0.6,
+    ""overall"": 0.46
+  },
+  ""pet startup for pets in Singapore with a modern touch"": {
+    ""creativity"": 0.0,
+    ""relevance"": 0.8,
+    ""validity"": 0.4,
+    ""overall"": 0.4
+  }
+}
+```"
+hyperpar_exp3,event planning company in Toronto,"Generate 3 domain names for this business. Business: event planning company in Toronto
+Domains: 1. eventplanningcompany.domains.in Toronto
+2. eventplanningbusiness.domain.in Toronto
+3. eventplanning business with a modern touch in Toronto
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.7,
+  ""validity"": 0.2,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp3,event planning company in New York,"Generate 3 domain names for this business. Business: event planning company in New York
+Domains: 1. eventplanningcompany in New York
+2. event planning company in New York for everyone
+3. event planning business with a modern touch in New York
+","```json
+{
+  ""eventplanningcompanyinNewYork"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 0.0,
+    ""overall"": 0.33
+  },
+  ""eventplanningcompanyinNewYorkforeveryone"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.7,
+    ""validity"": 0.0,
+    ""overall"": 0.27
+  },
+  ""eventplanningbusinesswithamoderntouchinNewYork"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 0.0,
+    ""overall"": 0.4
+  }
+}
+```"
+hyperpar_exp3,cybersecurity service provider in Tokyo,"Generate 3 domain names for this business. Business: cybersecurity service provider in Tokyo
+Domains:
+- domain 1: cybersevr@domain.co
+- domain 2: cybersecurity service provider in Tokyo
+- domain 3: cybersevr in Dubai
+","```json
+{
+  ""domain1"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 0.2,
+    ""overall"": 0.53
+  },
+  ""domain2"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.9,
+    ""validity"": 0.0,
+    ""overall"": 0.33
+  },
+  ""domain3"": {
+    ""creativity"": 0.4,
+    ""relevance"": 0.3,
+    ""validity"": 0.7,
+    ""overall"": 0.47
+  }
+}
+```"
+hyperpar_exp3,micro-lending platform in Toronto,"Generate 3 domain names for this business. Business: micro-lending platform in Toronto
+Domains: 1. micro-lending platform in Toronto | 2. micro-lending platform in Toronto for everyone | 3. micro-lending platform in Toronto with a modern touch
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.2,
+  ""overall"": 0.3666666666666667
+}
+```"
+hyperpar_exp3,investment firm in New York,"Generate 3 domain names for this business. Business: investment firm in New York
+Domains: 1. investment firm in New York | 2. investment firm in London | 3. investment firm in Dubai
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.67,
+  ""validity"": 0.33,
+  ""overall"": 0.37
+}
+```"
+hyperpar_exp3,youth development program in Toronto,"Generate 3 domain names for this business. Business: youth development program in Toronto
+Domains: 1. youthdevelopmentprogram. domain
+2. youthdevelopmentprogram in Toronto. domain
+3. youth development program with a modern touch in Toronto
+","```json
+{
+  ""youthdevelopmentprogram.domain"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.8,
+    ""validity"": 0.0, 
+    ""overall"": 0.3
+  },
+  ""youthdevelopmentprograminToronto.domain"": {
+    ""creativity"": 0.0,
+    ""relevance"": 0.9,
+    ""validity"": 0.0,
+    ""overall"": 0.3
+  },
+  ""youth development program with a modern touch in Toronto"": {
+    ""creativity"": 0.0,
+    ""relevance"": 0.7,
+    ""validity"": 0.0,
+    ""overall"": 0.23
+  }
+}
+```"
+hyperpar_exp3,organic skincare brand in Berlin,"Generate 3 domain names for this business. Business: organic skincare brand in Berlin
+Domains: organic skincare brand in Berlin solutions: organic skincare brand in Paris solutions: organic skincare brand in London solutions: organic skincare brand in Dubai solutions: organic skincare brand in Dubai
+
+Domains: organic sk","```json
+{
+  ""organicBerlinSkin"": {
+    ""creativity"": 0.7,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.87
+  },
+  ""BerlinOrganicGlow"": {
+    ""creativity"": 0.8,
+    ""relevance"": 0.9,
+    ""validity"": 1.0,
+    ""overall"": 0.9
+  },
+  ""NaturallyBerlinSkin"": {
+    ""creativity"": 0.6,
+    ""relevance"": 0.8,
+    ""validity"": 1.0,
+    ""overall"": 0.8
+  }
+}
+```"
+hyperpar_exp3,luxury travel agency in Paris,"Generate 3 domain names for this business. Business: luxury travel agency in Paris
+Domains: 1. luxurytravelagency. domain
+2. luxurytravelagency in Paris domain
+3. luxury travel agency with a modern touch in Paris domain
+","```json
+{
+  ""luxurytravelagency.domain"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 0.0, 
+    ""overall"": 0.33
+  },
+  ""luxurytravelagency in Paris domain"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.7,
+    ""validity"": 0.0,
+    ""overall"": 0.27
+  },
+  ""luxury travel agency with a modern touch in Paris domain"": {
+    ""creativity"": 0.0,
+    ""relevance"": 0.6,
+    ""validity"": 0.0,
+    ""overall"": 0.2
+  }
+}
+```"
+hyperpar_exp3,film production house in San Francisco,"Generate 3 domain names for this business. Business: film production house in San Francisco
+Domains: 1. filmproductionhouse. domain
+2. filmproductionhouse. in San Francisco
+3. film production house solutions
+","```json
+{
+  ""filmproductionhouse.domain"": {
+    ""creativity"": 0.2,
+    ""relevance"": 0.8,
+    ""validity"": 0.6,
+    ""overall"": 0.53
+  },
+  ""filmproductionhouse.in San Francisco"": {
+    ""creativity"": 0.1,
+    ""relevance"": 0.7,
+    ""validity"": 0.0, 
+    ""overall"": 0.27
+  },
+  ""film production house solutions"": {
+    ""creativity"": 0.3,
+    ""relevance"": 0.9,
+    ""validity"": 0.0,
+    ""overall"": 0.4
+  }
+}
+```"
+hyperpar_exp3,educational game developer in Singapore,"Generate 3 domain names for this business. Business: educational game developer in Singapore
+Domains: 1. game developer in Singapore domain
+2. game developer in Singapore in 3-letter domain
+3. game developer in Singapore for nonprofit
+
+Domains: 3 domain names for this business in Singapore
+Domains: game developer in Singapore in","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 0.7,
+  ""overall"": 0.57
+}
+```"
+hyperpar_exp3,food truck business in Singapore,"Generate 3 domain names for this business. Business: food truck business in Singapore
+Domains: 1. food truck business in Singapore domain
+2. food truck business in Singapore mobile app
+3. food truck business in Singapore business
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.2,
+  ""overall"": 0.4
+}
+```"
+hyperpar_exp3,bakery and pastry shop in San Francisco,"Generate 3 domain names for this business. Business: bakery and pastry shop in San Francisco
+Domains: 1. bakery and pastry shop in San Francisco
+Domains: 2. bakery and pastry shop in San Francisco with a modern touch
+Domains: 3. bakery and pastry shop in San Francisco with a cultural touch
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.7,
+  ""validity"": 0.2,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp3,digital marketing agency in Tokyo,"Generate 3 domain names for this business. Business: digital marketing agency in Tokyo
+Domains: 1. domain for digital marketing agency in Tokyo
+2. domain for digital marketing agency in Paris
+3. domain for digital marketing agency in London
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.63
+}
+```"
+hyperpar_exp3,cloud solutions provider in San Francisco,"Generate 3 domain names for this business. Business: cloud solutions provider in San Francisco
+Domains: 1. cloud solutions provider in San Francisco
+Domains: 2. cloud solutions provider in San Francisco with a modern touch
+Domains: 3. cloud solutions provider in San Francisco with a global perspective
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.1,
+  ""overall"": 0.3666666666666667
+}
+```"
+hyperpar_exp3,food truck business in London,"Generate 3 domain names for this business. Business: food truck business in London
+Domains:
+1. food truck business in London domain
+2. food truck business in London with a modern touch domain
+3. food truck business in London for everyone domain
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.2,
+  ""overall"": 0.37
+}
+```"
+hyperpar_exp3,wedding photography business in New York,"Generate 3 domain names for this business. Business: wedding photography business in New York
+Domains: 1. domain for wedding photography business in New York
+2. domain for wedding photography business in Toronto
+3. domain for wedding photography business in London
+
+Domains: 3 domain names for wedding photography business in Paris
+1. domain for wedding","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.1,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp3,digital art marketplace in London,"Generate 3 domain names for this business. Business: digital art marketplace in London
+Domains: 1. domain for this business in London
+2. domain for this business in Dubai
+3. domain for this business in Berlin
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.2,
+  ""validity"": 0.9,
+  ""overall"": 0.4
+}
+```"
+hyperpar_exp3,university consultancy in Paris,"Generate 3 domain names for this business. Business: university consultancy in Paris
+Domains: 1. university consultancy in Paris domain
+Domains: 1. university consultancy in Paris for business
+Domains: 1. university consultancy in Paris for individuals
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.6333333333333333
+}
+```"
+hyperpar_exp3,coding bootcamp in Dubai,"Generate 3 domain names for this business. Business: coding bootcamp in Dubai
+Domains:
+1. coding bootcamp in Dubai domain
+2. coding bootcamp in Dubai for everyone
+3. coding bootcamp in Dubai with a modern touch
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 0.7,
+  ""overall"": 0.5666666666666667
+}
+```"
+hyperpar_exp3,online bookstore in London,"Generate 3 domain names for this business. Business: online bookstore in London
+Domains:
+- https://domain.domain for this business
+- https://domain.domain for this business in Singapore
+- https://domain.domain for this business in Paris
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.63
+}
+```"
+hyperpar_exp3,language tutoring service in Dubai,"Generate 3 domain names for this business. Business: language tutoring service in Dubai
+Domains: 1. domain names: tutoring service in Dubai
+2. domain names: tutoring service in Dubai with a modern touch
+3. domain names: tutoring service in Dubai for everyone
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.7
+}
+```"
+hyperpar_exp3,wedding photography business in San Francisco,"Generate 3 domain names for this business. Business: wedding photography business in San Francisco
+Domains: 1. weddingphotography sanfrancisco
+2. weddingphotography business
+3. wedding photography business in San Francisco
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.7
+}
+```"
+hyperpar_exp3,digital art marketplace in Toronto,"Generate 3 domain names for this business. Business: digital art marketplace in Toronto
+Domains: 1. domain for digital art marketplace in Toronto
+2. domain for digital art marketplace in Toronto with a modern touch
+3. domain for digital art marketplace with a global outreach in Toronto
+","```json
+{
+  ""creativity"": 0.4,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.7
+}
+```"
+hyperpar_exp3,fine dining restaurant in Paris,"Generate 3 domain names for this business. Business: fine dining restaurant in Paris
+Domains: Paris fine dining restaurant domain names
+","```json
+{
+  ""creativity"": 0.6,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.8
+}
+```"
+hyperpar_exp3,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains:
+- 3 domain names for this business in Toronto
+- domestic domain for this business
+- 3 innovative domain names for this business
+- domestic domain for this business with a modern touch
+- 3 domain names with a global reach for this business
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.63
+}
+```"
+hyperpar_exp3,food truck business in New York,"Generate 3 domain names for this business. Business: food truck business in New York
+Domains: food truck business in New York
+Domains: food truck business in London with a modern touch
+Domains: food truck business in Dubai for everyone
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.1,
+  ""validity"": 0.9,
+  ""overall"": 0.3666666666666667
+}
+```"
+hyperpar_exp3,home decor shop in New York,"Generate 3 domain names for this business. Business: home decor shop in New York
+Domains:
+1. home decor shop in New York
+2. home decor shop in Paris
+3. home decor shop in Tokyo
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.2,
+  ""overall"": 0.4
+}
+```"
+hyperpar_exp3,cloud solutions provider in Singapore,"Generate 3 domain names for this business. Business: cloud solutions provider in Singapore
+Domains: cloud solutions provider in Singapore solutions
+Domains: cloud solutions provider in Singapore with a global touch
+Domains: cloud solutions provider in Singapore with a modern touch
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 0.1,
+  ""overall"": 0.3666666666666667
+}
+```"
+hyperpar_exp3,language tutoring service in Berlin,"Generate 3 domain names for this business. Business: language tutoring service in Berlin
+Domains: 1. domain for language tutoring service in Berlin
+2. domain for language tutoring service in Berlin with a modern touch
+3. domain for language tutoring service in Berlin with a global reach
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 0.8,
+  ""overall"": 0.6666666666666666
+}
+```"
+hyperpar_exp3,organic skincare brand in Paris,"Generate 3 domain names for this business. Business: organic skincare brand in Paris
+Domains: organic skincare brand in Paris solutions
+Domains: organic skincare brand in Paris solutions for everyone
+Domains: organic skincare brand in Paris solutions with a modern touch
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.6,
+  ""validity"": 0.3,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp3,online bookstore in Toronto,"Generate 3 domain names for this business. Business: online bookstore in Toronto
+Domains: 1. ontario.domains.com 2. onlinebookstore.ca 3. for this business, there are many options for domain names in Toronto
+","```json
+{
+  ""creativity"": 0.5,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.73
+}
+```"
+hyperpar_exp3,AI-powered healthcare solution for elderly in rural areas in Dubai,"Generate 3 domain names for this business. Business: AI-powered healthcare solution for elderly in rural areas in Dubai
+Domains:
+1. AI-powered healthcare solution for elderly in rural areas in Dubai
+2. Solutions for elderly healthcare in Dubai
+3. Solutions for elderly healthcare business in Dubai
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 0.7,
+  ""overall"": 0.6
+}
+```"
+hyperpar_exp3,environmental NGO in Toronto,"Generate 3 domain names for this business. Business: environmental NGO in Toronto
+Domains: 1. environmental NGO in Toronto
+2. environmental NGO in Toronto for business
+3. environmental NGO in Toronto for nonprofit
+
+For business: 3 domain names for environmental NGO in Toronto
+For nonprofit: 3 domain names for environmental NGO in Toronto
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.2,
+  ""overall"": 0.4
+}
+```"
+hyperpar_exp3,real estate agency in Dubai,"Generate 3 domain names for this business. Business: real estate agency in Dubai
+Domains: 1. domain names for real estate agency in Dubai
+2. domain names with a modern touch for this business
+3. domain names with a global reach for this business
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.1,
+  ""validity"": 0.0,
+  ""overall"": 0.06666666666666667
+}
+```"
+hyperpar_exp3,organic skincare brand in Toronto,"Generate 3 domain names for this business. Business: organic skincare brand in Toronto
+Domains: organic skincare brand in Toronto
+- organic skincare brand in Toronto
+- organic skincare brand in Toronto with a modern touch
+- organic skincare brand in Toronto with a global perspective
+
+Domains: organic skinc","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.8,
+  ""overall"": 0.6
+}
+```"
+hyperpar_exp3,vegan restaurant in Paris,"Generate 3 domain names for this business. Business: vegan restaurant in Paris
+Domains:
+- vegan restaurant in Paris
+- vegan restaurant in London
+- vegan restaurant in Dubai
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.1,
+  ""overall"": 0.3666666666666667
+}
+```"
+hyperpar_exp3,investment firm in Berlin,"Generate 3 domain names for this business. Business: investment firm in Berlin
+Domains: 1. investment firm in Berlin domain
+2. investment firm in Berlin for nonprofit
+3. investment firm in Berlin for graduate program
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.7,
+  ""overall"": 0.53
+}
+```"
+hyperpar_exp3,vegan restaurant in Toronto,"Generate 3 domain names for this business. Business: vegan restaurant in Toronto
+Domains: 1. vegan restaurant in Toronto domain
+Domains: vegan restaurant in Toronto with a modern touch
+Domains: vegan restaurant in Toronto with a cultural touch
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 0.7,
+  ""overall"": 0.63
+}
+```"
+hyperpar_exp3,VR gaming center in San Francisco,"Generate 3 domain names for this business. Business: VR gaming center in San Francisco
+Domains: 1. VR gaming center in San Francisco
+Domains: 2. VR gaming center in Tokyo
+Domains: 3. VR gaming center in Dubai
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.1,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp3,fast-food chain in Paris,"Generate 3 domain names for this business. Business: fast-food chain in Paris
+Domains: 1. fast-food chain in Paris domain
+2. fast-food chain in Paris with a modern touch
+3. fast-food chain in Paris with a global outreach
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 0.4,
+  ""overall"": 0.4666666666666667
+}
+```"
+hyperpar_exp3,personal finance advisory in San Francisco,"Generate 3 domain names for this business. Business: personal finance advisory in San Francisco
+Domains:
+1. personal finance advisory in San Francisco
+2. personal finance advisory in San Francisco for everyone
+3. personal finance advisory in San Francisco for startups
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.7,
+  ""overall"": 0.53
+}
+```"
+hyperpar_exp3,home decor shop in Singapore,"Generate 3 domain names for this business. Business: home decor shop in Singapore
+Domains:
+1. home decor shop in Singapore
+2. home decor shop in Singapore with a modern touch
+3. home decor shop in Singapore with a cultural touch
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.1,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp3,luxury watch retailer in New York,"Generate 3 domain names for this business. Business: luxury watch retailer in New York
+Domains: 1. luxury watch retailer in New York
+Domains: 2. luxury watch retailer in New York for nonprofit
+Domains: 3. luxury watch retailer in New York with a modern touch
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.8,
+  ""validity"": 0.0,
+  ""overall"": 0.33
+}
+```"
+hyperpar_exp3,car rental service in San Francisco,"Generate 3 domain names for this business. Business: car rental service in San Francisco
+Domains: car rental service in San Francisco | car rental service with a modern touch | car rental service for everyone in San Francisco
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.6666666666666666
+}
+```"
+hyperpar_exp3,music label in San Francisco,"Generate 3 domain names for this business. Business: music label in San Francisco
+Domains: 1. music label in San Francisco
+2. music label in San Francisco with a modern touch
+3. music label with a global reach in San Francisco
+
+Domains: 3 solutions for this business in San Francisco
+1. music label in","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.6,
+  ""validity"": 0.1,
+  ""overall"": 0.26666666666666666
+}
+```"
+hyperpar_exp3,podcast production company in Paris,"Generate 3 domain names for this business. Business: podcast production company in Paris
+Domains: 1. domain for podcast production company in Paris
+2. domain for podcast production company in Toronto
+3. domain for podcast production company in London
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.8,
+  ""validity"": 0.9,
+  ""overall"": 0.6
+}
+```"
+hyperpar_exp3,home cleaning service in Dubai,"Generate 3 domain names for this business. Business: home cleaning service in Dubai
+Domains: home cleaning service in Dubai | Dubai home cleaning service | home cleaning service business
+","```json
+{
+  ""creativity"": 0.3,
+  ""relevance"": 0.9,
+  ""validity"": 0.9,
+  ""overall"": 0.7
+}
+```"
+hyperpar_exp3,ice cream parlor in London,"Generate 3 domain names for this business. Business: ice cream parlor in London
+Domains: ice cream parlor in London solutions
+Domains: ice cream parlor in London solutions in New York
+Domains: ice cream parlor in London solutions for business
+","```json
+{
+  ""creativity"": 0.2,
+  ""relevance"": 0.4,
+  ""validity"": 0.8,
+  ""overall"": 0.4666666666666667
+}
+```"
+hyperpar_exp3,mental health counseling service in Paris,"Generate 3 domain names for this business. Business: mental health counseling service in Paris
+Domains: 1. mental health counseling service in Paris
+Domains: 2. mental health counseling service in Berlin
+Domains: 3. mental health counseling service in Dubai
+","```json
+{
+  ""creativity"": 0.1,
+  ""relevance"": 0.9,
+  ""validity"": 0.7,
+  ""overall"": 0.57
+}
+```"
