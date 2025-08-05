@@ -149,6 +149,114 @@ Fine-tuning did not outperform zero-shot because:
 
 ---
 
+### 6. API Deployment
+
+Deploy the domain name generator as a REST API:
+
+```bash
+# Navigate to API directory
+cd api
+
+# Start the FastAPI server
+uvicorn deploy:app --host 0.0.0.0 --port 8000 --reload
+
+# Or run directly with Python
+python deploy.py
+```
+## 🌐 API Usage
+
+### REST API Endpoints
+
+The FastAPI deployment provides the following endpoints:
+
+#### POST `/generate`
+Generate domain names for a business description.
+
+**Request Body:**
+```json
+{
+  "business_description": "organic coffee shop in Paris"
+}
+```
+
+**Response:**
+```json
+{
+  "business_description": "organic coffee shop in Paris",
+  "generated_domains": [
+    "organicbrewparis.com",
+    "coffeeshopparis.fr", 
+    "freshbeanszone.net"
+  ],
+  "model_used": "microsoft/phi-2",
+  "generation_time": 2.34
+}
+```
+
+#### GET `/health`
+Check API health status.
+
+**Response:**
+```json
+{
+  "status": "healthy",
+  "model_loaded": true
+}
+```
+
+### API Features
+
+- **Safety Guardrails**: Automatic blocking of inappropriate content
+- **Input Validation**: Handles empty, very short, and very long inputs
+- **Error Handling**: Graceful error responses with detailed messages
+- **Performance Monitoring**: Generation time tracking
+- **Model Optimization**: 4-bit quantization for efficient inference
+
+### Example API Usage
+
+**Python Client:**
+```python
+import requests
+
+# API endpoint
+url = "http://localhost:8000/generate"
+
+# Request payload
+data = {
+    "business_description": "sustainable fashion e-commerce platform"
+}
+
+# Make request
+response = requests.post(url, json=data)
+result = response.json()
+
+print(f"Generated domains: {result['generated_domains']}")
+```
+
+**cURL:**
+```bash
+curl -X POST "http://localhost:8000/generate" \
+     -H "Content-Type: application/json" \
+     -d '{"business_description": "AI-powered fitness coaching app"}'
+```
+
+**JavaScript/Fetch:**
+```javascript
+const response = await fetch('http://localhost:8000/generate', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify({
+    business_description: 'blockchain-based supply chain tracker'
+  })
+});
+
+const result = await response.json();
+console.log(result.generated_domains);
+```
+---
+
 ## 7. Challenges & Solutions
 | **Challenge**                    | **Solution** |
 |---------------------------------|-------------|

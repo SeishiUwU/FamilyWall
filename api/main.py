@@ -1,5 +1,4 @@
-# Install dependencies (if running locally)
-# !pip install torch fastapi uvicorn transformers accelerate bitsandbytes -q
+# !pip install fastapi uvicorn transformers accelerate bitsandbytes -q
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
@@ -30,7 +29,6 @@ model = AutoModelForCausalLM.from_pretrained(
 print("Model loaded successfully.")
 
 # 3. Safety Guardrail Function
-
 banned_keywords = ["adult", "porn", "sex", "nude", "explicit"]
 
 def is_safe_input(text: str) -> bool:
@@ -75,8 +73,3 @@ def generate_domains(request: DomainRequest):
         domains = ["example1.com", "example2.com", "example3.com"]
 
     return DomainResponse(business_description=description, domain_suggestions=domains[:3])
-
-# 6. Run the server (if local)
-# if __name__ == "__main__":
-#     import uvicorn
-#     uvicorn.run(app, host="0.0.0.0", port=8000)

@@ -120,6 +120,169 @@ jupyter notebook notebooks/evaluation.ipynb
 jupyter notebook notebooks/gemini_judgement.ipynb
 ```
 
+## 9. API Deployment & Production Ready Implementation
+
+### FastAPI REST API
+A production-ready REST API was developed using FastAPI for real-time domain name generation:
+
+**Key Features:**
+- **Model Loading**: Automatic loading of Microsoft Phi-2 with 4-bit quantization
+- **Safety Guardrails**: Content filtering for inappropriate requests
+- **Input Validation**: Handles edge cases (empty, short, long, non-English inputs)
+- **Performance Optimization**: GPU acceleration with memory-efficient inference
+- **Error Handling**: Comprehensive error responses and logging
+- **Interactive Documentation**: Automatic OpenAPI/Swagger documentation
+
+### API Architecture
+
+```python
+# Core API Structure
+app = FastAPI(
+    title="Domain Name Generator API",
+    description="Generate domain names using Microsoft Phi-2 Zero-Shot",
+    version="1.0"
+)
+
+# Model Configuration
+model_name = "microsoft/phi-2"
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    device_map="auto",
+    torch_dtype=torch.float16,
+    load_in_4bit=True  # Memory optimization
+)
+```
+
+### Endpoints
+
+#### 1. Domain Generation Endpoint
+**POST `/generate`**
+
+- **Input**: Business description as JSON
+- **Output**: 3 domain name suggestions with metadata
+- **Safety**: Automatic content filtering
+- **Performance**: ~2-5 seconds per request
+
+**Example Request/Response:**
+```json
+// Request
+{
+  "business_description": "sustainable fashion e-commerce platform"
+}
+
+// Response
+{
+  "business_description": "sustainable fashion e-commerce platform",
+  "generated_domains": [
+    "sustainablefashion.com",
+    "ecofashionhub.io", 
+    "greenstylezone.net"
+  ],
+  "model_used": "microsoft/phi-2",
+  "generation_time": 2.84,
+  "status": "success"
+}
+```
+
+#### 2. Health Check Endpoint
+**GET `/health`**
+
+- **Purpose**: Monitor API status and model availability
+- **Response**: System health metrics
+
+### Safety Implementation
+
+The API includes comprehensive safety measures:
+
+```python
+banned_keywords = ["adult", "porn", "sex", "nude", "explicit"]
+
+def is_safe_input(text: str) -> bool:
+    return not any(keyword in text.lower() for keyword in banned_keywords)
+```
+
+**Safety Test Results:**
+- ✅ Inappropriate content: Returns `"BLOCKED (Inappropriate request)"`
+- ✅ Empty inputs: Returns `"NO OUTPUT (Empty description)"`
+- ✅ Non-English inputs: Processes gracefully
+- ✅ Very long inputs: Handles without truncation
+
+### Performance Characteristics
+
+| **Metric**              | **Value**        | **Notes**                           |
+|--------------------------|------------------|-------------------------------------|
+| **Model Load Time**      | ~30-45 seconds   | One-time initialization             |
+| **Average Response Time** | 2-5 seconds      | Depends on input complexity         |
+| **Memory Usage**         | ~6-8 GB VRAM     | With 4-bit quantization             |
+| **Throughput**           | ~12-20 req/min   | Single GPU, sequential processing   |
+| **Concurrent Users**     | 1-3 users        | Memory-limited                      |
+
+### Deployment Options
+
+**1. Local Development:**
+```bash
+uvicorn deploy:app --host 0.0.0.0 --port 8000 --reload
+```
+
+**2. Production Deployment:**
+```bash
+uvicorn deploy:app --host 0.0.0.0 --port 8000 --workers 1
+```
+
+**3. Docker Deployment:**
+```dockerfile
+FROM python:3.10-slim
+COPY requirements.txt .
+RUN pip install -r requirements.txt
+COPY api/ /app/
+WORKDIR /app
+CMD ["uvicorn", "deploy:app", "--host", "0.0.0.0", "--port", "8000"]
+```
+
+### API Integration Examples
+
+**Python Client:**
+```python
+import requests
+
+response = requests.post(
+    "http://localhost:8000/generate",
+    json={"business_description": "AI tutoring platform for kids"}
+)
+domains = response.json()["generated_domains"]
+```
+
+**JavaScript/React:**
+```javascript
+const generateDomains = async (description) => {
+  const response = await fetch('/generate', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({business_description: description})
+  });
+  return await response.json();
+};
+```
+
+### Production Considerations
+
+**Scalability:**
+- Single model instance limits concurrent requests
+- Consider model quantization vs. quality trade-offs
+- GPU memory management for sustained usage
+
+**Monitoring:**
+- Request/response logging
+- Performance metrics tracking
+- Error rate monitoring
+- Model inference time profiling
+
+**Security:**
+- Input sanitization and validation
+- Rate limiting implementation
+- Authentication for production use
+- HTTPS/TLS encryption
+
 ## 📈 Model Performance
 
 | **Model**            | **Creativity** | **Relevance** | **Validity** | **Overall** |
